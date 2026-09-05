@@ -1,0 +1,2405 @@
+Pandora’s Urn
+
+Pandora’s Urn
+
+Teh Empty Throne pt 2.
+written by Receipts
+
+Pandora’s Urn
+
+Teh Empty Throne pt 2.
+written by Receipts
+
+[Image: 1*qPdlNr-KdY8R14w5QzsmLA.png]
+
+PART I — AFTER THE ORIGIN
+
+Pandora’s Jar asked where CAW came from.
+
+This article asks what happened after it arrived.
+
+The first investigation established a reproducible Ethereum path:
+
+Shiba Inu Deployer-labeled wallet
+ 0xB8f226dDb7bC672E27dffB67e4adAbFa8c0dFA08
+
+↓
+
+81A0 Funding Intermediary wallet
+ 0x81A0daaab45dBbcE68b11E7AEdDd6A0D1970bdeA
+
+↓
+
+CAW Creator/Deployer address
+ 0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005
+
+↓
+
+CAW Token contract
+ 0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+The final funding transfer reached the CAW Creator/Deployer address 140 seconds before CAW was deployed.
+
+That history matters.
+
+But it is not the subject of this article.
+
+The origin is already inside the jar.
+
+Now we open the urn.
+
+Because shortly after CAW appeared, something much stranger was proposed.
+
+Not simply a token.
+
+Not simply another social network.
+
+Not another personality waiting to become its leader.
+
+The first riddle surfaced an image labeled:
+
+Proposal for a decentralized coup for teh ppl by teh ppl
+
+The document recovered through that trail described:
+
+A Manifesto on a Decentralized Social Clearing House … (AKA) CAW
+
+That changes the standard by which CAW should be examined.
+
+If CAW were merely a token, then a minimized ERC-20 and an active market might be enough.
+
+But a decentralized coup makes a larger promise.
+
+A coup against dependency.
+
+Against permanent administrators.
+
+Against irreplaceable developers.
+
+Against one private party becoming the point at which the system can be stopped.
+
+So this investigation asks one question:
+
+Since CAW announced a decentralized coup, did its actual history become decentralized?
+
+Ethereum kept the receipts.
+
+THE COUP TEST
+
+The word coup is important.
+
+Not because it sounds revolutionary.
+
+Because the accompanying proposal gives it technical meaning.
+
+The proposed system envisioned a world where the cawmmunity could build, review, deploy and use a social clearing house without a permanent ruler sitting above it.
+
+In that model:
+
+no single actor should become indispensable;
+
+no developer should retain a hidden ability to cripple the protocol;
+
+no permanent privileged key should sit above everyone else;
+
+public peer review should replace blind trust;
+
+the community should be capable of carrying the system forward;
+
+and eventually it should matter less who originally deployed it.
+
+That gives us a useful test.
+
+For every important event in CAW’s history we can ask:
+
+Did this remove dependency, temporarily preserve it for a practical reason, or move that dependency somewhere else?
+
+That question applies to more than code.
+
+It applies to:
+
+the token
+
+liquidity
+
+custody
+
+the riddles
+
+recovery
+
+development
+
+interpretation
+
+and eventually:
+
+succession
+
+[Image: 1*dbr3mxmQT1tUheBJDLAbkA.png]
+
+One limitation before we continue
+
+FACT
+
+The document commonly called the CAW manifesto is a real Riddle One layer.
+
+UNKNOWN
+
+Its status as the final instruction has not been cryptographically closed.
+
+Riddle One retains unresolved source-selection and secondary-layer questions.
+
+Riddle Two remains unresolved.
+
+Therefore:
+
+The manifesto can be authentic without being terminal.
+
+We can audit CAW against the decentralized-coup standard it surfaced without pretending that the riddle itself is finished.
+
+That distinction will matter later.
+
+HOW TO READ TEH URN
+
+Every major conclusion uses the same labels established in Pandora’s Jar.
+
+FACT — directly observed or deterministically reproduced from a transaction, receipt, calldata, event log, runtime, fixed source artifact, or exact calculation.
+
+INFERENCE — an interpretation supported by those facts but not written directly into the evidence.
+
+UNKNOWN — something the available evidence does not resolve.
+
+STOP CONDITION — the point beyond which a stronger sentence would become storytelling.
+
+A stop condition is not hesitation.
+
+It is the line between what happened and what we want what happened to mean.
+
+THE ADDRESSES THAT MATTER
+
+CAW Creator/Deployer address
+ 0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005
+
+CAW recovery/liquidity/riddle address
+ 0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+WhiteHat address
+ 0xba399a2580785A2dEd740F5e30eC89fB3e617E6e
+
+later receiving/custody address
+ 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+Team Finance locker/proxy
+ 0xe2fe530c047f2d85298b07d9333c05737f1435fb
+
+CAW/WETH Uniswap V2 pair
+ 0x48d20b3e529fb3dd7d91293f80638df582ab2daa
+
+CAW Token contract
+ 0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+dead-pattern / burn-style custody address
+ 0xdEAD000000000000000042069420694206942069
+
+These names describe roles visible in the evidence.
+
+They do not identify the humans behind the keys.
+
+PART II — BEFORE THE RIDDLE, THERE WAS A KEY
+
+Three days after CAW was created, the Creator moved major assets into another wallet.
+
+On April 17, 2022:
+
+CAW Creator/Deployer address
+ 0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005
+
+sent:
+
+200,000,000,000,000 CAW
+
+to:
+
+CAW recovery/liquidity/riddle address
+ 0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+Transaction:
+
+0xb875a9cd6b74facc3d6da59fd350ce69ea07c79b07b598e41bd1cebfdcf4be27
+
+Block:
+
+14600818
+
+UTC:
+
+2022-04-17T04:55:41Z
+
+The Creator also sent the same address:
+
+828.05993074 ETH
+
+Transaction:
+
+0xfd4819de8ad9e68e6a240fddb281db78dc0a46c04b5463e0014d3f880474dd54
+
+UTC:
+
+2022-04-17T05:47:17Z
+
+Minutes later, that wallet participated in CAW’s primary liquidity operation.
+
+Transaction:
+
+0xd7d08f1a17ae5e9b728662cc741273850a2f3860ce0abe4f1d5898c6317e930b
+
+Block:
+
+14601079
+
+UTC:
+
+2022-04-17T05:53:12Z
+
+Nonce:
+
+3
+
+The messenger did not begin as a messenger.
+
+It began as an operator.
+
+THE LOCKS
+
+The next day, the same address interacted with:
+
+Team Finance locker/proxy
+ 0xe2fe530c047f2d85298b07d9333c05737f1435fb
+
+Deposit 6786
+
+Transaction:
+
+0x794957e9b58c7574d6203de84870d375d88718858c22854e6d194b5e4a91121c
+
+Block:
+
+14606012
+
+UTC:
+
+2022-04-18T00:32:26Z
+
+Nonce:
+
+5
+
+This was the LP-related lock later identified as:
+
+deposit 6786
+
+Twenty-six minutes later came another.
+
+Deposit 6789
+
+Transaction:
+
+0x68c62631e191ede3b23b9aa1f97a952d7a5735580c9d7737c183c4931db2a31b
+
+Block:
+
+14606115
+
+UTC:
+
+2022-04-18T00:58:27Z
+
+Nonce:
+
+7
+
+Token:
+
+CAW
+ 0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+Withdrawal address:
+
+0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+Principal:
+
+29,999,999,999,999 CAW
+
+Original unlock:
+
+2022-07-17T00:39:29Z
+
+That number matters.
+
+It will return more than three years later.
+
+Exactly.
+
+TWENTY-ONE DAYS LATER, THE WALLET SPEAKS
+
+On May 9, 2022, the same operational address sent itself:
+
+0.666 ETH
+
+Transaction:
+
+0xfbbcf5338b4a9c35073ac7253afc1a8ee81770d8d3285b80497bbd9c2186ed5b
+
+Block:
+
+14740882
+
+UTC:
+
+2022-05-09T06:30:41Z
+
+Nonce:
+
+10
+
+Decoded input:
+
+58bZfQ1
+
+Riddle One.
+
+Time since deposit 6789 was created:
+
+1,834,334 seconds
+
+or:
+
+21 days, 5 hours, 32 minutes, 14 seconds
+
+WHAT THIS MEANS
+
+The riddle wallet was not simply a mysterious voice appearing from nowhere.
+
+Before Riddle One existed, the same signing authority had already received large quantities of CAW and ETH, managed liquidity and created long-term locks.
+
+So the economic trail and the riddle trail meet at the same Ethereum account.
+
+That makes the riddles part of CAW’s operational provenance.
+
+Not detached mythology.
+
+Not community fan fiction.
+
+The same key that touched the money also spoke to teh hunters.
+
+THE COUP TEST
+
+None of this disproves decentralization.
+
+A project has to begin somewhere.
+
+Somebody has to deploy.
+
+Somebody has to seed liquidity.
+
+Somebody may have to perform initial operational work.
+
+The more important test is what comes afterward:
+
+Does the founding key become unnecessary?
+
+If the operational address is scaffolding, then decentralization can emerge as the scaffolding is removed.
+
+If the entire project continues orbiting that key, the throne may have been denied in language while surviving in function.
+
+For a CAW holder, that distinction matters.
+
+You own CAW.
+
+You do not own the private key controlling:
+
+0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+PART III — THREE TRANSACTIONS
+
+The morning Riddle Two appeared contains one of the cleanest sequences in CAW’s history.
+
+The original unlock threshold for deposit 6789 was:
+
+2022-07-17T00:39:29Z
+
+Later that morning, the same operational wallet submitted three consecutive transactions.
+
+NONCE 11
+
+UTC:
+
+2022-07-17T02:35:17Z
+
+Transaction:
+
+0x87268eb2568fdc4be19396ce1c50a6712ca8cfb8abee880b8d3b767e07ca907d
+
+Block:
+
+15157511
+
+Action:
+
+extend Team Finance deposit:
+
+6786
+
+NONCE 12
+
+Fifty seconds later:
+
+UTC:
+
+2022-07-17T02:36:07Z
+
+Transaction:
+
+0xca616e842c0a0c5e963f6ec5fa7792c636053ba21743029395a1ca53c676d997
+
+Block:
+
+15157518
+
+Decoded calldata:
+
+deposit_id=6789
+new_unlock=1672623569
+
+New unlock:
+
+2023-01-02T01:39:29Z
+
+This transaction was mined:
+
+6,998 seconds
+
+after the original deposit-6789 unlock threshold.
+
+That is:
+
+1 hour, 56 minutes, 38 seconds
+
+NONCE 13
+
+Then:
+
+2022-07-17T03:18:35Z
+
+Transaction:
+
+0xcae4b15350b3ccc2b37fec5caa718560241ec181bc49741d5d1199d1d32412d4
+
+Block:
+
+15157732
+
+Value:
+
+0.999 ETH
+
+Decoded input:
+
+zrUfKaKV
+
+Riddle Two.
+
+THE SEQUENCE
+
+nonce 11
+extend deposit 6786
+
+        ↓ 50 seconds
+
+nonce 12
+extend deposit 6789
+
+        ↓ 42 minutes 28 seconds
+
+nonce 13
+publish zrUfKaKV
+
+Three consecutive nonces.
+
+Two custody actions.
+
+One riddle.
+
+WHAT THIS MEANS
+
+Earlier analysis could make the deposit-6789 extension look like a unique signal immediately preceding Riddle Two.
+
+The fuller sequence changes that interpretation.
+
+Two separate locks were maintained.
+
+That makes routine custody administration more plausible.
+
+But the correction reveals something stronger.
+
+The wallet did not finish custody work on one day and return weeks later to communicate with hunters.
+
+It performed two custody operations and then used its very next nonce to publish Riddle Two.
+
+The hand maintaining the locks and the voice issuing the riddle were the same cryptographic instrument.
+
+THE COUP TEST
+
+This does not prove the locks themselves were clues.
+
+It does not prove the timing was encoded.
+
+It proves something simpler:
+
+riddle authority and custody authority were concentrated in the same key.
+
+A decentralized coup can begin this way.
+
+The harder question is whether it is supposed to remain this way.
+
+STOP CONDITION
+
+The chain proves the sequence.
+
+It does not prove the symbolism.
+
+PART IV — WHEN “NO LEADER” NEEDED AN ANSWER
+
+Then came a real crisis.
+
+On October 27, 2022, Team Finance was exploited.
+
+Transaction:
+
+0xb2e3ea72d353da43a2ac9a8f1670fd16463ab370e563b9b5b26119b2601277ce
+
+Block:
+
+15838225
+
+UTC:
+
+2022-10-27T08:29:23Z
+
+A WhiteHat recovered assets belonging to affected projects.
+
+And suddenly CAW’s philosophy had to answer a very practical question:
+
+If there is no owner and no leader, who can tell the WhiteHat where the money belongs?
+
+The WhiteHat supplied the test.
+
+THE WHITEHAT ASKS FOR A SIGNATURE
+
+[Image: 1*5evHKalkjtgnpcUwOUZm8g.png]
+
+WhiteHat transaction:
+
+0x7d382060b47b43502a3423e9090fff32e30e0c12865041a501fc6dc5bff33349
+
+Block:
+
+15855014
+
+UTC:
+
+2022-10-29T16:50:23Z
+
+From and to:
+
+WhiteHat address
+ 0xba399a2580785A2dEd740F5e30eC89fB3e617E6e
+
+The message instructed affected projects to:
+
+send transaction from token deploy address to new deposit address
+
+The WhiteHat was not asking Telegram.
+
+Not Twitter.
+
+Not whoever had accumulated the most community influence.
+
+The WhiteHat was asking Ethereum.
+
+THE CREATOR KEY ANSWERS
+
+On October 29:
+
+CAW Creator/Deployer address
+ 0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005
+
+sent a message to:
+
+WhiteHat address
+ 0xba399a2580785A2dEd740F5e30eC89fB3e617E6e
+
+Transaction:
+
+0x6f689cc06703d2b7b6123ef11c170851fdfa4acd8ba6586bb373941bccd89492
+
+Block:
+
+15855714
+
+UTC:
+
+2022-10-29T19:11:23Z
+
+The message begins:
+
+thank you whitehat I am CAW DEPLOYER
+
+Then:
+
+CAW is decentralized token and community
+CAW has no owner no leader
+
+Then:
+
+The recovered project token and DAI belong to community not the team
+
+That may be the most important sentence pair in this article.
+
+no owner no leader
+
+and:
+
+belong to community not the team
+
+The philosophy is explicit.
+
+So is the operational reality.
+
+The Creator key still had to authenticate the answer.
+
+WHAT THIS MEANS
+
+CAW had no declared office called Leader.
+
+But it still had functions only certain keys could perform.
+
+During the recovery crisis, the Creator key possessed something nobody else could manufacture through popularity:
+
+origin authentication
+
+It could prove that the instruction actually came from the address that created CAW.
+
+That is authority.
+
+It is not necessarily leadership.
+
+The distinction is crucial.
+
+THE COUP TEST
+
+Leaderlessness does not require historical facts to become unverifiable.
+
+The Creator key being able to authenticate itself is not itself a failure of decentralization.
+
+The important question is what it did with that authority.
+
+Did it direct recovered community value into a system controlled by the community?
+
+Or back into another private operational key?
+
+Ethereum gives us the answer.
+
+PART V — THE LIQUIDITY THAT HAD NO OWNER
+
+The Creator’s first recommendation was strikingly consistent with the decentralized-coup ethos.
+
+It told the WhiteHat to:
+
+convert recovered DAI to ETH;
+
+restore CAW/ETH liquidity;
+
+send the resulting UNI-V2 token to 0x00;
+
+continue decentralization.
+
+The message described the intended result:
+
+liquidity is burned forever
+
+The proposal was simple.
+
+Restore the market.
+
+Then remove the ability to redeem it.
+
+No future custodian.
+
+No future liquidity controller.
+
+No seat.
+
+THEN THE WHITEHAT PUSHED BACK
+
+WhiteHat transaction:
+
+0xe8396939430546f84ef4c191f30b2306cb6d21caba7801d90e68cedb18d3bde0
+
+Block:
+
+15861297
+
+UTC:
+
+2022-10-30T13:52:35Z
+
+The WhiteHat raised a practical objection:
+
+whitehat concern about fee from uniswap go to no one if burn token
+
+and:
+
+mean can no take out weth for ever and fee go to no one
+
+It then proposed four alternatives.
+
+Option 1
+
+DAO.
+
+Option 2
+
+V3 liquidity.
+
+Option 3
+
+Gnosis wallet and community voting.
+
+Option 4
+
+caw tell whitehat what do
+
+Then the Creator answered.
+
+TWO DIFFERENT OPTION FOURS
+
+This distinction must remain precise.
+
+The Creator’s original recommendation number four was:
+
+decentralization continue
+
+The WhiteHat’s later option four was:
+
+caw tell whitehat what do
+
+They were different numbered lists.
+
+Creator transaction:
+
+0xd530842eb931fc3a90060f81813e3c185a6acf9df8b6600e8ae8473608a6beb9
+
+Block:
+
+15862641
+
+UTC:
+
+2022-10-30T18:22:35Z
+
+The Creator writes:
+
+CAW DEPLOYER accept option 4
+
+Then immediately defines the instruction:
+
+send DAI minus bounty and all CAW Project Token
+ to same address that before Lock Liquidity
+
+Address:
+
+0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+The Creator then confirms that destination separately.
+
+Transaction:
+
+0x2baf4b4c89f2ac1681a10d6df847a953b65072b6efd7af5ad8fcbb7dd51badd6
+
+From:
+
+CAW Creator/Deployer address
+ 0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005
+
+To:
+
+CAW recovery/liquidity/riddle address
+ 0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+Value:
+
+0.666 ETH
+
+Decoded message:
+
+Please send DAI and project token to this address
+
+The destination was not chosen by community rumor.
+
+The deployer key authenticated it.
+
+THE ASSETS ARRIVE
+
+The WhiteHat then followed the instruction.
+
+DAI
+
+5,073,000 DAI
+
+From:
+
+0xba399a2580785A2dEd740F5e30eC89fB3e617E6e
+
+To:
+
+0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+Transaction:
+
+0x6c6fe124628b2d0e1bd30c07acb0c1c1b5e9983fc9c309d0721dc25d70d36d95
+
+CAW
+
+74,613,657,577,043.894100214078695625 CAW
+
+From:
+
+0xba399a2580785A2dEd740F5e30eC89fB3e617E6e
+
+To:
+
+0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+Transaction:
+
+0x5517889ece1232792d56972ad09f79e48534c6663dbd10834dec9cf6cba3d324
+
+WHAT THIS MEANS
+
+The crisis exposed three different concepts that are often collapsed into one word.
+
+The Creator key had authentication authority.
+
+The recovered value was described as belonging to the community.
+
+The recovery/liquidity/riddle address received technical custody.
+
+Those are three different things.
+
+A community may morally own an asset while a private key technically controls it.
+
+That is precisely the kind of distinction a decentralized project must eventually resolve.
+
+THE RESTORED LP
+
+On October 31, 2022, new CAW/WETH V2 LP tokens were minted to:
+
+CAW recovery/liquidity/riddle address
+ 0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+Transaction:
+
+0x4f25b231fdefa63d4b23a886caaa9d1caf8181be6c13ffcaec0a26bb75671453
+
+Minted amount:
+
+0.007828282117471017 UNI-V2
+
+Raw:
+
+7,828,282,117,471,017
+
+Years later, every one of those raw units can be classified.
+
+[Image: 1*DfnyqUNA0KDHQ9aJ12ccSw.png]
+
+WHERE THE LP WENT
+
+Directly redeemed from the operational address:
+
+4,183,433,963,576,511
+
+Transferred to:
+
+later receiving/custody address
+ 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+1,844,848,153,894,506
+
+Transferred to:
+
+dead-pattern / burn-style custody address
+ 0xdEAD000000000000000042069420694206942069
+
+1,800,000,000,000,000
+
+The equation closes:
+
+4,183,433,963,576,511
++1,844,848,153,894,506
++1,800,000,000,000,000
+----------------------
+7,828,282,117,471,017
+
+Delta: 0
+
+The later-custody LP tranches were also subsequently returned to the V2 pair in their exact quantities.
+
+Final economic classification:
+
+77.0064495251% redeemed
+
+22.9935504749% transferred to dead-pattern custody
+
+0 raw-unit difference
+
+WHAT THIS MEANS
+
+The Creator initially proposed that the restored LP become permanently inaccessible.
+
+That is not what ultimately happened.
+
+But the chain does not show a secret betrayal of the original instruction.
+
+The WhiteHat challenged the economics first.
+
+The Creator then selected another route.
+
+The plan visibly changed before the assets returned.
+
+Most of the restored LP remained operable and was eventually redeemed.
+
+THE COUP TEST
+
+This is where ideological purity met practical economics.
+
+Burning every LP token would have maximized immutability.
+
+It would also have eliminated every future ability to recover the underlying WETH.
+
+Keeping the LP accessible preserved flexibility.
+
+But flexibility belongs to whoever controls the key.
+
+That is the tradeoff.
+
+The coup was not necessarily abandoned.
+
+But neither was liquidity control fully eliminated.
+
+WHAT THIS MEANS FOR A CAW HOLDER
+
+A holder may own a token with no conventional administrator while still trading in a market whose important liquidity has historically depended on private-key custody.
+
+Those are separate decentralization layers.
+
+So when someone says:
+
+CAW is decentralized
+
+the next question should be:
+
+Which part?
+
+The token?
+
+The liquidity?
+
+The custody?
+
+The application?
+
+The frontend?
+
+The interpretation?
+
+The deployment authority?
+
+Decentralization is not one switch.
+
+BURNED IS NOT ALWAYS BURNED
+
+One correction from the earlier record deserves to remain permanent.
+
+When Uniswap V2 liquidity is removed, the LP token is destroyed as part of redemption.
+
+But the underlying assets return to the redeemer.
+
+That does not mean the economic value was destroyed.
+
+And when LP or CAW is sent to:
+
+0xdEAD000000000000000042069420694206942069
+
+the transaction proves custody at a deliberately dead-looking address.
+
+It does not prove mathematically that no private key exists.
+
+Therefore the precise term used here is:
+
+dead-pattern / burn-style custody
+
+Not:
+
+proven permanent destruction
+
+Proof should survive the language used to describe it.
+
+[Image: 1*YgCQ4eSd1zVmlEs9xbJbdQ.png]
+
+PART VI — THE FIRST EMPTY SEAT
+
+The first struggle over authority was not financial.
+
+It was interpretive.
+
+Riddle One eventually surfaced the document the community came to call the manifesto.
+
+But preserved early discussion shows that the cawmmunity did not unanimously agree the hunt was over.
+
+Enkidu wrote:
+
+I’m just like you
+
+Then:
+
+Doctors vs hunters.
+
+Then:
+
+Hunters should stay here
+
+A forwarded group event identifies:
+
+Doctors (builders) to new group
+
+Later:
+
+Half of us are starting to build
+
+While another contemporaneous line records:
+
+The others are looking for more clues and say it’s a false trail.
+
+Another hunter captured the standard more cleanly:
+
+i need proof before i believe
+
+and:
+
+signed tx
+
+WHAT THIS MEANS
+
+The cawmmunity encountered the same problem socially that it had encountered economically.
+
+There was no official throne.
+
+But decisions still had to be made.
+
+Is the riddle solved?
+
+Is the manifesto final?
+
+Should the hunters keep hunting?
+
+Should builders start building?
+
+No smart contract could answer those questions.
+
+So influence accumulated around people.
+
+That is normal human behavior.
+
+It is also where leaderless systems become vulnerable.
+
+A seat does not have to be officially created for people to begin treating someone as if they occupy it.
+
+THE COUP TEST
+
+The problem is not that respected people exist.
+
+A decentralized community can have brilliant developers, researchers, educators and organizers.
+
+The test is whether their authority remains contestable.
+
+Can anyone independently verify the claim?
+
+Can another builder create a competing implementation?
+
+Can the community reject an interpretation?
+
+Can the system survive if the most influential person disappears?
+
+That is the difference between leadership by contribution and authority by dependency.
+
+THE MANIFESTO PROBLEM
+
+The manifesto is real.
+
+Its finality remains unresolved.
+
+Those two statements can coexist.
+
+FACT
+
+The document is a recoverable Riddle One layer.
+
+FACT
+
+The first riddle retains unresolved source-selection questions.
+
+FACT
+
+The “original 11,” “12th” and red-herring warning remain relevant.
+
+FACT
+
+Riddle Two remains unresolved.
+
+Therefore:
+
+A readable layer is not automatically the last layer.
+
+This matters because the manifesto did more than give the cawmmunity philosophy.
+
+It gave builders a specification.
+
+If the specification is terminal, implementation can be judged against it.
+
+If it is only one layer, years of building may have occurred while another instruction remained unopened.
+
+For a CAW holder, that is not trivia.
+
+What the community believes CAW is determines what gets built around CAW.
+
+PART VII — TEH APPOINTED PLACE
+
+After the WhiteHat recovery, the Creator left another on-chain message.
+
+Transaction:
+
+0x7903adbb7ab03521da9951d63cc9050ee005dfa871ba3f6d3e20d0bb941f5c37
+
+From:
+
+CAW Creator/Deployer address
+ 0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005
+
+To:
+
+WhiteHat address
+ 0xba399a2580785A2dEd740F5e30eC89fB3e617E6e
+
+Decoded:
+
+teh appointed time and appointed place.
+ be well whitehat
+
+https://pastebin.com/yhcajZq0
+
+https://github.com/cawdevelopment
+
+That gives:
+
+github.com/cawdevelopment
+
+something stronger than social recognition.
+
+It gives it Creator-linked provenance.
+
+WHAT THIS MEANS
+
+The Creator authenticated a place.
+
+It did not cryptographically appoint an eternal line of successors.
+
+That distinction is essential.
+
+A namespace can have legitimate provenance.
+
+A later builder can produce legitimate work.
+
+Neither fact automatically proves that every future implementation inheriting the brand inherits the Creator’s authority.
+
+THE COUP TEST
+
+In a genuinely decentralized system, this is exactly where the Creator should eventually become less important.
+
+An authenticated repository can seed the code.
+
+From there, legitimacy should increasingly come from:
+
+open source;
+
+reproducible builds;
+
+public deployment;
+
+peer review;
+
+transparent state;
+
+permissionlessness;
+
+and the absence of irreplaceable authority.
+
+The Creator can point to the door.
+
+The coup succeeds only when nobody needs the Creator to decide who may walk through
+
+PART VIII — SEPTEMBER 22, 2025
+
+Three years later, the original recovery/liquidity/riddle address became active in a very different way.
+
+On September 22, 2025:
+
+CAW recovery/liquidity/riddle address
+ 0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+submitted twelve consecutive successful normal Ethereum transactions.
+
+Nonces:
+
+37 through 48
+
+This was not one transfer.
+
+It was an unwinding.
+
+THE TERMINAL BATCH
+
+Nonce 37
+
+100 ETH
+
+to:
+
+later receiving/custody address
+ 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+Transaction:
+
+0xb9847308461a1ade60cb8a467008535ef803f9481fb209628e9b068d48ebdff1
+
+Nonce 38
+
+0.001344848153894506 UNI-V2
+
+to:
+
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+Transaction:
+
+0xd5896bb2efd9092042e6206507e363645b0060f2a265978151d8c420ecb9fb9a
+
+Nonce 39
+
+0.0005 UNI-V2
+
+to:
+
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+Transaction:
+
+0x30a01d1e248ed4b53df31a253f9f95e6b34ba9a3324ba6ff87a6c709d2b3d68d
+
+Nonce 40
+
+0.0018 UNI-V2
+
+to:
+
+dead-pattern / burn-style custody address
+ 0xdEAD000000000000000042069420694206942069
+
+Transaction:
+
+0xaba75d8115dccda1412b74df701bc96f4b06706e6689bc3bd3ffcb13a1537106
+
+Nonce 41
+
+1,061 ETH
+
+to:
+
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+Transaction:
+
+0x33dc009d80a310bd0b46077bc347ee06c049c3b13652568f292d21e1be5b8df5
+
+Nonce 42
+
+12,002,000,005,000.000000000009997 CAW
+
+to:
+
+0xdEAD000000000000000042069420694206942069
+
+Transaction:
+
+0xd8afb3f3ba6453a7f59e9b10ab5eb90f799e9c23e0bb7257b9755d8c2737984e
+
+Nonce 43
+
+554,146.945589 USDC
+
+to:
+
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+Transaction:
+
+0x1bc77d2414d4cbe094c5cc38dacda8eec2abe8f1c2b35e28cd65ed0f5fc0acc8
+
+Nonce 44
+
+30,000,000,000,000 CAW
+
+to:
+
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+Transaction:
+
+0xab8dc24f97ed75a4cd332d98df0bc955d009e239abb1babfb1368466c5b12ff6
+
+Nonce 45
+
+Full Uniswap V3 position exit.
+
+Transaction:
+
+0xb6ea083781e792446a47351c8a9042037a925c806c3c99136dd9481d430f9dba
+
+CAW received:
+
+9,870,367,006,085.165025899380060047 CAW
+
+Nonce 46
+
+The exact V3 CAW amount moves to:
+
+0xdEAD000000000000000042069420694206942069
+
+Transaction:
+
+0x070a7916a6c02f67c40f65a334e8fb683e3e277cf3cae99c874b1a5253e75dcb
+
+Then came the transaction this article is named around.
+
+PART IX — NINETY-SIX SECONDS
+
+At:
+
+2025-09-22T13:47:59Z
+
+Team Finance returned deposit 6789.
+
+Transaction:
+
+0x6796494bd076f463130da75c48d74695f79bea108ea4129922417f0e7373a0e6
+
+From:
+
+Team Finance locker/proxy
+ 0xe2fe530c047f2d85298b07d9333c05737f1435fb
+
+To:
+
+CAW recovery/liquidity/riddle address
+ 0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+Amount:
+
+29,999,999,999,999 CAW
+
+The exact principal locked on April 18, 2022.
+
+No rounding difference.
+
+No partial withdrawal.
+
+The same object.
+
+Then:
+
+96 seconds later
+
+Transaction:
+
+0x3fdf673fa8b5469624ad9832dc32bca644ec4199fc0433eff13c0d9a52d335b1
+
+From:
+
+CAW recovery/liquidity/riddle address
+ 0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+To:
+
+later receiving/custody address
+ 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+Amount:
+
+29,999,999,999,999 CAW
+
+Exactly.
+
+THEN THE OLD WALLET GOES QUIET
+
+In the fresh normal-transaction history reconstructed through the August 2026 research cutoff, that nonce-48 transfer is the final normal transaction found signed by:
+
+0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+FACT
+
+No later BA-signed normal Ethereum transaction appeared in the tested history through that cutoff.
+
+STOP CONDITION
+
+That does not prove the address can never sign again.
+
+It is a frozen historical observation.
+
+WHAT THIS MEANS
+
+Deposit 6789 gives us something unusually clean.
+
+An identifiable custody object survives the entire story.
+
+April 2022:
+
+locked.
+
+July 2022:
+
+extended.
+
+September 2025:
+
+withdrawn.
+
+Ninety-six seconds later:
+
+forwarded intact to another address.
+
+Then the old operational address stops signing normal transactions in the history tested.
+
+This is stronger than saying two wallets “look connected.”
+
+It is a direct asset lineage.
+
+THE COUP TEST
+
+Migration itself is not a violation of decentralization.
+
+Assets move.
+
+Operators change.
+
+Systems evolve.
+
+The important question is whether the mechanism governing that transition is visible to the cawmmunity.
+
+No public transaction reviewed here says:
+
+the community selected this new custodian
+
+or:
+
+this address is now the official treasury
+
+or:
+
+this is a constitutional succession
+
+The chain shows the move.
+
+It does not show a public governance process behind the move.
+
+That is the difference between:
+
+transparent custody
+
+and:
+
+decentralized custody
+
+PART X — WHAT MOVED INTO THE NEW SEAT?
+
+During the terminal batch:
+
+later receiving/custody address
+ 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+received directly from the old operational address:
+
+ETH
+
+1,161 ETH
+
+USDC
+
+554,146.945589 USDC
+
+CAW
+
+59,999,999,999,999 CAW
+
+CAW/WETH LP
+
+0.001844848153894506 UNI-V2
+
+The LP did not simply remain there.
+
+It was redeemed.
+
+The address acted.
+
+THE 1,161 ETH EQUATION
+
+Direct ETH:
+
+100
++ 1061
+=
+1161 ETH
+
+Other tiny positive inbounds:
+
+0.000001011000000554 ETH
+
+Reconstructed gas spent:
+
+0.001308438979150632 ETH
+
+Result:
+
+1161
++0.000001011000000554
+-0.001308438979150632
+=
+1160.998692572020849922 ETH
+
+That matches the frozen reconstructed account state.
+
+WHAT THIS MEANS
+
+The 1,161 ETH was not merely gas funding.
+
+Nearly all of it remained.
+
+Combined with the LP redemption activity, the receiving address behaved like an operational custodian rather than a disposable relay.
+
+That is meaningful.
+
+It is not enough to call it an official treasury.
+
+STOP CONDITION
+
+The evidence does not prove:
+
+theft;
+
+payment;
+
+ownership;
+
+same human;
+
+same private key;
+
+formal succession;
+
+or official treasury status.
+
+The supported description remains:
+
+later receiving/custody address
+
+And the event:
+
+functional custody handoff
+
+That phrase says exactly what the chain proves.
+
+No more.
+
+No less.
+
+[Image: 1*ZxAvWd4LNIalP57UDdOAlQ.png]
+
+PART XI — SO DID THE COUP HAPPEN?
+
+Now we can compare the evidence against the proposal.
+
+Not sentiment.
+
+Not branding.
+
+The architecture.
+
+1. THE TOKEN
+
+CAW’s deployed token contract is highly authority-minimized.
+
+The accepted runtime audit found no conventional:
+
+owner;
+
+upgrade proxy;
+
+continuing mint authority;
+
+pause;
+
+blacklist;
+
+tax;
+
+or privileged transfer switch.
+
+At the token-contract level, the decentralized-coup thesis performs well.
+
+There is little throne left inside CAW itself.
+
+COUP TEST
+
+STRONG PASS — TOKEN AUTHORITY
+
+This is the part of CAW that most clearly behaves according to the proposal.
+
+2. THE LIQUIDITY
+
+The result is more complicated.
+
+Liquidity was initially established by an operational wallet.
+
+Part of it was locked.
+
+Later liquidity was restored following the WhiteHat exploit.
+
+The Creator initially proposed permanently removing LP redemption custody.
+
+That proposal changed.
+
+Most restored LP remained usable and was ultimately redeemed.
+
+COUP TEST
+
+PARTIAL — LIQUIDITY CUSTODY
+
+The system avoided hidden token-contract control.
+
+It did not eliminate all private-key control over liquidity.
+
+3. THE RIDDLES
+
+The riddles are authentically connected to the operational address.
+
+Riddle One:
+
+58bZfQ1
+
+Riddle Two:
+
+zrUfKaKV
+
+were published through the same key used for custody administration.
+
+The first surfaced a decentralized-coup proposal.
+
+The second remains unresolved.
+
+COUP TEST
+
+OPEN — SPECIFICATION
+
+The cawmmunity cannot definitively say the specification is complete while the originating puzzle remains unfinished.
+
+4. INTERPRETATION
+
+Hunters and builders separated early.
+
+Some accepted the recovered document as sufficient direction.
+
+Others kept hunting.
+
+Influence developed socially.
+
+No Creator-signed office of interpreter has been established.
+
+COUP TEST
+
+SOCIAL / CONTESTABLE
+
+Influence is not centralization by itself.
+
+It becomes centralization when the system cannot function, evolve, or disagree without the influential actor.
+
+That distinction must be preserved.
+
+5. DEVELOPMENT
+
+The Creator later pointed on-chain to:
+
+github.com/cawdevelopment
+
+That is genuine provenance.
+
+It establishes a place the Creator authenticated.
+
+It does not create an eternal chain of appointments.
+
+COUP TEST
+
+OPEN — CANONICAL DEVELOPMENT
+
+A decentralized development process should eventually make the identity of the original builder less important.
+
+The code should win because anybody can inspect it, reproduce it, deploy it and verify its state.
+
+Not because someone inherited a crown.
+
+6. CUSTODY
+
+This is the weakest layer.
+
+The CAW recovery/liquidity/riddle address held major operational power for years.
+
+Then, on September 22, 2025, a substantial package moved to:
+
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+including the exact three-year Team Finance principal.
+
+No public governance mechanism explaining that recipient has been established.
+
+COUP TEST
+
+UNRESOLVED — CUSTODY
+
+The transactions are transparent.
+
+The authority model is not.
+
+THE ANSWER
+
+So:
+
+Has CAW been decentralized since the decentralized coup was announced?
+
+The evidence does not support a simple yes.
+
+It also does not support a simple no.
+
+The more accurate answer is:
+
+CAW decentralized different layers to different degrees.
+
+The token contract moved very far.
+
+Liquidity moved partway.
+
+The riddle specification remains unfinished.
+
+Social authority remained contestable but influential.
+
+Development provenance exists without a proven hereditary authority chain.
+
+Custody remained concentrated in identifiable private keys and later migrated without a public governance receipt.
+
+That is a much more interesting result than either slogan.
+
+PART XII — THE EMPTY SEAT
+
+CAW did something unusual.
+
+It removed the throne before it finished replacing all the functions that normally happen from one.
+
+The contract could be ownerless.
+
+Someone still had to seed liquidity.
+
+Someone still had to lock assets.
+
+Someone still published the riddles.
+
+Someone had to authenticate the WhiteHat recovery.
+
+Someone had to receive the returned assets.
+
+Someone later moved them.
+
+Someone had to interpret what the riddle meant.
+
+Someone had to build.
+
+The absence of a formal leader did not eliminate those functions.
+
+It separated them.
+
+That may be the real architecture hidden inside the story.
+
+AUTHORITY, DECOMPOSED
+
+[Image: 1*r8gfYtcnv5Hkb9jBBT0YGw.png]
+
+Origin authentication
+
+0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005
+
+Operational custody
+
+0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+Riddle publication
+
+0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+Interpretation
+
+social actors / hunters / builders
+
+Development provenance
+
+github.com/cawdevelopment
+
+Later custody
+
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+No receipt reviewed here proves that one human inherited all of these functions.
+
+No receipt proves that nobody did.
+
+That is the empty seat.
+
+WHAT THIS MEANS FOR A CAW HOLDER
+
+A CAW holder is not exposed to one thing.
+
+You are exposed to a stack.
+
+The token
+
+A strongly minimized ERC-20.
+
+The market
+
+Liquidity whose history includes private operational custody.
+
+The riddles
+
+An unfinished specification layer.
+
+The coup
+
+A proposal to make centralized dependency unnecessary.
+
+The builders
+
+People who may create useful implementations without automatically becoming CAW’s constitutional authority.
+
+The custody
+
+Addresses holding economically important assets that holders can see but do not directly govern.
+
+So the most important question for a CAW holder may not be:
+
+who is the leader?
+
+The proposal already answered that.
+
+Nobody should need one.
+
+The harder question is:
+
+Which parts of CAW can already survive without whoever currently holds the key?
+
+That is the coup test.
+
+If a person disappears and nothing breaks, decentralization won.
+
+If the system waits for the person to return, the throne still exists somewhere.
+
+WHAT THE EVIDENCE DOES NOT PROVE
+
+It does not prove Ryoshi personally created CAW.
+
+It does not prove the SHIB provenance branch is coincidence.
+
+It does not prove one person controlled every CAW wallet.
+
+It does not prove different wallets had different human controllers.
+
+It does not make:
+
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+an official treasury.
+
+It does not make that address a successor.
+
+It does not appoint Enkidu.
+
+It does not prove the dead-pattern address is cryptographically inaccessible.
+
+It does not prove Riddle One is finished.
+
+It does not prove Riddle Two is finished.
+
+It does not prove the manifesto is fake.
+
+It does not prove the manifesto is final.
+
+It does not prove CAW is fraudulent.
+
+And it does not prove every layer surrounding CAW is decentralized simply because the token contract is.
+
+Those boundaries are not weaknesses in the investigation.
+
+They are what make the conclusions useful.
+
+THE STRONGEST SUPPORTED THESIS
+
+CAW announced:
+
+a decentralized coup for teh ppl by teh ppl
+
+And the chain shows that the coup was not merely rhetoric.
+
+Something real was removed.
+
+CAW’s token contract contains remarkably little conventional administrative authority.
+
+The Creator explicitly denied ownership and leadership.
+
+Recovered assets were described as belonging to the community.
+
+Public development was pointed toward.
+
+The community was expected to build.
+
+But the rest of the system did not decentralize all at once.
+
+Operational authority survived.
+
+Custody survived.
+
+Interpretive authority emerged.
+
+Liquidity remained partly controllable.
+
+Then custody moved again.
+
+So the strongest evidence-based conclusion is not:
+
+CAW is centralized.
+
+And it is not:
+
+CAW is fully decentralized.
+
+It is:
+
+CAW began a decentralization process that succeeded most clearly at the token-contract layer while leaving important operational, custody and interpretive functions unresolved.
+
+Perhaps that was always the point.
+
+A coup does not happen because somebody announces that the king is gone.
+
+It happens when nobody needs the throne anymore.
+
+CAW removed the title.
+
+The chain shows us where the remaining functions went.
+
+And one by one, those functions can now be audited.
+
+The throne was denied.
+
+The functions survived.
+
+The seat stayed empty.
+
+The keys moved.
+
+— XT
+
+for teh ppl
+
+SOMETHING UNDER THE URN
+
+There is one branch I have intentionally left mostly outside this investigation.
+
+The appointed place led to builders.
+
+The builders led to other claims.
+
+Those claims led to other tokens.
+
+Other deployers.
+
+Other chains.
+
+Other projects carrying the same whisper:
+
+Ryoshi.
+
+One name appears near that transition.
+
+Gilgamesh.
+
+That name is not the conclusion of this article.
+
+It is the entrance to another one.
+
+Because the next question is no longer:
+
+Who controls CAW?
+
+It is larger.
+
+What happens when every token alleged to be “Ryoshi’s next project” is placed on the same transaction graph?
+
+Funding.
+
+Deployment.
+
+Shared intermediaries.
+
+Contract fingerprints.
+
+Custody.
+
+Cross-chain wallets.
+
+Liquidity.
+
+Repositories.
+
+Not mythology beside mythology.
+
+Receipts beside receipts.
+
+That investigation does not belong inside the urn.
+
+It belongs inside something that has not been opened yet.
+
+The box remains closed.
+
+RECEIPTS BELOW TEH URN
+
+The narrative ends here.
+
+Everything below exists so the reader can distrust the author and reproduce the evidence anyway.
+
+CORE ADDRESS DIRECTORY
+
+Shiba Inu Deployer-labeled wallet
+0xB8f226dDb7bC672E27dffB67e4adAbFa8c0dFA08
+
+81A0 Funding Intermediary wallet
+0x81A0daaab45dBbcE68b11E7AEdDd6A0D1970bdeA
+
+CAW Creator/Deployer address
+0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005
+
+CAW recovery/liquidity/riddle address
+0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+WhiteHat address
+0xba399a2580785A2dEd740F5e30eC89fB3e617E6e
+
+later receiving/custody address
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+Team Finance locker/proxy
+0xe2fe530c047f2d85298b07d9333c05737f1435fb
+
+CAW Token contract
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+CAW/WETH Uniswap V2 pair
+0x48d20b3e529fb3dd7d91293f80638df582ab2daa
+
+dead-pattern / burn-style custody
+0xdEAD000000000000000042069420694206942069
+
+THE COMPLETE WHITEHAT EXCHANGE
+
+The original spelling is preserved.
+
+WhiteHat — initial message
+
+Transaction:
+
+0x7d382060b47b43502a3423e9090fff32e30e0c12865041a501fc6dc5bff33349
+
+From / To:
+
+0xba399a2580785A2dEd740F5e30eC89fB3e617E6e
+
+whitehat conclude company owner suspicious history
+ whitehat discover very obvious exploit to obvious
+ whitehat if communicate exploit can set off inside job and frame whitehat
+ whitehat choose recover fund of project to save project
+ whitehat moves funds to safe place
+ team finance statement suspicious and inaccurate
+ whitehat suspicion grow of team finance
+ whitehat initiate contact to team finance
+ team finance reject communicate on neutral ground
+ team finance act strange
+ whitehat try best to communicate safely
+ team finance do not care about money
+ team finance lose no money only user
+ team finance interest not user interest
+
+whitehat send same message to project owners
+ project owners
+ post on twitter your deposit address
+ post your whitehat bounty percent
+ send transaction from token deploy address to new deposit address
+ wait be patient
+ fund will be sent when confirm deposit address safe
+ receive all token back if hold
+ receive dai or eth from pool value at time of fund move minus bounty pool percent
+ recover complete
+
+CAW Creator/Deployer response
+
+Transaction:
+
+0x6f689cc06703d2b7b6123ef11c170851fdfa4acd8ba6586bb373941bccd89492
+
+From:
+
+0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005
+
+To:
+
+0xba399a2580785A2dEd740F5e30eC89fB3e617E6e
+
+thank you whitehat I am CAW DEPLOYER
+
+CAW is decentralized token and community
+CAW has no owner no leader
+The recovered project token and DAI belong to community not the team
+
+CAW DEPLOYER acts on his own. with no advise from team finance or CAW TWITTER
+
+CAW DEPLOYER welcomes whitehat to teh cawmunnity
+
+CAW DEPLOYER recommends
+
+1 — whitehat change dai to eth as it is better currency
+2 — whitehat adds to UNIV2 Liquidity the full amount of ETH and CAW minus the bounty
+3- whitehat sends UNI-V2 Token to 0x00 burn address so that liquidity is burned forever
+4 -decentralization continue
+
+NOTE:
+
+whitehat can decide bounty amount which is fair that support teh cawwmunity growth
+
+team finance may also offer bounty. that is team finance decision according to their reputation
+
+When adding UNIV2 CAW/ETH pair bad actor may try to manipulate pool price, please help to balance the pool to correct price with recovered funds before adding CAW/ETH LP
+
+thank you whitehat
+
+WhiteHat — options
+
+Transaction:
+
+0xe8396939430546f84ef4c191f30b2306cb6d21caba7801d90e68cedb18d3bde0
+
+From / To:
+
+0xba399a2580785A2dEd740F5e30eC89fB3e617E6e
+
+The decisive section reads:
+
+whitehat concern about fee from uniswap go to no one if burn token
+ fee from pool should go to community or fund future
+
+1 option
+ caw become dao by community
+
+2 option
+ whitehat create v3 pool
+
+3 option
+ caw make gnosis wallet own by team and community
+
+4 option
+ caw tell whitehat what do
+
+The full byte-preserved transcript is frozen locally at:
+
+PATH=
+[RESEARCH_PATH_REDACTED]
+
+SHA256=
+1900bfea618d6576a643ade6e729546d9acd5c4920893ec7eb0d7075afc4a394
+
+Creator selects WhiteHat option 4
+
+Transaction:
+
+0xd530842eb931fc3a90060f81813e3c185a6acf9df8b6600e8ae8473608a6beb9
+
+hello whitehat
+
+CAW DEPLOYER accept option 4
+
+CAW DEPLOYER ask whitehat to
+ send DAI minus bounty and all CAW Project Token
+ to same address that before Lock Liquidity
+
+0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+
+CAW DEPLOYER will confirm this address by sending a transaction on teh blockchain to this address
+
+have a nice day whitehat
+
+Creator confirms the address
+
+Transaction:
+
+0x2baf4b4c89f2ac1681a10d6df847a953b65072b6efd7af5ad8fcbb7dd51badd6
+
+hello whitehat
+
+Please send DAI and project token to this address
+
+thank you whitehat
+
+The appointed place
+
+Transaction:
+
+0x7903adbb7ab03521da9951d63cc9050ee005dfa871ba3f6d3e20d0bb941f5c37
+
+teh appointed time and appointed place.
+ be well whitehat
+
+https://pastebin.com/yhcajZq0
+
+https://github.com/cawdevelopment
+
+MINIMAL PUBLIC VERIFICATION
+
+Historical claims can be checked without trusting an explorer label.
+
+For example:
+
+RPC="https://ethereum.publicnode.com"
+TX="0x3fdf673fa8b5469624ad9832dc32bca644ec4199fc0433eff13c0d9a52d335b1"
+
+curl -sS --max-time 30 \
+  -H 'content-type: application/json' \
+  --data "{\"jsonrpc\":\"2.0\",\"id\":1,\"method\":\"eth_getTransactionByHash\",\"params\":[\"$TX\"]}" \
+  "$RPC" | python3 -m json.tool
+
+Receipt:
+
+curl -sS --max-time 30 \
+  -H 'content-type: application/json' \
+  --data "{\"jsonrpc\":\"2.0\",\"id\":1,\"method\":\"eth_getTransactionReceipt\",\"params\":[\"$TX\"]}" \
+  "$RPC" | python3 -m json.tool
+
+To decode the Creator’s plaintext WhiteHat message:
+
+RPC="https://ethereum.publicnode.com"
+TX="0x6f689cc06703d2b7b6123ef11c170851fdfa4acd8ba6586bb373941bccd89492"
+
+curl -sS --max-time 30 \
+  -H 'content-type: application/json' \
+  --data "{\"jsonrpc\":\"2.0\",\"id\":1,\"method\":\"eth_getTransactionByHash\",\"params\":[\"$TX\"]}" \
+  "$RPC" |
+  jq -r '.result.input' |
+  sed 's/^0x//' |
+  xxd -r -p
+
+Verify:
+
+chainId
+transaction hash
+from
+to
+nonce
+value
+receipt status
+block number
+block timestamp
+calldata / Transfer logs
+
+Then interpret.
+
+Never reverse that order.
+
+REPRODUCIBILITY LEDGER
+
+ADDRESS LABELS
+PATH=[RESEARCH_PATH_REDACTED]
+SHA256=9ac2b5e3b970481c470c3909ebca6344f95cfdab1a17ba7f802de7acd56f3796
+
+ARTICLE NAMING RULE
+PATH=[RESEARCH_PATH_REDACTED]
+SHA256=b2977db8385b99144b82a9b82652943489aea4e73990d574daa55b37990c7a86
+
+RIDDLE / CUSTODY TIMING
+PATH=[RESEARCH_PATH_REDACTED]
+SHA256=75cde9b328ccd45c934c1394094dcd1f95c3b059046973a75ad918c965e5fbab
+
+JULY TWO-LOCK / R2 SEQUENCE
+PATH=[RESEARCH_PATH_REDACTED]
+SHA256=60471198467a8fba4162b38340031d3074959664897ce7905c1da4b8777ab581
+
+WHITEHAT LANE MANIFEST
+PATH=[RESEARCH_PATH_REDACTED]
+SHA256=757f87737bddf8c4e2b91f9d8b4c36a93be7d50595a779f6bb2051d8127f3a3d
+
+RESTORED LP CLASSIFICATION
+PATH=[RESEARCH_PATH_REDACTED]
+SHA256=8a729d99c4cc0f92f6a6bc4061e1de689aa0921c0e92e56ce14510ed0b5ce029
+
+TERMINAL-BATCH MANIFEST
+PATH=[RESEARCH_PATH_REDACTED]
+SHA256=54f5d89cc64501b62c0c5041f762a7eba05674fd2ce7cdd5d55f134673655e7e
+
+TERMINAL TRANSFER LEDGER
+PATH=[RESEARCH_PATH_REDACTED]
+SHA256=499958009c654ae7e4dc1d81501c72781310687c23a09c6d83bbbd4a08a1ab6b
+
+TERMINAL TRANSACTION SUMMARY
+PATH=[RESEARCH_PATH_REDACTED]
+SHA256=8af04aefd15e3975b8315f23825d187160954c7f98ce02fcbf9fc701e075cc2c
+
+AUTHORITY LEDGER
+PATH=[RESEARCH_PATH_REDACTED]
+SHA256=2f6649c11dbdf04dfb122718423095a9c5622ee3532f7a3f18120e1fb2b11b55
+
+By RΛZ13L on August 23, 2026.
+
+Canonical link
+
+Exported from Medium on September 5, 2026.

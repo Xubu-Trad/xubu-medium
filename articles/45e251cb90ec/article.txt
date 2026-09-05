@@ -1,0 +1,273 @@
+An autopsy of cawincidence,
+
+An autopsy of cawincidence,
+
+@RyoshiResearch under the lamp
+
+An autopsy of cawincidence,
+
+@RyoshiResearch under the lamp
+
+from zero from someone with zero
+
+_____________________________________________________
+
+a hunter’s thesis.….
+
+____________________________________________________
+
+Air is invisible,
+
+yet it moves everything…
+
+On-chain can be like that too.
+
+we can track the money with receipts, 
+but we can’t see the human behind the keys 
+unless they prove it.
+
+So here are my verifiable receipts,
+
+here’s what happens when you actually
+
+“check the fn’ shiba deployer”…
+
+In that same spirit,
+
+I’m dropping this here with love 
+hoping it helps someone out, 
+even if I don’t know…
+
+_____________________________________________________
+
+On-chain facts 🧐…
+
+On Jun-15–2021 02:57:33 AM UTC,
+
+the address 0xB8f226dDb7bC672E27dffB67e4adAbFa8c0dFA08 (labeled on Etherscan as Shiba Inu: Deployer)
+
+sent 2.78 ETH
+
+https://etherscan.io/address/0xB8f226dDb7bC672E27dffB67e4adAbFa8c0dFA08
+
+to an intermediary wallet
+
+the address 0x81A0daaab45dBbcE68b11E7AEdDd6A0D1970bdeA
+
+https://etherscan.io/address/0x81A0daaab45dBbcE68b11E7AEdDd6A0D1970bdeA
+
+in tx 0xb5b81a63c957fcc33469d59f9c969e860d24574bb72d8b2fc482c7232cb13062.
+
+https://etherscan.io/tx/0xb5b81a63c957fcc33469d59f9c969e860d24574bb72d8b2fc482c7232cb13062
+
+Then, on Apr-14–2022 04:39:14 AM UTC,
+
+that intermediary address 0x81A0…bdeA sent 2.22 ETH
+
+https://etherscan.io/address/0x81A0daaab45dBbcE68b11E7AEdDd6A0D1970bdeA
+
+to
+
+0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005 (labeled on Etherscan as A Hunters Dream: Deployer)
+
+https://etherscan.io/address/0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005
+
+in tx 0xbfed9c9fe98cf7705b6668afbe9f01c81310f062ae5853b2ac31efd2847f44f0.
+
+https://etherscan.io/tx/0xbfed9c9fe98cf7705b6668afbe9f01c81310f062ae5853b2ac31efd2847f44f0
+
+Time between those two transfers was 303 days🌙 (plus about 1 hour 41 minutes).
+
+it gets tighter…
+
+2 minutes and 20 seconds after the 2.22 ETH hit the CAW deployer wallet,
+
+On Apr-14–2022 04:41:34 AM UTC, teh CAW token contract was created.
+
+tx 0x4d160f76cdacbffc4f7302d4fb180317e15d19080cbbaded4ef0197e71ba515c
+
+https://etherscan.io/tx/0x4d160f76cdacbffc4f7302d4fb180317e15d19080cbbaded4ef0197e71ba515c
+
+created contract 0xf3b9569f82b18aef890de263b84189bd33ebe452 (CAW / “A Hunters Dream”).
+
+https://etherscan.io/address/0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+That’s the calendar.
+
+Etherscan also shows the “first funded by” trail in plain sight
+
+The CAW deployer wallet 0x36B594…e005 shows Funded By: 0x81A0…bdeA.
+
+https://etherscan.io/address/0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005 https://etherscan.io/address/0x81A0daaab45dBbcE68b11E7AEdDd6A0D1970bdeA
+
+The intermediary wallet 0x81A0…bdeA shows Funded By:
+
+Shiba Inu: Deployer, and it lists the same two key tx hashes (the 2.78 in, the 2.22 out).
+
+https://etherscan.io/address/0x81A0daaab45dBbcE68b11E7AEdDd6A0D1970bdeA https://etherscan.io/address/0xB8f226dDb7bC672E27dffB67e4adAbFa8c0dFA08
+
+____________________________________________________
+
+So the clean on-chain story is:
+
+SHIB deployer → intermediary → CAW deployer → CAW contract.
+
+____________________________________________________
+
+“so I think it’s Ryoshi…
+
+something in me keeps recognizing
+
+the same shadow, teh same signature…
+
+I think it’s Ryoshi !..”
+
+-XT
+
+_____________________________________________________
+
+heres why…
+
+[Fact] the address 0xB8f226…FA08 is shown on Etherscan as the contract creator for the SHIB token contract
+
+0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce (it’s displayed as “Contract Creator: Shiba Inu: Deployer”).
+
+https://etherscan.io/address/0xB8f226dDb7bC672E27dffB67e4adAbFa8c0dFA08 https://etherscan.io/address/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce
+
+[Inference] That makes it an “OG” address in the simplest sense. 
+it sits at the start of SHIB’s on-chain origin story.
+
+but since we’re being real, fren…
+
+[Fact] that does not prove Ryoshi controlled that wallet.
+
+“Deployer” is a role on-chain, not a verified identity.
+
+this is true, yet…
+
+[Fact] There’s a Wayback capture of the original URL
+
+https://allhailtheshiba.medium.com/all-hail-the-shiba-an-experiment-in-decentralization-87e3792e92f2
+
+and on that capture the page shows the author as
+
+“RYOSHI RESEARCH” with a publish date shown as Aug 2, 2020, written in first-person as “Ryoshi”.
+
+[Fact] In that same Aug 2, 2020 text, the core $SHIB rules are laid out in plain language,
+
+spend 0 on the project, “no team no admin” token bucket, and no paying for influence or exchange listings
+
+(because the “team and admin are all volunteers” and would have to market-buy like everyone).
+
+[Fact] That same text also literally says “Website: No Website, this is our calling card for now.”
+
+[Inference] We still can’t prove who held any keys (wallet keys or Medium account control), but if you accept the Wayback-captured “Ryoshi Research” writing as the closest public window into the founder’s role,
+
+then it’s reasonable to say the possibility is meaningful that “Ryoshi” could have had access to or control over early SHIB-critical infrastructure and wallets tied to SHIB’s origin story.
+
+[Fact] CAW’s manifesto uses the same “start from nothing” posture and leans hard into leader lessness, describing CAW as beginning as “nothing,” with “no leader in this process,” and as simply an on-chain contract people can verify for themselves.
+
+[Fact] CAW’s manifesto gets specific about removing invisible hands at the contract level,
+
+after deployment the deployer renounces,
+
+no multisig, no upgradeable proxies, no “ultimate control.”
+
+[Fact] CAW’s manifesto also says there are no official socials and no official partner projects,
+
+reinforcing the idea that it’s the contract and the
+
+cawmmunity — not a “team” — that defines the thing.
+
+[Inference] Put side by side, SHIB and CAW rhyme
+
+“ start from nothing, strip out privileged buckets, reject paid influence, and starve out invisible control by design. that’s not random. that’s the same kind of thinking, twice.”
+
+[Inference] None of this proves who held any keys (wallet keys or account control).
+
+but it does show a repeat obsession,
+
+make the contract speak louder than the people behind it. not proof. just a pattern that’s hard to unsee.
+
+and about the intermediary wallet…
+
+[Inference] The most practical reason to use an intermediary is separation. It creates distance between a famous origin wallet and a new stealth launch wallet.
+
+[Inference] It also makes the funding chain feel “placed,” not accidental, especially with that 303-day gap and then the 2-minute deploy right after the final funding hit.
+
+None of that proves identity, but it does show intent.
+
+[Fact] SHIB hit its all-time high around late Oct 2021 (CoinGecko lists $0.00008616; CoinMarketCap lists $0.00008845, both around Oct 28, 2021).
+
+[Inference] imagine 10 months of preparation for $CAW and all its complexities all the while creating a highly successful crypto experiment $SHIBA, and within the SHIB price context inside that 303-day WindOW…
+
+[Inference] So the wait from Jun 2021 to Apr 2022 overlaps the period where SHIB went absolutely nuclear, and then — months later — 
+the $CAW funding path lights up.
+
+and then teh Ryoshi signature…
+
+[Fact] That same “teh” fingerprint shows up in the riddle image naming:
+
+the ImgBB page title for the first-riddle image includes a small snip
+
+zoom out of the image in https://ibb.co/58bZfQ1 and see for yourself (lower left).
+
+“Proposalforadecentralizedcoupfortehpplbytehppl”.
+
+https://ibb.co/58bZfQ1
+
+[Fact] In tx 0x7903adbb…5c37, the A Hunters Dream: Deployer address posted an IDM that literally says:
+
+https://etherscan.io/tx/0x7903adbb7ab03521da9951d63cc9050ee005dfa871ba3f6d3e20d0bb941f5c37
+
+“teh appointed time and appointed place. be well whitehat”,
+
+and it includes links to a Pastebin and the cawdevelopment GitHub.
+
+https://pastebin.com/yhcajZq0 https://github.com/cawdevelopment
+
+_____________________________________________________
+
+That’s not random. That’s someone who plans, waits, and delivers.
+
+_____________________________________________________
+
+So yeah… there’s always a little faith required.
+
+not blind faith. not “trust me bro.”
+
+just enough faith to follow the trail even when the trail won’t hand you the final answer.
+
+Because the truth is, nothing real gets handed to you.
+
+not the best things. not the hardest things. not the things that last.
+
+You’re meant to search.
+
+to check. to verify. to sit with the facts
+
+and still be honest about what you can’t prove.
+
+And if you’re reading this and you feel it too…
+
+that familiar shadow, that same signature, that same kind of patience…
+
+maybe that’s the whole design.
+
+A test of eyes. A test of heart. A test of who will actually look.
+
+You deserve answers. you deserve clarity. you deserve the truth.
+
+but sometimes the truth doesn’t arrive as a gift.
+
+it arrives like a path.
+
+and you walk it.
+
+-XT
+
+By RΛZ13L on January 22, 2026.
+
+Canonical link
+
+Exported from Medium on September 5, 2026.

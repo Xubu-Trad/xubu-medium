@@ -1,0 +1,3017 @@
+is caw a scam?
+
+is caw a scam?
+
+the weiGhT oF interruptiOn
+
+is caw a scam?
+
+the weiGhT oF interruptiOn
+
+a review by a peeR
+
+[Image: 1*q3fKZvCGfO-xJLu4r5D2YA.png]
+
+Lord,
+
+Lord of what is seen and unseen,
+
+You already know.
+
+Before a word is spoken,
+
+before a record is laid out,
+
+You have seen it in full.
+
+So there’s no hiding here.
+
+If it is Your will, intervene.
+
+Not to protect us, but to reveal us.
+
+Let what is real stand without effort,
+
+and let what is fake collapse under its own weight.
+
+Let the measure return to us without dilution.
+
+Time will tell it better than we ever could.
+
+If we R wrong, correct us.
+
+If we R right, it will not need defending.
+
+Either way, let it be Yours.
+
+Dear Cawmmunity,
+
+Time to answer teh question directly,
+
+Is CAW a scam or not?
+
+Based on the evidence presently available, the answer is not one of blind conviction, and it is not one of blind absolution.
+
+FACT: CAW has not been conclusively proven to be an intentional scam.
+
+At the same time, the record does not permit a full acquittal.
+
+FACT: CAW has also not been cleared as a fully trustless, fully transparent, and fully leaderless project.
+
+What the evidence supports is a more difficult truth.
+
+INFERENCE: Objectively viewed, CAW appears to be a real on-chain project with a real origin trail, a real deployer, real riddles, a real community history, and real attempts at building. But it also carries a long record of narrative control, delayed fulfillment, concentrated influence, unresolved operator risk, and serious gaps between what has been claimed and what has actually been proven.
+
+That is the truth as it stands today.
+
+And if you truly care about CAW, then you should want the truth stated exactly that way.
+-XT
+
+[Image: 1*5odF19N7-_1jFN0TmQEHSQ.png]
+
+Proofs……
+
+1. What CAW actually is
+
+Members of the cawmmunity, let us begin with the record.
+
+This matter does not start with rumor.
+ It does not start with screenshots.
+ It does not start with personalities.
+
+It starts with Ethereum.
+
+FACT: CAW is an Ethereum token contract created on April 14, 2022, at contract address 0xf3b9569f82b18aef890de263b84189bd33ebe452. The deploy path preserved in the research remains the same: SHIB deployer-labeled wallet → intermediary wallet → CAW deployer wallet → CAW contract creation. The key receipts repeatedly preserved in the research are..
+
+0xb5b81a63c957fcc33469d59f9c969e860d24574bb72d8b2fc482c7232cb13062 — SHIB deployer-labeled wallet funding the intermediary with 2.78 ETH
+
+0xbfed9c9fe98cf7705b6668afbe9f01c81310f062ae5853b2ac31efd2847f44f0 — intermediary funding the CAW deployer with 2.22 ETH
+
+0x4d160f76cdacbffc4f7302d4fb180317e15d19080cbbaded4ef0197e71ba515c — CAW contract creation approximately 2 minutes and 20 seconds later.
+
+That is not mythology.
+ That is a receipt trail.
+
+And that trail matters because it tells this cawmmunity that CAW was not born out of random retail noise, but through a deliberate, traceable, staged sequence on-chain. The research itself is careful here.. this proves provenance, not human identity. It proves a path, not Ryoshi.
+
+But the record does not stop at creation.
+
+FACT: CAW did not enter the chain as a passive contract and then disappear into folklore. The deployer’s early launch behavior is preserved in the reproduced txlist and shows a real launch sequence..
+
+after funding, the deployer wrapped 1.88 ETH to WETH,
+
+approved spending,
+
+created the CAW Copper LBP,
+
+and moved into open Balancer/Copper price discovery rather than a hush-hush whitelist or private presale lane.
+ The launch-side record preserved in the research describes a public CopperLaunch / Balancer V2 Liquidity Bootstrapping Pool from April 14–17, 2022, seeded with about 466,666,666,666,666 CAW and 1.8 ETH.
+
+And that is only the start of the liquidity story.
+
+FACT: The deployer’s liquidity behavior did not end at launch. The research preserves a multi-year on-chain activity record around deployer-linked liquidity and price-shaping movements..
+
+April 17, 2022 — CAW moved from the Copper/Balancer phase into Uniswap liquidity, with later summaries describing roughly 1,700,000 USDC and 170,000,000,000,000 CAW entering the pair and treating that day as the beginning of full-scale operation.
+
+January 2, 2024 — the CAW deployer is recorded as removing 78 ETH and 2,597,857,920,343 CAW from the liquidity pool.
+
+February 15, 2024 — the research preserves a linked “new wallet funded then bought CAW” sequence, including..
+
+0x59c3bbaa44251cd65af31359adaeea1f08dd7190f8d02f2a04fb478c4ce7e67d — 0.5 ETH funding
+
+0x318265bd7bbfd79a639640ddcaf525d370155566503a61dc7ab28a8d1bb5d9ad — 250 USDC funding
+
+0xaf08e2d76eb9cd92d145293c6e876710fa35b8d5a68204436f4de800a0888542 — new wallet CAW purchase.
+
+February 18–19, 2024 — the research records another major deployer-linked liquidity event: 199 ETH and 47,871,212,982,906 CAW removed from the pool, followed by two 55.555 ETH CAW buys.
+
+February 21–22, 2024 — the research records a further deployer-linked purchase of 5.55 ETH of CAW.
+
+That matters because it means CAW’s deployer history is not a one-day launch story. It is a continuing liquidity and market-structure story, and that story becomes part of the case the moment the cawmmunity tries to describe CAW as if it simply launched and then ran itself forever.
+
+And the record still goes further.
+
+FACT: CAW also launched with something most meme tokens never had..
+
+a strange origin,
+
+a public mystery,
+
+and a deployer that embedded riddles directly on-chain.
+
+That riddle layer is not fan fiction.
+ It is not retrospective embellishment.
+ It is embedded directly into the blockchain record.
+
+FACT: On May 9, 2022, wallet 0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705 made a self-transaction carrying 0.666 ETH, and the input decoded to 58bZfQ1, beginning the first riddle. FACT: On July 17, 2022, that same deployer-linked wallet again self-sent, this time with 0.999 ETH, embedding zrUfKaKV, beginning the second riddle. These are not cultural inventions; they are deployer-linked on-chain markers.
+
+So let the record be clear.
+
+CAW was never just “a token.”
+
+It was, from the beginning, at least three things at once..
+
+a contract,
+
+a liquidity event,
+
+and a public test of interpretation.
+
+And that distinction is not academic.
+ It is central to the case.
+
+Because over time, the cawmmunity was repeatedly asked to behave as though these things all proved each other.
+
+They do not.
+
+A real riddle does not prove a trustworthy administrator.
+ A real launch does not prove a trustworthy builder.
+ A real liquidity event does not prove a trustworthy operator.
+ A real manifesto does not prove real authorization.
+ A real community does not prove a real decentralized outcome.
+
+That is precisely why this article exists.
+
+Because before anyone asks this community for trust, loyalty, or surrender of judgment, the cawmmunity must first separate..
+
+what is proven on-chain,
+
+what is argued by narrative,
+
+what is visible in wallet behavior,
+
+and what remains unresolved.
+
+And as of today, that is still the only honest way to speak about CAW.
+
+— -
+
+2. The beginning — what drew everyone in
+
+Now let us address the next question before the cawmmunity..
+
+Why did anyone care?
+
+Why did this token, among thousands of others, command attention so quickly?
+
+The answer is not one thing.
+ It is a combination of timing, traceability, structure, mystery, and unusually visible liquidity behavior.
+
+And the record supports that.
+
+FACT: CAW did not enter the market through a quiet insider-only launch story in the evidence now in hand. The strongest launch record in the research describes a public CopperLaunch / Balancer V2 Liquidity Bootstrapping Pool that ran from April 14 through April 17, 2022, seeded with approximately 466,666,666,666,666 CAW and 1.8 ETH.
+
+That matters.
+
+Because it means the first phase of CAW was not framed as something hidden from the market.
+ It was framed as something discoverable in the open, on-chain, where price discovery and early distribution could be observed rather than merely claimed after the fact.
+
+And the cawmmunity should note what happened immediately after.
+
+FACT: The strongest launch summaries preserved in the research say that after the CopperLaunch/Balancer phase ended, CAW moved into Uniswap liquidity on April 17, 2022, with later public summaries describing that liquidity as roughly 1,700,000 USDC and 170,000,000,000,000 CAW, and treating that date as the point when CAW began “full operation.” The same summaries say that liquidity was locked until July 17, 2022, then re-locked on October 24, 2022 and January 2, 2023, while noting it is currently unlocked.
+
+FACT: The historical summaries further claim that CAW then listed unusually quickly on centralized exchanges, including MEXC and HTX/Huobi, and appeared on CoinMarketCap despite being an unidentified token with no conventional website or whitepaper at launch.
+
+Now the cawmmunity should still be precise here.
+
+FACT: The historical record supports that fast listings were part of the early CAW story.
+ OPEN QUESTION: The stronger slogans — “10 exchanges in 10 days” or “within 48 hours” in exact fully verified form — still require direct exchange-by-exchange proof and should not be overstated beyond the current ledger.
+
+But even in narrowed form, the point remains.
+
+This was not just another anonymous token drifting into irrelevance.
+
+It had..
+
+a traceable origin path,
+
+an open launch structure,
+
+strange timing,
+
+and an unusually fast visibility curve.
+
+That is what drew people in.
+
+And then there is the most important part.
+
+FACT: What really separated CAW from ordinary launches was not just that it traded. It was that it behaved like it wanted to be investigated.
+
+The funding sequence was clean.
+ The ETH values looked deliberate.
+ The deployer stepped into the story and then, instead of issuing a normal marketing pitch, embedded a puzzle.
+
+The research itself describes the launch path as engineered to be missed by casual observers but recoverable by serious hunters — not requiring trust, only verification.
+
+This is where the cawmmunity should understand the emotional force of the project.
+
+People were not only buying a token.
+ They were entering a case.
+
+They were looking at..
+
+a SHIB-adjacent funding trail,
+
+an anonymous deployer,
+
+a public launch,
+
+a token with no conventional website/whitepaper at first,
+
+and then deployer-linked on-chain signals that led not to a roadmap, but to a riddle.
+
+That combination is what made CAW feel different.
+
+Not safe.
+ Not proven.
+ Different.
+
+And as the years passed, the same thing that drew people in also made later concern deeper.
+
+Because the project did not simply fade into dormancy.
+
+The deployer-linked and ops-linked wallets kept moving.
+
+FACT: By 2024 and 2025, the story was no longer just “interesting origin.” It had become a measurable wallet-history case. The research records:
+
+major 2024 deployer-linked liquidity removals and buybacks, including the 78 ETH / 2.597T CAW removal on Jan 2, 2024, the 199 ETH / 47.871T CAW removal on Feb 18–19, 2024, two 55.555 ETH CAW buys, and a further 5.55 ETH deployer-linked CAW buy on Feb 21–22, 2024.
+
+a later 2025 sink/burn history that is now much better understood and much less sloppy than old social narratives made it sound.
+
+This matters because the burn story itself became part of what drew people deeper into conviction.
+
+So let the corrected record be stated clearly.
+
+FACT: The major 2025 dead-sink story belongs to July and September 2025, not to some inflated October narrative. The research now supports:
+
+a July 2025 deployer-linked sink transfer of 12,463,731,304,359.09646923245693344 CAW from 0xbaeed...1705 to the community dead sink in tx 0x0377e91a52b5c4ffdae4c4bd6d1fcf9e928bd7b5f1ac25b56ae72029ccf32a76
+
+a broader 2025 dead-sink total around 92.813T CAW, dominated by September 2025
+
+the largest senders identified as approximately 58.477T from 0xbbd07...568f and 34.336T from 0xbaeed...1705
+
+and a later seven-wallet repeated tranche pattern of 6,666,666,666,666 CAW each, which the research treats as deliberate choreography rather than random distribution.
+
+And the holder data makes that concern real in present tense.
+
+FACT: The attached holder snapshot shows:
+
+26.77K holders
+
+Top 10 = 37.13%
+
+Top 100 = 59.43%
+
+MEXC 3 = 20.38%
+
+CAW/WETH pair = 4.45%
+
+and seven repeated ~1% wallets consistent with the repeated-tranche pattern.
+
+That means the early CAW draw was never just the launch.
+
+It was:
+
+the launch,
+
+the riddle,
+
+the receipts,
+
+the mystery,
+
+the later deployer activity,
+
+the burn story,
+
+and the sense that this project might still be unfolding long after most meme coins would have died.
+
+That is why so many people stayed.
+
+That is why the riddle was taken seriously.
+ That is why the SHIB-origin funding trail mattered so much.
+ That is why the later liquidity removals mattered so much.
+ That is why the 2025 sink transfers mattered so much.
+ That is why the holder pattern matters now.
+
+Because from the very beginning, CAW presented itself not as a finished answer, but as an invitation to examine whether the visible surface matched the hidden design.
+
+That is what drew everyone in.
+
+And that is also what makes the unresolved parts so serious now.
+
+— -
+
+3. The riddles were not a side quest
+
+And now the cawmmunity must confront the part of the record that too many later retellings tried to shrink, soften, or wave away.
+
+The riddles were not decoration.
+They were not marketing garnish.
+They were not a side quest for the bored.
+
+They were part of the evidence.
+
+That is not speculation.
+That is the structure of the case itself.
+
+FACT: The first deployer-linked riddle marker, 58bZfQ1, was not treated in the original trail as random text, but as an on-chain key that led outward into a layered chain: image host → hidden EXIF / stego pointer → poem + coordinates → Gilgamesh book cipher → IPFS CID → audio container → DeepSound → Enkidu → manifesto. That chain is preserved repeatedly in your own trace corpus as the recognized broad structure of the first riddle.
+
+FACT: The first-riddle chain is not just remembered in loose prose. It is preserved in layer form in your chronology files:
+
+R1–0: 0.666 ETH self-transaction with message 58bZfQ1
+
+R1–1: image host
+
+R1–2: hidden metadata / Pastebin pointer
+
+R1–3: poem + LINE:WORD coordinates + Gilgamesh corpus
+
+R1–4: book-cipher output forming CID QmddMfUi8AgsRyqa8MdsWqoCLYmV6kVJ4PYm6uo3iQ7WCV
+
+R1–5: IPFS payload yielding first_riddle_song.ape and first_riddle.txt
+
+R1–6: DeepSound with password enkidu
+
+R1–7: Enkidu-transform lane into manifesto / rules text.
+
+That matters.
+
+Because this was never merely a community fantasy that later attached itself to CAW.
+
+It was a reproducible trail, however incomplete its final interpretation remained.
+
+And the cawmmunity should note something equally important:
+
+FACT: Even in the reference files that preserve the broad first-riddle chain, the final Enkidu-to-manifesto transformation is still described with caution. Your own corpus says the broad ladder is documented, but the exact transform chain should still be revalidated from raw Enkidu artifact, not merely repeated because it became culturally familiar.
+
+That is a crucial distinction.
+
+Because it means the right legal posture is not:
+ “the riddle is fake.”
+
+And it is not:
+ “the manifesto is therefore final.”
+
+The right posture is narrower:
+
+FACT: the first-riddle chain is real enough to matter, reproducible enough to be evidence, and incomplete enough that it cannot be lazily collapsed into doctrine.
+
+Now the second point.
+
+FACT: A second deployer-linked riddle marker also exists in the record. On July 17, 2022, the same deployer-linked trail produced the zrUfKaKV self-transaction, and your own corpus preserves that as the opening of R2, not as community invention after the fact.
+
+FACT: The historical R2 trail in your corpus is preserved as:
+
+on-chain marker zrUfKaKV
+
+linked Pastebin seed
+
+recovered payload history
+
+a downstream decode lane that, in one branch of your corpus, is treated as hex → bytes → UTF-16LE / poem-like text
+
+while another branch keeps the unresolved zlib / preset-dictionary / FDICT problem alive as an active technical blocker.
+
+That means the cawmmunity cannot honestly accept the lazy historical rewrite that the “real” CAW story ended with the first manifesto lane.
+
+Because the deployer left another trail.
+
+And once that is true, the implications become serious.
+
+If the deployer authored a second riddle, then the cawmmunity’s later habit of treating the first surfaced manifesto as the safe and settled endpoint becomes much harder to defend.
+
+And this brings us to the most important evidentiary point in this section.
+
+FACT: The riddle corpus itself preserves warnings that the community ignored at its own peril. Your own record states, in plain terms, that the first-riddle trail carries a warning that the “12th” is a herring, and that the so-called manifesto URL literally resolves to a red-herring image. The reference file says this does not prove the manifesto is worthless; it proves you are being warned to be careful what you crown as “the answer.”
+
+That is not a small detail.
+
+That is the difference between:
+
+a clue,
+
+and a conclusion.
+
+And if a clue is mistaken for a conclusion, then whoever benefits from that mistake acquires influence without ever having to prove authority.
+
+That is exactly what makes this section of the CAW record so important.
+
+Because once the riddles are downgraded to side content, the burden shifts away from reproducible proof and toward personality, confidence, and social pressure.
+
+That is how narrative capture begins.
+
+So let the record reflect this clearly:
+
+The riddles were not a side quest.
+They were part of the deployer-authored evidentiary trail.
+They were part of the instruction set.
+And the moment the cawmmunity started treating them as optional, it became easier for louder voices to replace proof with interpretation.
+
+That is why this article keeps returning to them.
+
+Because if CAW is ever to be judged fairly, it must be judged not only by what later figures said it meant, but by what the deployer actually left behind.
+
+And the deployer left riddles, not permission slips.
+
+“You can ignore reality, but you cannot ignore the consequences of ignoring reality.” — Ayn Rand
+
+4. The first fracture — builders vs hunters
+
+And now the cawmmunity arrives at the first great division in the CAW record.
+
+Not the division between believers and doubters.
+ Not the division between holders and outsiders.
+
+The deeper split was this..
+
+builders versus hunters.
+
+That fracture is not something invented later by bitter people looking backward.
+
+It appears in the period record itself.
+
+FACT: By May 11–12, 2022, the chat history already shows a live split over whether the surfaced whitepaper/manifesto was the answer, a layer, or a false trail. Enkidu says..
+
+“Half of us are starting to build”
+ “The others are looking for more clues and say it’s a false trail”
+
+Joop answers..
+
+“there is more work to do”
+ “the current WP ends with a link that points to ‘red herring’”
+ “the current WP is splitting the group”
+
+That is the fracture in plain language.
+
+One side saw a revealed blueprint.
+ The other saw an incomplete instruction set.
+
+And the cawmmunity should note what made that split so dangerous.
+
+Both sides could point to something real.
+
+The builders were not hallucinating.
+ A manifesto had surfaced.
+ A social-clearing-house concept had been described.
+ A vision had been articulated.
+
+But the hunters were not hallucinating either.
+
+The riddle itself contained warnings.
+ The red-herring signal had been noticed.
+ The second sequence was still sitting in plain sight.
+ And the first-riddle trail itself had not given the community any legitimate reason to assume that “first surfaced document” meant “final authoritative answer.”
+
+This is where the historical record becomes especially important.
+
+FACT: Joop’s preserved statements are not anti-vision statements. They are anti-premature-closure statements. He says..
+
+“It’s not that I disagree with the vision. But we are not done researching”
+ “100% we are not done yet”
+ “There is more”
+ “Red herring. But it might contain clues.”
+
+That matters.
+
+Because it shows the resistance was not coming from people who “didn’t get it.”
+ It was coming from people who thought the hunt itself was being closed too early.
+
+And the record gets even sharper.
+
+FACT: The same preserved history shows the second sequence was not some forgotten curiosity. Joop explicitly pressed the question..
+
+“what are your thoughts on the 2nd sequence of numbers”
+ “why do we ignore that one?”
+ “we research the 2nd sequence of numbers that is 100% similar to the one that lead us to the current WP”
+
+That is not a side comment.
+
+That is a direct objection to the idea that the cawmmunity had already reached a safe stopping point.
+
+And the cawmmunity should note the names involved.
+
+FACT: Kachoperro appears in that split not as someone simply shutting the door on further clues, but as someone engaging the uncertainty. In the preserved record he asks..
+
+“Should we ignore the second pair of numbers above 11?”
+
+And elsewhere is quoted saying:
+
+“More herrings.”
+
+That matters because it forces precision.
+
+The historical concern is not that every later central figure was saying the exact same thing at the exact same moment.
+
+The concern is more subtle and more serious..
+
+that over time, despite all these warnings, the center of gravity still drifted away from open-ended hunting and toward manifesto-led interpretation and builder-led direction.
+
+And Enkidu’s own preserved language makes the philosophical split unmistakable.
+
+FACT: In the reference history, Enkidu says..
+
+“I will support building towards what’s in the doc”
+ “If someone else discovers a different path then present it”
+ “The man in the arena gets priority”
+ “Maybe the docdooooooors can fork off and build the doc and leave the huntdooooooors to keep ‘hunting’”
+
+Those words matter because they formalize the division.
+
+Not just as a disagreement.
+ As a structure.
+
+Build here.
+ Hunt there.
+ Let the paths separate.
+
+But that creates a problem.
+
+Because in a project like CAW, where authorization was never clearly surfaced, whoever succeeds in making their lane feel more legitimate begins shaping reality for everyone else.
+
+That is the danger the cawmmunity should understand.
+
+The moment “builder momentum” starts substituting for “deployer authorization,” the community can begin treating activity as proof.
+
+And once that happens, the people still insisting on unresolved clues begin to look like obstacles rather than auditors.
+
+That is exactly what the preserved record suggests happened.
+
+FACT: The reference summaries say plainly that over the next four years, Enkidu, Kachoperro, and later Gilgamesh became prominent in developing “the manifesto,” while the deeper hunt lost social primacy. The same summary says this “pushed away the core group of hunters” and that the red-herring warning alone was enough to justify continuing the hunt rather than handing leadership to whoever talks the loudest.
+
+That is why the first fracture matters so much in the larger CAW case.
+
+Because it is the point where the question stopped being only:
+
+“What does the deployer want us to solve?”
+
+and started becoming:
+
+“Who gets to decide when the solving is over?”
+
+That is not a small cultural shift.
+ That is a power shift.
+
+And from that point forward, every later controversy around CAW — around Enkidu, around Kachoperro, around Gilgamesh, around authorization, around narrative management, around what counts as canon — traces back to this first unresolved divide.
+
+The builders wanted motion.
+ The hunters wanted completion.
+ The cawmmunity got both.
+
+But it never got a clean answer as to which lane the deployer had actually authorized.
+
+And that absence, more than any one personality, is what left the door open for narrative capture.
+
+— -
+
+5. Enkidu and Kachoperro — the manifesto era
+
+At this stage, the cawmmunity must turn from the riddle itself to the people who began shaping what the riddle was allowed to mean.
+
+Because from this point forward, CAW was no longer only a question of clues.
+ It became a question of interpreters.
+
+And two names matter immediately in that transition..
+
+Enkidu
+Kachoperro
+
+Now let the record be clear at the outset.
+
+This section does not claim that either man has been proven to be the deployer.
+ It does not claim that either man has been proven to control the CAW contract.
+ It does not claim that either man has been proven to possess exclusive authority from the deployer.
+
+What it does claim is narrower, and better supported..
+
+FACT: Enkidu and Kachoperro became major narrative-shaping figures during the period when the cawmmunity was deciding whether the surfaced manifesto was a clue, a blueprint, or a trap.
+
+That matters because narrative control does not require contract control.
+ It only requires visibility, confidence, timing, and repetition.
+
+And Enkidu’s own preserved words show exactly what role he stepped into.
+
+FACT: In the Telegram history, Enkidu’s position is not vague. He argues directly for the manifesto/spec path:
+
+“My opinion is that usernames are defacto free unless you want vanity”
+ “So for vanity you have to burn to support the ecosystem”
+ “This isn’t about today”
+ “This isn’t even about crypto”
+ “This is tech”
+ “This can’t work centralized”
+ “It needs to be unstoppable at the core”
+ “I am a fan of burned keys and no upgrades”
+ “The token contract doesn’t need to be changed”
+ “The manifesto suggests a new and trustless contract”
+ “The new contract will route it to a dead wallet like 0x0000 when a nft is minted.”
+
+The importance of this cannot be overstated.
+
+This is not a bystander reacting to random chat.
+ This is a figure presenting a coherent interpretation of what CAW is supposed to become..
+
+a decentralized social system,
+
+a burn-gated identity layer,
+
+a trustless architecture,
+
+a post-token ecosystem.
+
+That is not a minor contribution.
+
+That is agenda-setting.
+
+And the record gets sharper still.
+
+FACT: Enkidu also articulated the governance philosophy that would later become deeply controversial:
+
+“It doesn’t matter who I am or what I did before. I’m just the same as everyone else”
+ “What matters is if this proposal is accepted and worked on”
+ “If enough people who are willing to do things agree and do them / Then we have consensus”
+ “The man in the arena gets priority”
+ “If you are not in the arena, your voice doesn’t matter.”
+
+That is a real philosophical position.
+
+But it is also a dangerous one.
+
+Because in a project where authorization is unresolved, “the man in the arena” doctrine can become a shortcut for power without proof. It can transform activity into legitimacy, confidence into authority, and builder momentum into implied permission.
+
+That is not automatically fraud.
+
+But it is exactly how narrative capture becomes possible.
+
+Now to Kachoperro.
+
+Kachoperro’s role is sometimes spoken about too loosely, as if he were either obviously innocent or obviously central.
+
+The record supports neither extreme cleanly.
+
+What it does support is this:
+
+FACT: Kachoperro was present inside the live interpretive dispute and engaged directly with unresolved riddle questions. In the preserved record he asks:
+
+“Should we ignore the second pair of numbers above 11?”
+
+And is later quoted saying:
+
+“More herrings.”
+
+That matters because it shows Kachoperro was not merely a latecomer repeating settled doctrine. He was close enough to the live interpretive process to be speaking directly about the unresolved sequence problem and the possibility of further deception inside the riddle.
+
+And yet, over time, the broader cawmmunity memory drifted toward a different center.
+
+Not:
+
+“we are still solving”
+
+But:
+
+“we now understand what CAW means.”
+
+That drift is exactly why this era matters.
+
+Because once a few visible figures start standing between the raw clue set and the cawmmunity’s working belief system, the cawmmunity gradually stops asking..
+
+What do the deployer’s receipts actually authorize?
+
+and starts asking:
+
+Which respected interpreter should we follow?
+
+That is the shift that should concern every serious holder.
+
+And the preserved summaries say plainly that this is what began happening.
+
+FACT: The riddle-history summary says that Enkidu and Kachoperro became central to developing “the manifesto,” while the core hunters were gradually pushed away, and that this happened even though the red-herring signal and the second-sequence concerns had not been resolved.
+
+Again, that is not proof of scam.
+
+But it is proof of a risk structure.
+
+A project that begins with deployer-authored riddles and no clean surfaced authorization cannot safely rely on social interpreters unless those interpreters are themselves held to a proof standard.
+
+And that is where the CAW cawmmunity failed itself.
+
+Because the question should never have been merely:
+
+Do I like Enkidu’s vision?
+ Do I trust Kachoperro’s instincts?
+ Do these guys sound smart?
+ Do they feel early?
+
+The real questions were always these:
+
+Who authorized this direction?
+ What exact clue set supports it?
+ What part is proven and what part is interpretation?
+ What remains unresolved?
+
+And the reason this section belongs in the record is simple.
+
+Without Enkidu, there is no clear manifesto-era philosophical spine.
+ Without Kachoperro, there is no clear view into how unresolved riddle ambiguity coexisted with emerging narrative leadership.
+
+Together, they represent the moment CAW stopped being only a mystery left by a deployer and started becoming a project whose meaning was being actively managed in public.
+
+That is why this era deserves scrutiny.
+
+Not because it conclusively proves bad faith.
+ But because it marks the beginning of a long and dangerous substitution:
+
+interpretation in place of authorization.
+
+And once that substitution takes hold, every later builder, admin, and narrative keeper inherits influence that may never have been properly granted in the first place.
+
+That is the true significance of the manifesto era.
+
+— -
+
+6. The second riddle proved the story was not done
+
+And now the cawmmunity comes to one of the most important facts in the entire CAW record..
+
+the story did not end where many people wanted it to end.
+
+It did not end with the first image.
+ It did not end with the first manifesto lane.
+ It did not end with the first community consensus.
+
+Because the deployer left another trail.
+
+And that trail matters precisely because it existed after the community had already begun drifting toward closure.
+
+FACT: On July 17, 2022, the deployer made a second self-transaction carrying 0.999 ETH, now known in the record as the zrUfKaKV riddle. The research preserves that event as the opening of R2 and ties it directly to transaction 0xcae4b15350b3ccc2b37fec5caa718560241ec181bc49741d5d1199d1d32412d4.
+
+That is the first thing the cawmmunity should hold onto.
+
+The second riddle was not invented later by bored researchers.
+ It was authored into the public record by the deployer.
+
+And the next part is just as important.
+
+FACT: The historical reference lane preserved in the research says the second riddle pointed to:
+
+https://pastebin.com/zrUfKaKV
+
+That Pastebin was discovered in 2022, later deleted, and then recovered again in August 2025 through Pastebin support, years after much of the community had already begun treating the first-riddle manifesto lane as culturally dominant.
+
+That changes the posture of the whole case.
+
+Because if the second deployer-authored clue existed, and if its original payload had not been fully exhausted in 2022, then the community’s later habit of treating the first surfaced manifesto as if it were the final authoritative settlement becomes much harder to defend.
+
+And the record goes further.
+
+FACT: The layer-ordered trace files preserve R2 as a real mechanical decode lane, not a vague rumor. They record the second-riddle chronology as:
+
+on-chain marker zrUfKaKV
+
+Pastebin payload
+
+raw hex / bytes
+
+a decode turning point described as:
+
+“Hex is not compression; decode is linguistic / UTF-16LE”
+
+resulting in Chinese/Japanese-like glyphs arranged like verses
+
+which were then translated into poem-like lines, including references such as:
+
+“The fangs of hatred…”
+
+and repeated uses of:
+
+“Lai”
+
+with recorded checksum trails preserved for reproducibility.
+
+That is not a solved ending.
+ But it is very clearly a real trail.
+
+And that is the critical point.
+
+The second riddle does not have to be “finished or solved” to prove that the first-riddle closure story was premature.
+
+Its mere existence, recoverability, and partial reproducibility already do that.
+
+The cawmmunity should be even more precise.
+
+FACT: The current research preserves two active ways the second riddle has been understood:
+
+a UTF-16LE / poem-like decode lane, where the payload becomes linguistic text, and
+
+an alternate zlib / preset-dictionary / FDICT blocker lane, where the unresolved technical state remains open.
+
+That means the honest conclusion is not..
+
+“R2 is solved.”
+
+And it is not:
+
+“R2 was meaningless.”
+
+The honest conclusion is narrower and more powerful..
+
+FACT: R2 remained sufficiently real, sufficiently structured, and sufficiently unresolved that no serious community had a right to act as though the deployer’s instruction set was finished in 2022.
+
+That is the evidentiary value of the second riddle.
+
+Now consider what that means for the people who shaped cawmmunity direction in the years that followed.
+
+If the deployer left..
+
+one riddle that surfaced a manifesto but also carried red-herring warnings, and
+
+a second riddle that remained open and mechanically recoverable years later,
+
+then anyone telling the cawmmunity to treat the first manifesto lane as the settled destiny of the project was, at minimum, speaking beyond what the receipts safely authorized.
+
+That does not prove bad faith.
+
+But it does prove overreach.
+
+And that overreach matters.
+
+Because once people begin organizing community reality around an answer that the full clue set does not actually settle, they are no longer just interpreting the deployer.
+
+They are replacing the deployer.
+
+That is why the second riddle matters so much.
+
+It is not just another puzzle.
+
+It is evidence that CAW’s authorial trail remained open while the cawmmunity was already being encouraged to behave as though it were closed.
+
+And once that is understood, the consequences are unavoidable.
+
+The second riddle proved that the story was not done.
+ It proved the instruction set could not safely be reduced to one surfaced manifesto.
+ It proved that “we found a path” was not the same thing as “we found the end.”
+
+And in that sense, R2 is one of the strongest arguments in the entire CAW case against lazy closure, social canonization, and narrative certainty without proof.
+
+The deployer left a second trail.
+
+The cawmmunity ignored it at its own peril.
+
+And everyone who later claimed to know exactly what CAW was supposed to become should have had to answer the same question first:
+
+If the story was finished, why did the deployer leave another riddle?
+
+That question still stands.
+
+— -
+
+7. The Team Finance / whitehat moment
+
+And now the cawmmunity comes to one of the most emotionally defining events in the CAW record.
+
+This is the moment when mystery gave way to crisis.
+ The moment when the deployer was no longer only leaving riddles and symbols, but was speaking into a live on-chain emergency.
+
+That matters.
+
+Because whatever else one believes about CAW, this episode is not fictional.
+
+It happened.
+ It is on-chain.
+ And the language is preserved.
+
+FACT: The CAW deployer address 0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005 sent multiple plain-text on-chain messages tied to the whitehat endpoint 0xba399a2580785a2ded740f5e30ec89fb3e617e6e. The clearest preserved receipt is transaction 0x7903adbb7ab03521da9951d63cc9050ee005dfa871ba3f6d3e20d0bb941f5c37, which contains, verbatim..
+
+“teh appointed time and appointed place.
+ be well whitehat”
+
+and includes the linked anchors:
+
+https://pastebin.com/yhcajZq0
+
+https://github.com/cawdevelopment
+
+That is not rumor.
+ That is a receipt.
+
+And that receipt matters for two reasons.
+
+First:
+
+FACT: It proves the deployer-side whitehat message lane is real.
+
+Second:
+
+FACT: It shows that in the middle of the Team Finance crisis, the deployer was still treating CAW as something connected to:
+
+the whitehat dialogue,
+
+the manifesto / Pastebin lane,
+
+and the cawdevelopment GitHub lane.
+
+And the cawmmunity should note that this was not a single isolated message.
+
+FACT: The preserved on-chain outputs show multiple deployer-side or deployer-linked messages in the same whitehat communication lane.
+
+One preserved decoded message from deployer tx 0x6f689cc06703d2b7b6123ef11c170851fdfa4acd8ba6586bb373941bccd89492 reads, in part:
+
+“thank you whitehat I am CAW DEPLOYER”
+ “CAW is decentralized token and community”
+ “CAW has no owner no leader”
+ “The recovered project token and DAI belong to community not the team”
+ “CAW DEPLOYER recommends”
+ “1 — whitehat change dai to eth as it is better currency”
+ “2 — whitehat adds to UNIV2 Liquidity the full amount of ETH and CAW minus the bounty”
+ “3- whitehat sends UNI-V2 Token to 0x00 burn address so that liquidity is burned forever”
+ “4 -decentralization continue”
+ “thank you whitehat”
+
+Another deployer message, tx 0xd530842eb931fc3a90060f81813e3c185a6acf9df8b6600e8ae8473608a6beb9, says:
+
+“hello whitehat”
+ “CAW DEPLOYER accept option 4”
+ “CAW DEPLOYER ask whitehat to send DAI minus bounty and all CAW Project Token to same address that before Lock Liquidity”
+ 0xbaeEDcCcbFB112d4a921dAa635AC2276307A1705
+ “CAW DEPLOYER will confirm this address by sending a transaction on teh blockchain to this address”
+ “have a nice day whitehat”
+
+And a follow-up deployer tx, 0x2baf4b4c89f2ac1681a10d6df847a953b65072b6efd7af5ad8fcbb7dd51badd6, says..
+
+“hello whitehat”
+ “Please send DAI and project token to this address”
+ “thank you whitehat”
+
+That is not a symbolic flourish.
+ That is an operational conversation.
+
+It shows requests, instructions, recovery structure, bounty negotiation language, and explicit address confirmation behavior.
+
+That means the cawmmunity should treat this episode as a real operational event, not merely a cultural myth.
+
+Now let us address the underlying context.
+
+FACT: The research consistently places this episode inside the broader Team Finance exploit / recovery lane. One preserved whitehat-side message, tx 0x9843eebf9c3b776230f99a54402f3789da3c907e98c1e9444cb394a1d1ec87d2, states:
+
+“message to all projects funds are ready and safe …”
+ “project caw whitehat will wait for caw decision on bug bounty percent and next step 5073k dai or weth value return all project token return”
+
+The same preserved research also summarizes the broader incident as roughly $14.5M stolen in the wider Team Finance event, including about 74.6B CAW and roughly $5M DAI on the CAW side, with most of it later returned and a bounty retained. That is the working historical summary in the research, though it remains a summary rather than a fresh block-by-block re-derivation inside this section.
+
+Now the cawmmunity must be disciplined here.
+
+That summary may describe the event broadly, but it does not by itself settle identity.
+
+And this is where the community has often overreached.
+
+FACT: The existence of the whitehat message lane does not prove who the whitehat was.
+
+It does not prove:
+
+that the whitehat was benevolent,
+
+that the whitehat was unrelated to the deployer,
+
+that the whitehat was FarmTown,
+
+that the whitehat was someone from HashEx,
+
+or that the entire event was staged theater.
+
+Those are all stronger claims than the receipts presently support.
+
+And the record now gives a very important warning on that point.
+
+FACT: The whitehat endpoint under review, 0xba399a2580785a2ded740f5e30ec89fb3e617e6e, is not a clean identity anchor. The later tx-history review shows it also received unrelated third-party messages and spam-like inputs from other wallets. For example, preserved tx decodes into that same address include:
+
+0x5fee4974060781a7d6389fa0a20e6f36c65ae4eaec922832e8d8fdad7039cd5d — “Im poor Chinese student,need help”
+
+0x6f86339b0a15c666684ae2a43bf781a59af463b579dc5d93a2f11a4ed51e77ab — “Yasha is the way @yasha_dao_official”
+
+0x5cc81c41c778d319227f19a044507a41f0410bb53f95e112a523e932f60fa374 — a long unrelated begging / promotional message
+
+and even later extracted URLs such as https://t.me/whitehattoken and unrelated YouTube links.
+
+That matters enormously.
+
+Because it means the cawmmunity cannot safely leap from:
+
+“the deployer messaged this address”
+
+to
+
+“therefore we know exactly who controlled it.”
+
+That shortcut is not available.
+
+And yet the event still matters.
+
+Why?
+
+Because even without final identity closure, it reveals something crucial about CAW.
+
+It reveals that when the project was under real stress, the deployer did not behave like a silent ghost.
+
+The deployer engaged.
+ The deployer negotiated.
+ The deployer referenced the manifesto / GitHub lane.
+ And the deployer treated the recovery question as bound up with the meaning of the project itself.
+
+That is important evidence in both directions.
+
+Why this event weighs against the simple scam theory
+
+Because a lazy scam thesis would prefer this to be simple:
+
+funds vanish,
+ deployer disappears,
+ everyone gets rugged,
+ story ends.
+
+But that is not the record.
+
+FACT: The record shows continued deployer-side communication, continued structure, and a recovery dialogue that is difficult to reduce to boilerplate rug behavior.
+
+Why this event does not clear CAW
+
+Because the deployer’s existence inside the recovery lane does not prove clean hands.
+
+It does not prove the whitehat’s independence.
+ It does not prove the Team Finance episode was benign in all respects.
+ And it certainly does not prove that every later narrative layered on top of the event was honest.
+
+The most the cawmmunity can say, honestly, is this..
+
+FACT: The Team Finance / whitehat event is real.
+ FACT: The deployer’s whitehat-message lane is real.
+ FACT: The identity and exact role of the whitehat remains unresolved.
+ FACT: The event cannot be used as a shortcut either to convict CAW absolutely or to acquit it absolutely.
+
+That is why this moment remains so powerful.
+
+To believers, it looks like proof of seriousness, continuity, and stewardship.
+
+To skeptics, it looks like a stage on which a more sophisticated form of trust management could occur.
+
+And the uncomfortable truth is that the current receipts still leave room for both interpretations.
+
+That is why this event belongs in the record as a real crisis-and-recovery chapter, but not as a solved identity story.
+
+And that is why every later theory that tried to neatly pin the whitehat on FarmTown, HashEx, Jeff, or any other preferred villain must still answer the same question:
+
+Where is the proof beyond the narrative jump?
+
+Because so far, the proof stops short.
+
+The messages are real.
+ The crisis is real.
+ The deployer’s involvement is real.
+ But the full identity story remains open.
+
+And that, more than anything, is what keeps this chapter from becoming propaganda for either side.
+
+[Image: 1*CEbvS_U7koa8k2hkCEOFpg.png]
+
+8. What Gilgamesh changed — and what he did not prove
+
+And now the cawmmunity turns to the figure who, more than any other late-stage builder, became the vessel for hope.
+
+That figure is Gilgamesh.
+
+And before anyone hears this section as an attack, the standard must be stated clearly.
+
+This is not a claim that nothing was built.
+ It is not a claim that Gilgamesh is proven to be a scammer.
+ It is not a claim that every concern about him automatically collapses into guilt.
+
+The record is both stronger and narrower than that.
+
+First, what the record does support
+
+FACT: Gilgamesh presented himself as someone actively building, not once, not vaguely, but repeatedly.
+
+In his own words, he says:
+
+“Some of you may know me by my commits or by name. I was the dev that expanded the network to work as a multi chain platform.”
+
+He says:
+
+“The intended design is for caw to have validators who are executing actions onchain.”
+ “The next project is creating a validator that anyone can run from their own computer/server.”
+
+He says:
+
+“The validator’s job will be to receive CawActions, and batch process them on the L2.”
+
+And later:
+
+“My friends, updates are coming soon. I am still building, but getting closer everyday.”
+
+That is not nothing.
+ That is real builder language.
+ That is real builder posture.
+
+The cawmmunity should not allow lazy retellings to pretend otherwise.
+
+Second, Gilgamesh did more than build — he painted a narrative
+
+This is where the case gets more important.
+
+Because Gilgamesh did not merely say “I wrote code.”
+ He also framed what the code was supposed to mean.
+
+And the clearest example is The Maker.
+
+FACT: Gilgamesh explicitly invokes The Maker as a source of legitimacy. In his own words, he says:
+
+“When in development, I worked with a small team of advisors, including The Maker (author of the original CAW code) and a few other great minds.”
+
+He also says:
+
+“They are not using my code, they are using the code written by Maker.”
+
+Those lines matter.
+
+Because they do more than describe development.
+ They place Gilgamesh in a story of inherited authority.
+
+Not “I am building something inspired by CAW.”
+
+But closer to..
+
+I am building in continuity with the original code,
+
+I had access to The Maker as an advisor,
+
+and my lane should therefore be read as more legitimate than rival lanes.
+
+That is narrative painting.
+
+Not necessarily false.
+ But certainly important.
+
+And this is where the attached screenshots matter.
+
+FACT: The attached screenshots depict:
+
+a Telegram exchange in which Yu, marked as an admin, says to The Maker:
+ “Hi, maker. I’m glad to meet you here!!”
+
+[Image: 1*8DInOU-8lhbQ5qPW9p1L6g.png]
+
+and a separate screenshot of the HIM-official group showing “The Maker” listed inside that room.
+
+[Image: 1*GX7JNRAMpKbgSFwzjbFojg.png]
+
+Those screenshots do not prove wallet custody.
+ They do not prove deployer identity.
+ They do not prove The Maker, Gilgamesh, and Yu are one unified operator set.
+
+But they do show overlapping names and overlapping rooms across projects.
+
+And that matters.
+
+Because once Gilgamesh starts invoking The Maker as a source of authority, and the same Maker handle appears in adjacent-project rooms where Yu is also present, the cawmmunity is no longer looking at isolated personalities.
+
+It is looking at a repeated narrative circle.
+
+Now add the HIM side.
+
+FACT: The attached material also shows that Yu publicly and repeatedly promoted HIM, NHI, BlueHand, OSAK, BRO, and SOUP. The screenshots show posts such as:
+
+“$HIM for teh people Truth for teh people”
+
+[Image: 1*DzlWscfRimY1wueFu5Yplg.png]
+
+“The NHI site has been updated. #HIM #NHI”
+
+[Image: 1*IZ8gjw_cD5OWJE8MBuAOOw.png]
+
+“BlueHand $BLU”
+
+[Image: 1*71WRK84-1n3Ig9YJ52zMog.png]
+
+“SOSAK”
+
+[Image: 1*uUK2zFi_Odj9uD12Y18-Hg.png]
+
+“SBRO was fairly launched on the AVAX”
+
+[Image: 1*_vEyA8ko_oE9QM4URVNHIQ.png]
+
+“It seems that interesting wallets are making transactions with $SOUP.”
+
+[Image: 1*f_fyhXSbxhchjYdRVX1nAg.png]
+
+Yu’s tg activity..
+
+[Image: 1*UFvTV0mAhe-UaFgKtftd0A.png]
+
+[Image: 1*7fohE9Zr0ldSVLsuN-ypmg.png]
+
+[Image: 1*tro-qJ3zpJqZMDP4Q8sRfw.png]
+
+Again, this is not proof of hidden control.
+
+But it is public evidence of a repeated narrative role..
+ Yu appears not merely as a neutral observer, but as a recurring promoter/interpreter across the same style of projects and the same circles of names.
+
+And the public concern becomes even sharper when placed beside the March 11 post you supplied.
+
+ALLEGATION: In that post, RΛZ13L publicly argues that..
+
+“the maker” was a handle @caw_dev referred to as the author of the CAW code in Telegram chats,
+
+@AnalOracle was the creator of $HIM,
+
+and Yu, The Maker, and that broader HIM structure later reappeared in CAW-related spaces.
+
+That is a serious public allegation.
+ But it remains an allegation.
+
+I cannot verify from the materials alone that @AnalOracle and the HIM creator are definitively the same person in a cryptographic sense, nor can I verify that this overlap proves a single hidden command structure.
+
+What I can say is narrower:
+
+INFERENCE: the materials support a real pattern of repeated names, repeated rooms, repeated amplifiers, and repeated myth-making across more than one project.
+
+That is enough to matter.
+
+Third, what the record does not support
+
+This is where precision becomes everything.
+
+Because visible effort is not the same thing as authority.
+
+And narrative inheritance is not the same thing as proof.
+
+One of the strongest objective summaries in the record states..
+
+“Gilgamesh’s repo references CAW artifacts (address/site), but that is compatible with a permissionless copy/fork and does not prove he has any privileged relationship to cawdevelopment.”
+
+The record also states..
+
+“No verified evidence yet that Gilgamesh has authority / decision-making capacity over CAW mainnet.”
+
+And in plainer terms..
+
+“Gilgamesh controls CAW is not supported by the surfaced mainnet touchpoint evidence in the receipts shown.”
+
+Then it explains why..
+
+“No direct onchain linkage shown between the Gilgamesh-linked EOA and the CAW deployer/token in the captured outputs.”
+
+That matters because it destroys one of the laziest community shortcuts..
+
+he is building, therefore he must be official.
+
+That is not proof.
+ That is inference.
+
+And the record is careful enough to say so.
+
+In fact, one of the fairest restrained conclusions preserved in our own review is..
+
+“Gilgamesh looks like a community-side builder attempting to ship a CAW-themed app/contracts (at least on testnet), not someone you can currently tie to mainnet CAW deployment authority.”
+
+That is probably the cleanest sentence the cawmmunity can honestly stand on today.
+
+Fourth, the centralization case is real
+
+Now the cawmmunity must deal with the part that believers often soften and critics often overstate.
+
+The code review lane does not say nothing was built.
+ It says what was built may not match what was promised.
+
+And the record is not vague on this point.
+
+Gilgamesh says:
+
+“My intention was to renounce ownership entirely after the deployment is complete and things are working correctly.”
+
+Then, in the next breath, he says:
+
+“The ownership is basically only in place to help configure the L2 communication after deployment.”
+
+And then more importantly:
+
+“It is a good point that we may want to keep ownership on the L1 in case of a need to initialize a different L2 … or to change the visualization of cawUsername NFTs.”
+
+Those three statements taken together already show the fault line.
+
+Because they do not describe a cleanly renounced, trustless final state.
+ They describe an implementation that still expects retained powers.
+
+And the code examples reinforce that.
+
+FACT: The review preserves owner-only functions such as:
+
+setL2Peer(uint32 _eid, address _peer) external onlyOwner
+
+setMinter(address _minter) external onlyOwner
+
+setUriGenerator(address _gui) external onlyOwner
+
+setL1Peer(uint32 _eid, address payable peer, bool _bypassLZ) external onlyOwner
+
+setCawActions(address _cawActions) external onlyOwner
+
+setDescription(string memory _description) public onlyOwner
+
+The cawmmunity does not need to speculate about whether that is “pure decentralization.”
+
+The text speaks for itself.
+
+And the manifesto comparison matters too.
+
+FACT: The manifesto standard preserved in your materials says..
+
+“After deployment, the deployer must renounce any keys they have to the contracts. There will be no multi-sig, no upgradeable proxies.”
+
+But the current build still shows retained owner functionality, mutable rails, and additional architecture that goes beyond the cleanest reading of that promise.
+
+The burn path is another example.
+
+The review states that the manifesto expectation was a true zero-address burn, while the current implementation routes to:
+
+0xdEAD000000000000000042069420694206942069
+
+instead of:
+
+0x0000000000000000000000000000000000000000
+
+That is not a cosmetic difference in a trial like this.
+ That is a trust-model difference.
+
+The same goes for fees.
+
+Gilgamesh says that frontend/client fees were introduced so frontends could be incentivized, and that those fees would be matched to buy and burn CAW.
+
+But even if that was sincerely intended, the structure still proves something important..
+
+this is not a “no moving parts, no adjustable tolls, no retained control” implementation.
+
+It is a more managed system.
+
+And LayerZero deepens that point.
+
+Gilgamesh repeatedly frames the design as multichain, L2-enabled, validator-run, and gasless through batching.
+
+That may be a real engineering decision.
+
+But it is also a different trust surface than the plain-language manifesto ideal many holders thought they were buying into.
+
+Fifth, the fairest conclusion
+
+The fairest conclusion is not anti-Gilgamesh propaganda.
+ It is not pro-Gilgamesh propaganda either.
+
+It is this:
+
+FACT: Gilgamesh appears to have done real work. His own words, his public repo, and the code-review lane all support that.
+
+FACT: Gilgamesh also did real narrative work. He did not merely build. He framed his build through prophecy language, manifesto language, anti-QL1 contrast, and explicit invocation of The Maker as an advisor and source of continuity.
+
+FACT: No surfaced proof currently shows him holding deployer authority over CAW mainnet, deployer keys, or official privileged control.
+
+FACT: The visible build still exposes owner controls, adjustable fee rails, metadata/control levers, and multichain trust complexity that do not cleanly match the hardest decentralization promises of the manifesto.
+
+INFERENCE: The attached HIM / Maker / Yu screenshots do not prove a single hidden operator set, but they do support a repeated pattern of overlapping names, overlapping rooms, and overlapping narrative roles across adjacent projects.
+
+And that last point is what makes this section so serious.
+
+Because the honest case against Gilgamesh is not:
+
+he is proven fraudulent.
+
+The honest case is narrower and more uncomfortable:
+
+he became a major narrative-and-build figure in a project where authorization was never cleanly surfaced, while invoking a wider circle of names and legitimacy-signals that made his lane feel more official than the receipts alone could prove.
+
+That is a real concern.
+ A deep concern.
+ A legitimate concern.
+
+And it is serious enough on its own without claiming more than the record allows.
+
+So let the record reflect the truth in full..
+
+Gilgamesh changed CAW by giving the cawmmunity something real to hope in.
+ But hope is not proof.
+ Narrative continuity is not authority.
+ And what he built, however real, still did not prove that he was the deployer’s chosen hand, 
+nor that the visible build was the same thing as the trustless future the manifesto promised.
+
+That is what he changed.
+
+And that is what he did not prove.
+
+[Image: 1*JUwSl7Zn-ay0IsHqlsc27w.png]
+
+9. Yu, Kachoperro, and the problem of narrative control
+
+And now the cawmmunity must confront a harder question.
+
+Not only who built.
+ Not only who interpreted.
+ But who shaped what the cawmmunity was allowed to believe.
+
+Because in CAW, the danger was never limited to contract control.
+ The deeper danger was always narrative control.
+
+And that is why Yu and Kachoperro matter.
+
+Not because the record cleanly proves either one controlled the deployer.
+Not because the record cleanly proves either one owned the contract.
+Not because the record cleanly proves either one ran a hidden command structure.
+
+But because the record shows real reasons to worry that certain visible figures influenced:
+
+what the cawmmunity treated as canon,
+
+what it treated as settled,
+
+what it treated as worth pursuing,
+
+and what it was encouraged to dismiss.
+
+That is serious enough on its own.
+
+First: the constitutional contradiction
+
+FACT: CAW’s own manifesto posture says there is “no leader in this process” and says there are “no official socials” and no official partner projects. The manifesto copy preserved in the Telegram export says:
+
+“as there is no leader in this process”
+ “P.S. There are no official socials- nor partner prooects or further remeases”
+
+That matters because it gives the cawmmunity a baseline.
+
+If CAW was supposed to have:
+
+no leader,
+
+no official socials,
+
+and no official partner projects,
+
+then any later figure or account that begins functioning like a social center of gravity becomes a structural concern before fraud is ever proven.
+
+That is the frame in which Yu, Kachoperro, and @CommunityCaw must be judged.
+
+Second: Yu’s private group shows a trusted inner circle, not a random chat
+
+The strongest new material is not on-chain.
+ It is social.
+
+FACT: In the private CAW Family room, Yu opens the group by saying:
+
+“This is a chat for our small CAW family. Feel free to talk about anything, not just CAW.”
+
+Then, when someone joins, she says:
+
+“Thank you for joining. There’s no one in it yet, but I’ll reach out to a few people I trust.”
+
+That is not random-holder language.
+
+It does not prove formal authority over CAW.
+ But it does prove Yu was curating a trusted CAW circle.
+
+And the room was not merely casual.
+
+FACT: In that same private group, Yu tracked admin-side changes in the broader CAW environment, saying..
+
+“It seems that Enkidu has become an Admin. I think Kacho added him.”
+
+That matters because it shows two things at once..
+
+Yu was watching admin-state changes closely,
+
+and Yu treated Kacho as someone who could plausibly make or influence those changes.
+
+Then the narrative role becomes even sharper.
+
+Yu says:
+
+“Yes, that’s right. That’s why we are working so hard for CAW.”
+ “Nobody knows who Enkidu is. He himself might be the CAW deployer.”
+ “I tried to understand Enkidu’s words, but it’s difficult lol.”
+
+That is not merely fandom.
+
+That is a visible inner-circle member reinforcing the Enkidu legitimacy lane.
+
+Third: the private group also shows moderation and suppression behavior
+
+And now the record becomes more serious.
+
+Because the private group was not only a place to talk.
+ It was a place to coordinate posture.
+
+FACT: On April 20, 2025, Yu says..
+
+“A Japanese person just posted a link from X. It was an image showing Japanese people (those from QL1) spreading FUD about CAW.”
+ “QL1 will eventually disappear, so there’s no need to escalate the conflict unnecessarily.”
+ “However, we must protect the CAW community and make sure people don’t lose their funds.”
+
+Then she says:
+
+“I deleted the post because it was unnecessary.”
+
+That is not neutral-observer language.
+
+It does not prove malicious control.
+ But it does prove direct participation in what is allowed to circulate.
+
+And the same sequence shows Kachoperro taking a harder line.
+
+FACT: Kachoperro says:
+
+“Its just 20 people thinking they own caw. If they get too annoying we could start a campaign so people report to twitter community notes saying qom is trying to scam people to migrate”
+
+Then:
+
+“Best thing is insta ban, it worked with the turkish, they will get tired when they see they cant scrap anymore”
+
+That does not prove a hidden command structure.
+
+But it does materially strengthen the inference that Yu and Kachoperro were participating in a real inner social layer shaping..
+
+moderation,
+
+suppression,
+
+narrative defense,
+
+and how rival claims would be handled.
+
+That is not theoretical.
+ It is in the record.
+
+Fourth: @CommunityCaw functioned like a de facto main social account, even though the manifesto warns against official socials
+
+Now the cawmmunity comes to the contradiction that should concern every serious holder.
+
+FACT: The public @CommunityCaw profile presents itself as:
+
+“Decentralized Social Clearing House . http://caw.is Builders: http://t.me/cawbuilders . Github: http://github.com/cawdevelopment #CAW #CAWMmunity”
+
+And the same account publicly pushed builder-linked and manifesto-linked messaging such as:
+
+“follow teh dame. she will not disappoint.
+ evangelise
+ what is to come.
+ leaders make leaders.
+ bless teh makers.
+ evangelise.”
+
+and:
+
+“be selfless.
+ do not take centre stage.
+ for Ryoshi went dark.
+ teh vision.
+ teh manifesto.
+ teh appointed time.
+ teh appointed place.”
+
+and later:
+
+“There is news from the council @caw_dev has revealed the infrastructure behind #CAW on GitHub…”
+
+That account functioned, in practical terms, like the kind of handle many holders would naturally treat as a main CAW social surface.
+
+And now the new screenshot discovery matters.
+
+FACT: The attached X “About this account” screenshots show the following visible metadata:
+
+@CommunityCaw — joined May 2022, account based in Spain, connected via United Kingdom App Store
+
+[Image: 1*Ti3-Set-KVX5HwNHYQE6IA.png]
+
+@cryptomorgz — joined December 2020, account based in Spain, connected via United Kingdom App Store
+
+[Image: 1*SOut_l6dBHoRcGU6fLCFMw.png]
+
+@OsakaProtocol — joined May 2023, account based in Spain, connected via United Kingdom App Store
+
+[Image: 1*qTZJnAMjtc4Msl3oYLgagw.png]
+
+@Kachoperro2 — joined September 2019, account based in Spain, connected via Spain App Store
+
+[Image: 1*imYWJdUBFle0bv-0HbXJ9A.png]
+
+@kachoperro — joined February 2011, account based in Spain, connected via Web
+
+[Image: 1*BQ0YQPxGAu9iLnx8CUBchw.png]
+
+@caw_dev — joined April 2025, account based in Thailand, connected via Web
+
+[Image: 1*EiEmh55Wcw3XEYvFLOfhAg.png]
+
+@AnalOracle — joined April 2025, account based in Thailand, connected via Thailand App Store
+
+[Image: 1*I2If03kj1EOvA2B9PiGBYQ.png]
+
+Those screenshots do not prove shared custody.
+ They do not prove the same human is behind all Spain-based accounts.
+ They do not prove that Morgzy and Kachoperro are the same person.
+
+But they do create a new evidentiary pattern.
+
+INFERENCE: The social geography now appears split into at least two visible clusters:
+
+a Spain-centered cluster around @CommunityCaw, @cryptomorgz, @OsakaProtocol, @Kachoperro2, and@kachoperro
+
+and a Thailand-centered cluster around @caw_dev and @AnalOracle
+
+That is not identity proof.
+ But it is a meaningful pattern, and it updates the social-layer inference.
+
+The cawmmunity should be disciplined here.
+
+ALLEGATION: Morgzy and Kachoperro are the same person.
+ FACT: The screenshots show overlapping Spain-linked account metadata.
+ I cannot verify this: that the overlap proves same-person control.
+
+That is the honest posture.
+
+Fifth: the @CommunityCaw contradiction gets sharper because the private group treated socials like a work surface
+
+The contradiction is no longer abstract.
+
+It is not just:
+
+manifesto says no official socials,
+
+but a big CAW social account existed.
+
+It is sharper than that.
+
+INFERENCE: Taken together, the private trusted-circle room, the moderation discussions, and the existence of @CommunityCaw as a builder-linked public CAW account support the conclusion that CAW had a de facto social center, even if formal custody of the account remains unproven.
+
+That is a real structural contradiction against the manifesto posture.
+
+Sixth: Yu’s wallet tracing matters as a behavior map, not as a final identity proof
+
+Now to the YU wallet question.
+
+The cawmmunity should be told plainly..
+
+FACT: The record does not presently prove that Yu is 0xba0212619febff76431a4826c957853b9f2cdf7f or 0x1bad56f2eabd9b78534cf1601b3f0a500f07052e. That remains unproven.
+
+And in a case like this, final identity proof may never arrive unless..
+
+the holder self-signs,
+
+publicly self-identifies with verifiable custody,
+
+or leaves some other cryptographic proof.
+
+So the wallet question is not about pretending identity can be proven when it cannot.
+
+It is about something narrower..
+
+whether the wallet trail is strong enough to help explain the same social activity, promotion patterns, and suspected behavior that Yu publicly displayed across adjacent ecosystems.
+
+That is the purpose of the trace.
+
+And the small history matters.
+
+The wallet hunt did not begin as random address fishing.
+ It began because Yu publicly promoted and interpreted a cluster of related ecosystems — especially HIM, NHI, CAW, and adjacent tokens — while HIM-side reward talk made it reasonable to ask whether there was a wallet lane that matched that social role. The research now narrows that carefully: the current best chain case is reward-linked, not a final creator-to-Yu proof.
+
+The chain record then found that ba021 and 1bad were no longer cleanly separate candidates, but a linked cluster, connected by four reproduced ETH transfers totaling 22.5 ETH:
+
+0x54ad7ed63f914a11defb52f1f87f34ff428269decdf1c4329848af17f22cee35 — 4.5 ETH
+
+0x8071235f504fcfd6c3dec663212f6a114067daca9030f864cec6e1a05d1d44fe — 6 ETH
+
+0xc71f6111a8e897712f8d43dc9854d87e003ff26d4721ebe27dd2996297f4e621 — 2 ETH
+
+0x04173e6c181ef565c618878682ac20efdb6e7a5799e7c3be6b77e6de882adf1a — 10 ETH
+
+And the current best reading in the research is:
+
+0xba0212619febff76431a4826c957853b9f2cdf7f = stronger upstream / funding-style candidate
+
+0x1bad56f2eabd9b78534cf1601b3f0a500f07052e = stronger reward-linked execution-style candidate
+
+That is enough to matter.
+ It is not enough to convict identity.
+
+So the honest courtroom statement is..
+
+FACT: Yu’s wallet-tracing lane matters because it helps map a repeated ecosystem pattern.
+ FACT: The current chain case is a reward-linked cluster theory, not a final identity proof.
+ INFERENCE: The value of that cluster is behavioral — it helps explain why the same public actor keeps showing up in the same kinds of narratives, projects, and wallet-tracing lanes.
+
+Seventh: Kachoperro is not just a random participant — the record supports whale status and a wallet-social bridge
+
+Now to Kachoperro.
+
+The wallet case around Kachoperro is not the same as Yu’s.
+
+It is not a reward-linked cluster case.
+ It is a wallet-social bridge case.
+
+FACT: The research shows that kachoperro.eth historically resolved to 0x37b3fae959f171767e34e33eaf7ee6e7be2842c3, and that this address had repeated direct ETH value flow with 0x5cf00981051D1B2089af349ef9E074420Ad7Ae82, a wallet later analyzed in the OSAK lane. The preserved transfers include:
+
+Inbound to 0x5cf0... from 0x37b3...:
+
+0x3937942f0761ed051de41ac2b656792f6ab207f342c6168e8ee3eea068b55bb9 — 0.25 ETH
+
+0x286ed0d382230daa404d5b09ed5c6c85ef61da9b4071e8aa42bbfea5346c609d — 0.255 ETH
+
+0x3de592863f720e47fdaa83cddeb929931ab1ac07054e1b7eefe0300d93ad96bd — 0.27 ETH
+
+0x1ee03f5be3eecc6746ab8ac66e9b1cde3f0ca6163e5f79d8eebcef1e577e7b4d — 0.3 ETH
+
+0xf7572cc769324e0e7110fc4c69828708962ddd19ef6b62300e3f0341d7115f2f — 0.053996475502780819 ETH
+
+Outbound from 0x5cf0... to 0x37b3...:
+
+0x5adf58ff4221414568463e21417174c3b1296f9f438bc93d775eedc1afa4ee32 — 3.7277 ETH
+
+0x0e5f3aa5a50b7ec1d7b97f5f5a655f5991872f6e64cfddacf9f24757f23ae3d1 — 0.321373541239339966 ETH
+
+And the research totals it:
+
+inbound 0x37b3... -> 0x5cf0... = 1.128996475502780819 ETH
+
+outbound 0x5cf0... -> 0x37b3... = 4.049073541239339966 ETH
+
+The ENS history deepens that link.
+
+FACT: kachoperro.eth was configured at block 12561928 in tx 0xdc8f2590bc6a2741f5b7ce1c6b3feb74d7bad0ab1bbd1b8d9a39c2c08b54a18b, and the .eth NFT custody later moved in tx 0x254b1d21e9ab13356b8cf5336c7e0f52a9043f8b4c4a52392768ec910952108f.
+
+That does not prove single-human custody across every related address.
+
+But it does create a real wallet-social bridge between..
+
+a public Kachoperro identity surface,
+
+and a later wallet of interest.
+
+And as to scale, our own research is careful..
+
+“large trader / whale / likely LP somewhere” is better supported than “proven scammer”
+
+That is the fairest way to put it today.
+
+So yes — on current evidence, Kachoperro is best treated as a whale / large trader / likely LP actor, not as a randomly sized community participant.
+
+Eighth: Kachoperro’s clone-token / adjacent-token overlap sharpens the concern
+
+And now the adjacent-token evidence matters.
+
+The question is no longer only:
+
+“Was Kachoperro influential inside CAW?”
+
+It is also..
+
+“Was Kachoperro a recurring operator-level figure across CAW-adjacent token ecosystems, especially OSAK?”
+
+The attached material is careful here.
+
+FACT: It does not prove Kachoperro deployed OSAK. The attached review says directly:
+
+“No one claims he deployed the $OSAK contract itself — the connection is always community/admin/operations level.”
+
+That restraint matters.
+
+But the same attached material also says the chatter repeatedly paints Kachoperro as:
+
+“a behind-the-scenes admin/operator with cross-project ties, not the smart-contract dev”
+
+and as a shared operator-level figure across CAW and OSAK circles.
+
+That is not final proof.
+
+But it is enough to materially update the risk picture.
+
+Because the strongest current concern is no longer merely..
+
+“Kachoperro was loud in CAW.”
+
+It is now:
+
+“Kachoperro appears repeatedly in the community/admin/operations layer across CAW and CAW-adjacent ecosystems, especially OSAK.”
+
+That is much more serious.
+
+Ninth: the merged conclusion
+
+The fairest merged conclusion is this..
+
+FACT: The private CAW Family group shows Yu curating a trusted inner circle, tracking admin changes, reinforcing Enkidu legitimacy, and participating in deletion / protection / moderation discussions. It also shows Kachoperro participating in escalation ideas like reporting campaigns and “insta ban.”
+
+FACT: The public @CommunityCaw account functioned as a large, builder-linked, manifesto-linked CAW narrative account, even though the manifesto text says there are no official socials.
+
+FACT: The attached X “About this account” screenshots add a new social-metadata layer: @CommunityCaw, @cryptomorgz, @OsakaProtocol, @Kachoperro2, and@kachoperro, all show Spain-based account metadata, while @caw_dev and @AnalOracle show Thailand-based metadata.
+ INFERENCE: That does not prove shared control, but it does strengthen the “same circles / same surfaces / same recurring names” concern.
+
+FACT: Yu’s wallet trace remains a behavioral mapping tool, not a final identity proof. The strongest current chain case is a reward-linked cluster theory around 0xba0212619febff76431a4826c957853b9f2cdf7f and 0x1bad56f2eabd9b78534cf1601b3f0a500f07052e, not a final creator-to-Yu receipt.
+
+FACT: Kachoperro is best treated on current evidence as a whale / large trader / likely LP actor whose public identity surface also bridges into later CAW-adjacent and OSAK-adjacent social/operator concerns.
+
+INFERENCE: Taken together, this does not prove a hidden command structure. It does not prove sole custody of all socials. It does not prove deployer control.
+
+But it does support something narrower and still serious..
+
+there was a real unofficial human layer around CAW — a trusted circle, a moderation layer, a de facto main social account, and a set of recurring names whose influence was stronger than the manifesto posture would seem to allow.
+
+And in a project that was supposed to have..
+
+no leader,
+
+no official socials,
+
+and no official partner projects,
+
+that is not a trivial concern.
+
+It is a central one.
+
+— -
+
+10. The late on-chain history — and the biggest remaining concern
+
+And now the cawmmunity comes to the part of the record where sentiment no longer matters, where personality matters less, and where the only thing that deserves the floor is movement.
+
+This is the late on-chain history of CAW.
+
+This is where CAW stops being only a mystery, only a culture war, only a struggle over narrative, and becomes something colder:
+
+a question of wallets, liquidity, sink transfers, choreography, and beneficiaries.
+
+And this is where the greatest remaining concern now lives.
+
+Not in a tweet.
+Not in a Spaces.
+Not in a Medium post.
+
+In the chain.
+
+First: the late story is not simple
+
+The cawmmunity should begin by rejecting two lazy extremes.
+
+The first extreme says:
+ everything scary in the later record proves a rug.
+
+The second extreme says:
+ everything scary in the later record was normal operations and community fear.
+
+The research supports neither shortcut.
+
+What it supports is something harder.
+
+FACT: the later CAW on-chain pattern looks more structured, more operator-shaped, and more choreographed than the original mythology of a purely ownerless, purely untouchable, purely leaderless miracle would suggest.
+
+That does not automatically prove scam.
+
+But it does destroy innocence-by-myth.
+
+Second: the liquidity lane is real, and it is not passive
+
+The research is now very clear that a late LP / beneficiary lane exists and is not imaginary.
+
+FACT: The beneficiary-linked LP-token sequence is decoded, not guessed. The record says CAW/WETH LP tokens were transferred from 0xbaeedcccbfb112d4a921daa635ac2276307a1705 into 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f in two chunks:
+
+0.001344848153894506 LP
+
+0.000500000000000000 LP
+
+for a total of 0.001844848153894506 LP. The same audit also notes a separate 0.001800000000000000 LP dead-sink LP result in the broader lane.
+
+And the trace is more concrete than that.
+
+FACT: The deployer-to-intermediary LP sequence is preserved with transaction hashes. On September 22, 2025:
+
+tx 0xd5896bb2efd9092042e6206507e363645b0060f2a265978151d8c420ecb9fb9a
+ 0xbaeedcccbfb112d4a921daa635ac2276307a1705 -> 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+ amount: 0.001344848153894506 LP
+
+tx 0x30a01d1e248ed4b53df31a253f9f95e6b34ba9a3324ba6ff87a6c709d2b3d68d
+ 0xbaeedcccbfb112d4a921daa635ac2276307a1705 -> 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+ amount: 0.000500000000000000 LP
+
+Then those same LP amounts moved from 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f into the CAW/WETH pair:
+
+pair address: 0x48d20b3e529fb3dd7d91293f80638df582ab2daa
+
+tx 0x072ad893a27671dad474917e569df51a157421f59c21ed8d1c9cb2f3b5c7277d
+
+tx 0xa35c4aae235490f06d3308522384ff78e85a73d6cf6d08d41ad7e0314ea4bb65
+
+That matters because the record does not stop at “LP moved.”
+
+The audit says, in substance, that..
+
+0xbbd07...568f executed two successful Uniswap V2 removeLiquidity(...) calls
+
+LP moved into pair 0x48d20...2daa
+
+the pair burned LP to the zero address
+
+WETH was transferred from the pair to 0xbbd07...568f
+
+and CAW was transferred from the pair to 0xbbd07...568f.
+
+That is no longer “maybe unwind.”
+
+That is confirmed liquidity removal from the CAW/WETH pair.
+
+And the ETH side deepens the concern.
+
+FACT: The same lane treats 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f as operationally linked, not random. The research says it received:
+
+100 ETH from 0xbaeedcccbfb112d4a921daa635ac2276307a1705 in tx 0xb9847308461a1ade60cb8a467008535ef803f9481fb209628e9b068d48ebdff1
+
+1061 ETH from 0xbaeedcccbfb112d4a921daa635ac2276307a1705 in tx 0x33dc009d80a310bd0b46077bc347ee06c049c3b13652568f292d21e1be5b8df5
+
+The same audit then says plainly:
+
+“These two Sep 2025 ETH transfers are the strongest direct evidence so far that 0xbbd07...568f is not random noise but part of the deployer-controlled operational flow.”
+
+Again, the cawmmunity must be precise.
+
+That is not the same thing as saying..
+
+“therefore scam proven.”
+
+But it is absolutely enough to say..
+
+the later CAW chain history cannot honestly be described as simple passive market behavior.
+
+Third: holder-state and liquidity-state also show concentration
+
+The holder-state snapshot matters because it shows what the later chain looked like after these events.
+
+FACT: The holder snapshot preserved in cmc holders caw.txt shows:
+
+26.77K holders
+
+Top 10 = 37.13%
+
+Top 100 = 59.43%
+
+MEXC 3 = 20.38%
+
+CAW/WETH pair 0x48d20b3e529fb3dd7d91293f80638df582ab2daa = 4.45%
+
+It also shows the CAW/WETH pool holding roughly:
+
+29.6T CAW
+
+444.8 WETH
+
+That matters because it tells the cawmmunity three things.
+
+First: liquidity still exists.
+Second: holder concentration is real.
+Third: a meaningful chunk of supply remains concentrated in exchanges, the pair, and a repeating tranche pattern that appears below.
+
+This is not proof of a rug.
+
+But it is evidence that the late supply structure is not the simple “widely diffused, naturally organic, nobody shaping anything” story some people still want to tell.
+
+Fourth: the burn story had to be corrected
+
+This is where the research became more credible, not less.
+
+Because some of the most repeated interpretations did not survive stricter review.
+
+FACT: The late audit files say the real dead-sink seed is about 92.813T CAW total to the community dead sink 0xdead000000000000000042069420694206942069, with the dominant cluster dated to September 2025. The same files break that total into:
+
+September 2025 = about 80.349737793448T CAW
+
+July 2025 = about 12.463731304359T CAW
+
+together = ~92.813T CAW sent to the community dead sink.
+
+And for September specifically, the research preserves the concentrated dead-sink cluster on September 22, 2025:
+
+2025–09–22 13:03:47 UTC
+ tx 0x831c96df1beb7a3e56d8c65acbd44ff093f37716ba2b43aa664b7ac36b24acd3
+ from 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+ to 0xdead000000000000000042069420694206942069
+ amount 16,935,831,472,696.559845103650575575 CAW
+
+2025–09–22 13:40:23 UTC
+ tx 0xd8afb3f3ba6453a7f59e9b10ab5eb90f799e9c23e0bb7257b9755d8c2737984e
+ from 0xbaeedcccbfb112d4a921daa635ac2276307a1705
+ to 0xdead000000000000000042069420694206942069
+ amount 12,002,000,005,000.000000000009997 CAW
+
+2025–09–22 13:46:47 UTC
+ tx 0x070a7916a6c02f67c40f65a334e8fb683e3e277cf3cae99c874b1a5253e75dcb
+ from 0xbaeedcccbfb112d4a921daa635ac2276307a1705
+ to 0xdead000000000000000042069420694206942069
+ amount 9,870,367,006,085.165025899380060047 CAW
+
+tx 0xa4aa23e0ab56c8e8e6c097b2ca008680ea850e05ee2fca6f28c0937744bfe414
+ from 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+ to 0xdead000000000000000042069420694206942069
+ amount 41,541,539,309,666.406621517131625237 CAW
+
+That is why the same research says the September dead-sink story is dominated by two wallets, not one. The top sender totals are preserved as:
+
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f → 58,477,370,782,362.966466620782200812 CAW
+
+0xbaeedcccbfb112d4a921daa635ac2276307a1705 → 34,336,098,315,444.261495131846990487 CAW
+
+That matters for two reasons.
+
+First: it proves the large dead-sink story was not deployer-only in the narrow sense.
+Second: it proves the cawmmunity must separate raw transfer chronology from later slogans.
+
+And that is important because mature research is not supposed to protect favorite slogans.
+
+It is supposed to kill them when they are wrong.
+
+Fifth: burn-wallet concerns remain unresolved
+
+The dead sink itself is real, but the meaning of the sink is where the technical dispute begins.
+
+FACT: The late-chain sink wallet is the custom dead address:
+
+0xdead000000000000000042069420694206942069
+
+And the concern is not whether it received tokens.
+
+It did.
+
+The concern is what that does and does not prove.
+
+Because the research now separates..
+
+economic inaccessibility
+ from
+
+canonical ERC-20 supply reduction.
+
+That distinction matters.
+
+Sixth: sink is not the same thing as canonical burn
+
+This is one of the most important technical corrections in the entire CAW case.
+
+Because too many people spoke as though “sent to dead sink” and “supply permanently reduced” were automatically identical.
+
+The research does not support treating those as the same thing.
+
+FACT: The audit separates dead-sink transfer activity from native contract _burn() semantics. The source review says:
+
+_burn(address account, uint256 amount) exists
+
+_burn reduces _totalSupply
+
+_burn emits Transfer(account, address(0), amount)
+
+But the review window found:
+
+37 Transfer events to the custom dead sink 0xdead000000000000000042069420694206942069
+
+0 zero-address transfer rows in that same review window
+ and concluded:
+
+“the event set is not evidence of _burn() execution.”
+
+That is not a minor technicality.
+
+That is the difference between..
+
+a real accounting statement,
+
+and a community slogan.
+
+So let the record reflect this clearly:
+
+FACT: CAW’s dead-sink history is real.
+ FACT: CAW’s canonical supply-reduction claim is not automatically settled by that fact alone.
+
+That correction matters because it forces this cawmmunity, to stop letting emotionally satisfying phrases substitute for exact mechanics.
+
+Seventh: the seven 1% wallets are one of the strongest late-stage concerns
+
+If there is one late-stage fact pattern that should unsettle any serious observer, it is this one.
+
+FACT: After the major September 2025 dead-sink sequence, 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f sent seven repeated transfers of 6,666,666,666,666 CAW each to seven separate EOAs. The preserved recipients are:
+
+0x1629e2e0a2ece568ee15ac20414d42c671b926dc
+
+0xf58543e26479cac9f351b165ae8e22d313810a82
+
+0x704b98301d4778efa9fa76e501423e7e6f6bc444
+
+0xc1595a4600e9ca4b5baab864c38a98f98001e302
+
+0xff03efbbc1e743283c8c38c9564581c00a91c312
+
+0xc105150c4a9440853683700a067dfef0e191db82
+
+0x1353034b6ed84bcbec3552096b6afd8c9d7714df
+
+The raw ledger preserves the repeated transfer pattern in sequence. For example:
+
+tx 0x6cc49fb3d4837643403543f65b9d6b86309588f3603129ec6ebebf20b270ef1f
+ 0xbbd07...568f -> 0x1629e2e0a2ece568ee15ac20414d42c671b926dc
+ amount 6,666,666,666,666 CAW
+
+tx 0x3d1e2caa930a3ec8043e6a323687201f5ea0cc455ae5ed12ea174d0d946f5795
+ 0xbbd07...568f -> 0xf58543e26479cac9f351b165ae8e22d313810a82
+ amount 6,666,666,666,666 CAW
+
+tx 0xcbecee1ff74025554cb916015e9b369779df0a93d3a9f9efd11e435a06bc14d6
+ 0xbbd07...568f -> 0x704b98301d4778efa9fa76e501423e7e6f6bc444
+ amount 6,666,666,666,666 CAW
+
+tx 0x94d1c4cddf2fcde3acc085d6fa7aa2940642ea7c29c856956113f2bceb47807f
+ 0xbbd07...568f -> 0xc1595a4600e9ca4b5baab864c38a98f98001e302
+ amount 6,666,666,666,666 CAW
+
+And the holder-state snapshot later matches that pattern.
+
+FACT: The holder snapshot shows these same seven addresses each at about 1% and about $208.71K in that snapshot:
+
+0x1353034b6ed84bcbec3552096b6afd8c9d7714df
+
+0x1629e2e0a2ece568ee15ac20414d42c671b926dc
+
+0x704b98301d4778efa9fa76e501423e7e6f6bc444
+
+0xc105150c4a9440853683700a067dfef0e191db82
+
+0xc1595a4600e9ca4b5baab864c38a98f98001e302
+
+0xf58543e26479cac9f351b165ae8e22d313810a82
+
+0xff03efbbc1e743283c8c38c9564581c00a91c312
+
+Now the cawmmunity should be careful here too.
+
+A patterned seven-wallet distribution does not by itself prove criminal intent.
+
+But it is one of the strongest pieces of choreography evidence in the entire late CAW record.
+
+Because random distribution rarely looks like..
+
+equal tranche sizing,
+
+synchronized timing,
+
+and later visible holder symmetry.
+
+That pattern deserves scrutiny.
+
+And the right legal phrase for it is not:
+
+“proof of scam.”
+
+It is..
+
+INFERENCE: strong evidence of deliberate operator-shaped wallet choreography.
+
+That is serious enough.
+
+Eighth: why the seven 1% wallets might be a concern
+
+The concern case is straightforward.
+
+If seven equal tranches were deliberately spread into seven fresh-looking or coordinated EOAs, then the pattern can serve at least three possible purposes..
+
+to soften visible concentration without truly decentralizing control,
+
+to create the appearance of broader holder distribution,
+
+or to preserve optionality for later synchronized exits, voting weight, or social bluff.
+
+The fact that the amounts are identical, the timing is tight, and the later holder table shows near-perfect symmetry makes the concern stronger, not weaker.
+
+Ninth: why the seven 1% wallets might not, by themselves, prove wrongdoing
+
+The cawmmunity must also hear the narrower defense.
+
+Equal tranches are suspicious.
+
+They are not self-proving.
+
+A coordinated actor could have split tokens for..
+
+treasury segmentation,
+
+multi-wallet risk reduction,
+
+future distribution planning,
+
+or some other non-criminal operational reason.
+
+And the holder snapshot alone cannot tell the cawmmunity..
+
+whether those seven wallets are controlled by one human,
+
+many humans,
+
+a treasury process,
+
+or a partially distributed cohort.
+
+So the honest posture is this..
+
+FACT: the pattern is real.
+INFERENCE: the pattern looks deliberate.
+I cannot verify this: that the seven wallets prove criminal intent or single-party custody on their own.
+
+That distinction matters.
+
+Tenth: why this is the biggest remaining concern
+
+Because here, unlike in the social lanes, the cawmmunity does not get to hide behind ambiguity of language.
+
+The chain moved.
+ Liquidity moved.
+ Sink transfers happened.
+ The seven-wallet pattern happened.
+ And the later explanations around those events have often lagged far behind the movements themselves.
+
+That is why this section matters more than any one Telegram argument.
+
+It is where the question becomes..
+
+who benefited?
+
+And that is still the unanswered centerpiece.
+
+The cawmmunity should understand the distinction.
+
+The late on-chain history does not yet prove a full intentional-scam theory, because the decisive beneficiary chain still needs to be closed.
+
+But it does prove that the cawmmunity no longer has the luxury of speaking about CAW as though..
+
+no meaningful operators existed,
+
+no meaningful liquidity choreography occurred,
+
+no meaningful post-burn structure emerged,
+
+and no meaningful divergence existed between public myth and measurable wallet behavior.
+
+That luxury is gone.
+
+The fairest conclusion
+
+So the honest conclusion in this section is not dramatic.
+
+It is disciplined.
+
+FACT: The late CAW record shows real liquidity removal, real ETH operational transfers, real dead-sink transfer behavior, real burn-chronology corrections, real concentration, and real seven-wallet symmetry.
+
+FACT: The strongest late-stage community talking points had to be corrected by better research, especially around the dead-sink / supply-reduction distinction and around the true location of the dominant dead-sink cluster in September 2025.
+
+INFERENCE: The biggest remaining concern in CAW is not simply that something happened. It is that the later on-chain history looks too structured to dismiss, too consequential to ignore, and still too under-explained to trust casually.
+
+That is where the case now sits.
+
+Not at certainty.
+ Not at absolution.
+
+At a point where the chain itself has raised questions that culture can no longer answer away.
+
+And until those questions are answered with full beneficiary tracing, the late on-chain history remains the most serious unresolved threat to CAW’s claim of innocence.
+
+— -
+
+11. So is CAW a scam?
+
+And now the cawmmunity arrives at the central question.
+
+Not the emotional question.
+Not the tribal question.
+Not the question people ask when they want comfort.
+
+The actual question.
+
+Is CAW a scam?
+
+To answer that honestly, the cawmmunity must do what it has often struggled to do..
+
+hold the prosecution case and the defense case in the same room at the same time.
+
+Because both exist.
+ Because both have weight.
+ And because neither side is entitled to more certainty than the receipts actually allow.
+
+The strongest case that CAW may be a scam
+
+Let us begin with the harder side.
+
+Not because it is comfortable.
+ But because if CAW cannot survive the strongest case against it, then it does not deserve trust.
+
+The strongest case against CAW is not that the token contract itself was an obvious honeypot or mint trap. That would actually be easier. The stronger case is subtler and more dangerous. It is the case that CAW may have become — or may always have been vulnerable to becoming — a long-duration trust-extraction environment built on ambiguity, shifting authority, narrative capture, and later operator-shaped movements. And the record gives that case real material.
+
+FACT: The community was repeatedly asked to place weight on interpretation where clean authorization was missing. The first-riddle trail is real enough to reproduce in broad structure — 58bZfQ1 -> image -> stego/coords -> Gilgamesh -> CID -> APE -> DeepSound -> enkidu -> manifesto — but the same research also preserves a red-herring warning and says a secondary unsolved purpose remains indicated. In parallel, the second deployer-authored seed zrUfKaKV remained open long after the first-manifesto lane became culturally dominant.
+
+FACT: The builder-versus-hunter fracture is preserved in the chat history itself. The record shows: “Half of us are starting to build,” “The others are looking for more clues and say it’s a false trail,” and “the current WP is splitting the group.” It also records Joop’s objection that the whitepaper ended with a “red herring” and that more work remained.
+
+FACT: Gilgamesh later became a major builder-facing hope figure, but the research still does not surface verified deployer authorization or mainnet authority. One traced summary says the strongest statement available is that Gilgamesh’s repo references CAW artifacts but that this is compatible with permissionless copying and does not prove privileged linkage to cawdevelopment; another says there is still “No verified evidence yet” of decision-making capacity over CAW mainnet. The same review explicitly says, “I can’t verify that,” in response to whether Gilgamesh is a scammer.
+
+FACT: The late on-chain record is not innocuous. It includes deployer-linked ETH transfers into 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f, LP-token transfers from 0xbaeedcccbfb112d4a921daa635ac2276307a1705 into that same wallet, confirmed removeLiquidity(...) behavior against the CAW/WETH pair 0x48d20b3e529fb3dd7d91293f80638df582ab2daa, dominant September 2025 dead-sink transfers split across 0xbbd07...568f and 0xbaeed...1705, and the later seven-wallet repeated-tranche pattern of 6,666,666,666,666 CAW each. That is structured behavior, not simple passive drift.
+
+FACT: The cawmmunity’s strongest pro-CAW talking points repeatedly required correction. The late audit work says the dominant community dead-sink total is about 92.813T CAW, concentrated primarily in September 2025 and July 2025, and the same work distinguishes dead-sink transfers from canonical _burn() execution, noting that _burn would emit zero-address transfer semantics while the reviewed event windows showed transfers to the custom dead sink instead.
+
+Now put those facts together.
+
+What do they suggest?
+
+INFERENCE: The strongest anti-CAW theory is that the project evolved into, or was always vulnerable to becoming, a system where mystery created belief, interpreters replaced authority, builders inherited legitimacy without surfaced proof of authorization, and later wallet / liquidity choreography occurred in ways the cawmmunity was not equipped to audit in real time.
+
+That is a serious case.
+
+And if someone wants the bluntest prosecutorial version, it is this..
+
+INFERENCE: CAW may be a scam not because the chain proves a cartoonishly obvious rug, but because the social and operational structure around CAW may have functioned as a long-form trust shell whose ambiguity protected the people shaping it.
+
+That is the strongest case against it.
+
+The strongest case that CAW may not be a scam
+
+Now the cawmmunity must do the other side the same justice.
+
+Because truth is not served by pretending the anti-CAW case is cleaner than it is.
+
+The strongest case against the simple scam theory begins with origin.
+
+FACT: CAW has a real and unusually clean origin spine. The uploaded receipts preserve the sequence:
+ 0xB8f226dDb7bC672E27dffB67e4adAbFa8c0dFA08 (Shiba Inu: Deployer)
+ -> 0x81A0daaab45dBbcE68b11E7AEdDd6A0D1970bdeA in tx 0xb5b81a63c957fcc33469d59f9c969e860d24574bb72d8b2fc482c7232cb13062
+ -> 0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005 in tx 0xbfed9c9fe98cf7705b6668afbe9f01c81310f062ae5853b2ac31efd2847f44f0
+ and roughly 2 minutes 20 seconds later the CAW contract 0xf3b9569f82b18aef890de263b84189bd33ebe452 is created in tx 0x4d160f76cdacbffc4f7302d4fb180317e15d19080cbbaded4ef0197e71ba515c. That is a real on-chain funding and deploy path, not invented lore.
+
+FACT: CAW also has real deployer-authored riddle behavior. The first seed 58bZfQ1 led into the image / stego / book-cipher / audio / enkidu / manifesto lane, and the second seed zrUfKaKV was a separate deployer-authored self-transaction later tied to a deleted-and-recovered Pastebin lane. That is not community fan fiction layered on after the fact; it is part of the project’s documented public trail.
+
+FACT: The token contract itself is not, on the current record, a classic admin-backdoor scam contract. The uploaded HashEx summary states that the audited contract at 0xf3b9569F82B18aEf890De263B84189bd33EBe452 was an ERC20 implementation without native minting or burning mechanisms, and the broader audit commentary says the CAW contract is not presenting a typical upgradeable / proxy admin control surface in the receipts shown. That does not clear the broader ecosystem, but it narrows the contract-level accusation.
+
+FACT: The Team Finance / whitehat event is real, and the deployer-side message lane is real. The record preserves tx 0x7903adbb7ab03521da9951d63cc9050ee005dfa871ba3f6d3e20d0bb941f5c37 carrying:
+ “teh appointed time and appointed place.
+ be well whitehat”
+ with anchors to https://pastebin.com/yhcajZq0 and https://github.com/cawdevelopment. It also preserves the later deployer-side whitehat message beginning:
+ “thank you whitehat I am CAW DEPLOYER”
+ followed by recovery instructions and the claim that “CAW has no owner no leader.” That matters because a lazy rug narrative would prefer silent disappearance. The record instead shows continued deployer-side communication inside a live recovery lane.
+
+FACT: The strongest absolute scam accusations are still unclosed. The surfaced record still does not prove Ryoshi identity, Gilgamesh official authority, Yu wallet identity, FarmTown / HashEx as the whitehat, or the final beneficiary chain from suspicious late-stage wallet behavior into conclusively insider-controlled endpoints. The same research repeatedly refuses to promote emotionally satisfying identities into canon without proof.
+
+And this point matters enormously..
+
+FACT: The later research became more credible, not less, precisely because it corrected overstatements. It separated dead-sink transfers from native supply-reduction semantics and repeatedly kept identity claims in the category of inference unless the receipts could carry them.
+
+That means the strongest defense of CAW is not emotional loyalty.
+
+It is evidentiary discipline.
+
+And that defense says..
+
+INFERENCE: CAW may not be a scam because the record still shows a real deployer, real authorship, real structured puzzle design, a real nontrivial on-chain origin path, and a project history too unusual and too incompletely closed to reduce honestly to a simple rug story.
+
+That is the strongest case against over-convicting it.
+
+The actual verdict
+
+Now the cawmmunity must answer, not as a partisan, but as a tribunal of receipts.
+
+And the answer is not dramatic.
+
+It is exact.
+
+FACT: CAW is not conclusively proven to be an intentional scam. The strongest anti-CAW concerns are real, but the decisive beneficiary chain is still not fully closed.
+
+FACT: CAW is also not cleared as a fully trustless, fully transparent, fully leaderless project. The riddles remain incompletely settled, the builder-authorization question remains unresolved, the visible build does not cleanly match the strongest manifesto trust assumptions, and the late on-chain choreography remains too structured and too under-explained to trust casually.
+
+So what is the proper legal conclusion?
+
+It is this..
+
+INFERENCE: CAW today should be understood as a project with real substance, real evidence, real mystery, and real reasons for distrust — all at once.
+
+That is not fence-sitting.
+
+That is what the record supports.
+
+If the cawmmunity were forced to state it in one sentence, it would say..
+
+INFERENCE: CAW is not proven to be a scam beyond the available evidence, but it has accumulated too many unresolved authority, narrative, and operator-risk problems to be treated as vindicated.
+
+That is the verdict.
+
+Not guilty by mythology.
+ Not guilty by hope.
+ Not guilty by whale sentiment.
+ Not guilty by builder charisma.
+ And not innocent by default.
+
+But equally:
+
+Not innocent by slogan.
+ Not innocent by riddle.
+ Not innocent by old screenshots.
+ Not innocent by community fatigue.
+
+The only honest answer is the one the receipts permit.
+
+And today, that answer is still unresolved.
+
+— -
+
+12. The objective answer
+
+At this point, the cawmmunity must do what the cawmmunity has often refused to do.
+
+It must separate:
+
+what was proven,
+
+what was interpreted,
+
+what was believed,
+
+and what was merely repeated until it sounded true.
+
+Because CAW has now existed long enough that confusion itself has become part of the architecture.
+
+And the only way to cut through that is to state the objective answer plainly.
+
+What CAW was
+
+FACT: CAW began as a real Ethereum token with a real deployer, a real funding path, and a real contract creation event. The on-chain spine preserved in the record remains:
+
+0xB8f226dDb7bC672E27dffB67e4adAbFa8c0dFA08 (Shiba Inu: Deployer)
+
+-> 0x81A0daaab45dBbcE68b11E7AEdDd6A0D1970bdeA in tx 0xb5b81a63c957fcc33469d59f9c969e860d24574bb72d8b2fc482c7232cb13062
+
+-> 0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005 in tx 0xbfed9c9fe98cf7705b6668afbe9f01c81310f062ae5853b2ac31efd2847f44f0
+
+-> CAW contract 0xf3b9569f82b18aef890de263b84189bd33ebe452 created in deploy tx 0x4d160f76cdacbffc4f7302d4fb180317e15d19080cbbaded4ef0197e71ba515c.
+
+FACT: CAW also began as a real mystery structure, not as a fake legend added later. The deployer embedded the first and second riddle markers directly on-chain: 58bZfQ1 and zrUfKaKV. The preserved research ties those seeds to the first and second public riddle lanes rather than to later community invention.
+
+FACT: CAW was therefore never just “a coin.” It was launched into the world as:
+
+an asset,
+
+a clue system,
+
+and a social experiment in interpretation.
+
+That is what CAW was.
+
+What CAW became
+
+FACT: Over time, CAW became more than a deployer-authored mystery. It became a contested social system in which meaning was increasingly shaped by visible interpreters, builders, admins, and culture-makers rather than by the raw clue set alone. The preserved chat history makes that split explicit:
+
+“Half of us are starting to build”
+ “The others are looking for more clues and say it’s a false trail”
+ “the current WP is splitting the group.”
+
+FACT: The builder era did not arrive with clean surfaced authorization. Gilgamesh appears to have done real work, but the research still does not show verified deployer authority or privileged mainnet control. The same review lane says his public build remains compatible with a permissionless community-side implementation rather than proven official succession, while the code review continues to show owner controls, fee rails, and trust surfaces that do not cleanly match the hardest trustless-manifesto reading.
+
+FACT: The late on-chain history became increasingly operator-shaped. The receipts now preserve beneficiary-linked ETH and LP movement into 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f, confirmed removeLiquidity(...) behavior against the CAW/WETH pair 0x48d20b3e529fb3dd7d91293f80638df582ab2daa, dominant September 2025 dead-sink transfers into 0xdead000000000000000042069420694206942069, and a later seven-wallet repeated-tranche pattern of 6,666,666,666,666 CAW each.
+
+That is what CAW became:
+
+not simply a token,
+ not simply a riddle,
+ but a project in which mystery, belief, code, wallet movement, and narrative control all began overlapping in unstable ways.
+
+What CAW is now
+
+The cawmmunity must now answer the present-tense question.
+
+Not “what did we hope CAW was.”
+ Not “what did we fear CAW was.”
+ What is it now, based on the record?
+
+FACT: CAW is now a project with..
+
+a real origin trail,
+
+a real deployer,
+
+real riddles,
+
+a real community history,
+
+and real builder attempts.
+
+FACT: CAW is also now a project with:
+
+unresolved builder authorization,
+
+unresolved identity claims,
+
+unresolved whitehat identity,
+
+unresolved beneficiary tracing,
+
+real late-stage choreography concerns,
+
+and serious gaps between mythology and what the receipts safely prove.
+
+FACT: The record does not presently support either of the two most emotionally convenient conclusions. It does not support “nothing was real,” because the deploy path, riddle path, and social/build history are real. And it does not support “everything is vindicated,” because authority, custody, and beneficiary closure remain unresolved while the late-chain behavior remains too structured to dismiss casually.
+
+So the objective answer is not romantic.
+ It is not tribal.
+ It is not satisfying.
+
+It is this:
+
+INFERENCE: CAW today is a partially verified, partially captured, partially unfinished project whose truth still lives in the gap between what the deployer actually left behind and what later figures taught the cawmmunity to believe about it.
+
+That is the objective answer.
+
+If the Court were forced to compress it into one final line, it would say this:
+
+INFERENCE: CAW is neither a fully vindicated decentralized success nor a conclusively proven intentional scam; it is an unresolved project whose strongest remaining truth is that the receipts are real, the mystery is real, and the unanswered risks are real too.
+
+— -
+
+13. What the cawmmunity should require now
+
+If the cawmmunity were to issue a standard, it would be this..
+
+No more substitute forms of authority.
+
+No more:
+
+“trust the builder”
+
+“trust the old names”
+
+“trust the screenshots”
+
+“trust the feeling”
+
+“trust the lore”
+
+Because that is exactly how CAW became vulnerable to confusion in the first place.
+
+It became too easy for..
+ interpretation to stand in for authorization,
+ visibility to stand in for legitimacy,
+ and repetition to stand in for proof.
+
+That cannot be the standard anymore.
+
+Not after the riddles.
+ Not after the manifesto split.
+ Not after the builder-authority problem.
+ Not after the late wallet choreography.
+ Not after the gap between what was claimed, what was assumed, and what the receipts actually proved.
+
+From this point forward, every serious CAW claim should face the same evidentiary burden.
+
+If someone says they build for CAW..
+ show the authorization.
+
+If someone says the deployer wanted it this way..
+ show the receipt.
+
+If someone says the code fulfills the manifesto..
+ show the diff.
+
+If someone says the riddle is done..
+ show why the second deployer-authored trail is no longer relevant.
+
+If someone says the late sink choreography is harmless..
+ show the beneficiary chain.
+
+If someone says the seven-wallet pattern is innocent..
+ show the custody separation or the non-overlap proof.
+
+If someone says CAW is definitely a scam..
+ show the endpoint proof.
+
+If someone says CAW is definitely innocent..
+ show the trust model.
+
+That is the only adult standard left.
+
+Because CAW has now reached the point where..
+
+belief without proof is dangerous,
+ skepticism without discipline is lazy,
+ and loyalty without evidence is indistinguishable from surrender.
+
+The cawmmunity does not need more myth.
+ It does not need more priesthood.
+ It does not need more self-appointed interpreters asking to be trusted on instinct.
+
+It needs a rule.
+
+And the rule should be simple..
+
+No more canon without receipts.
+ No more authority without proof.
+ No more certainty without closure.
+
+That is what a serious cawmmunity should require now.
+
+Because if CAW is ever to be judged fairly — whether toward innocence or toward condemnation — it will not be saved by louder voices.
+
+It will be saved, or buried, by evidence.
+
+— -
+
+14. Final verdict
+
+So let the final statement be entered into the record plainly.
+
+This Court has heard the mythology.
+ It has heard the hope.
+ It has heard the suspicion.
+ It has heard the slogans from both sides.
+
+But slogans are not verdicts.
+
+Receipts R.
+
+And the receipts establish at least this much..
+
+FACT: CAW is not conclusively proven to be an intentional scam. The origin path is real, the deployer trail is real, the riddles are real, and the project cannot honestly be reduced to a cartoonishly simple rug story.
+
+FACT: CAW is also not cleared as a fully trustless, fully transparent, fully leaderless project. The builder-authorization question remains unresolved, the social layer grew stronger than the manifesto posture would suggest, and the late on-chain record shows structured liquidity, sink, and wallet choreography that remains under-explained.
+
+So the strongest honest description is not partisan.
+ It is not flattering.
+ It is not comforting.
+
+It is this..
+
+INFERENCE: CAW is a real project with real evidence, real mystery, real continuity, and real reasons for distrust — all at the same time.
+
+That is the verdict the record allows.
+
+Not vindicated.
+ Not convicted.
+ Not absolved by lore.
+ Not condemned by frustration.
+
+Simply brought, at last, into its proper light.
+
+And let the cawmmunity understand what that means.
+
+If CAW is real, truth will not kill it.
+ If CAW is false, truth is the only thing that ever could.
+
+So let truth do its work.
+
+-XT
+
+[Image: 1*d8NUPsoLGlJjKI4_bTblJA.png]
+
+A ledger of claims n answeRs…
+
+Verdict key
+
+CONFIRMED = supported by the current receipts.
+ FALSE / REFUTED = contradicted by the current receipts.
+ PARTIAL = some core facts are real, but the full accusation is not proven.
+ OPEN / NOT VERIFIED = the present corpus does not close the claim.
+
+1) “CAW was fake from the start / just a made-up lore token.”
+
+Verdict: FALSE
+
+Why: The origin spine is real and on-chain. The research preserves the funding path
+ 0xB8f226dDb7bC672E27dffB67e4adAbFa8c0dFA08 (Shiba Inu: Deployer)
+ → 0x81A0daaab45dBbcE68b11E7AEdDd6A0D1970bdeA in tx 0xb5b81a63c957fcc33469d59f9c969e860d24574bb72d8b2fc482c7232cb13062
+ → 0x36B59455AfeEdf0866FE6E775FE7651bbBe3e005 in tx 0xbfed9c9fe98cf7705b6668afbe9f01c81310f062ae5853b2ac31efd2847f44f0
+ → CAW contract 0xf3b9569f82b18aef890de263b84189bd33ebe452 in deploy tx 0x4d160f76cdacbffc4f7302d4fb180317e15d19080cbbaded4ef0197e71ba515c.
+
+What solves it: The on-chain funding and deploy receipts already solve this claim against the “fake from nothing” theory. The project is real; the dispute is about meaning, authority, and later conduct.
+
+2) “Ryoshi founded CAW” / “Ryoshi controls CAW.”
+
+Verdict: OPEN / NOT VERIFIED
+
+Why: The corpus supports a meaningful SHIB-origin connection, not identity proof. The SHIB deployer-labeled wallet funded the intermediary that funded the CAW deployer, and the research notes strong stylistic and philosophical parallels between SHIB and CAW. But the same source also says plainly that “Deployer” is a role on-chain, not a verified identity, and that none of this proves who held the keys.
+
+What solves it: A signed message or equivalent cryptographic authorization from a wallet/control surface that can be credibly tied to Ryoshi or the original SHIB-critical infrastructure.
+
+3) “The SHIB deployer funding path proves Ryoshi.”
+
+Verdict: FALSE as stated
+
+Why: The funding path is confirmed, but identity is not. The receipts prove
+ SHIB deployer-labeled wallet → intermediary → CAW deployer → contract creation. They do not prove the real-world or pseudonymous identity behind those keys.
+
+What solves it: Same as above: cryptographic authorization, not pattern-matching.
+
+4) “CAW was a scam at launch.”
+
+Verdict: OPEN / NOT VERIFIED
+
+Why: The strongest current record does not show a classic launch-time honeypot or obvious contract trap. The origin path is real, the riddles are real, and the token contract is not currently evidenced as a cartoonishly obvious scam contract. But that does not clear the broader ecosystem or later conduct.
+
+What solves it: A closed beneficiary chain showing launch-phase extraction inconsistent with the public posture, or a direct technical receipt showing hidden launch-time exploitability.
+
+5) “The CAW token contract itself was an admin-backdoor / mint-trap scam contract.”
+
+Verdict: FALSE on current contract-level evidence
+
+Why: The research states the surfaced CAW contract is not showing a typical proxy-admin / upgradeable control surface in the receipts reviewed, and the public-audit lane described it as a standard ERC20-style contract without native mint / burn mechanisms in scope.
+
+What solves it: This claim is effectively solved against the simple contract-backdoor theory unless new bytecode-level receipts surface.
+
+6) “The first manifesto is the final, fully authorized answer to CAW.”
+
+Verdict: FALSE
+
+Why: The riddle corpus itself preserves the opposite caution. The first-riddle chain is broadly reproduced, but the same research preserves a red-herring warning and says a secondary unsolved purpose remains indicated. The builders-vs-hunters split is explicit in chat:
+ “Half of us are starting to build,”
+ “The others are looking for more clues and say it’s a false trail,”
+ and “the current WP is splitting the group.”
+
+What solves it: This claim is already solved against finality. The second deployer-authored trail zrUfKaKV is enough to prevent treating the first manifesto as conclusively final.
+
+7) “The riddles were irrelevant side quests.”
+
+Verdict: FALSE
+
+Why: The riddles are deployer-authored on-chain seeds. The first and second markers, 58bZfQ1 and zrUfKaKV, came from deployer-linked self-transactions, and the first chain is documented as
+ on-chain key → image → stego poem/coords → Gilgamesh → CID → APE → DeepSound → enkidu → manifesto.
+
+What solves it: Already solved. The riddles are part of the evidentiary trail, not fandom garnish.
+
+8) “Gilgamesh controls CAW” / “Gilgamesh has proven mainnet authority.”
+
+Verdict: FALSE on current surfaced mainnet receipts
+
+Why: One of the strongest audit summaries says directly that “Gilgamesh controls CAW” is not supported by the surfaced mainnet touchpoints. The tested Gilgamesh-linked EOA shows 3 txs total, 0 CAW token transfers, and no direct touches to the CAW deployer or CAW token in the captured outputs. Repo references to CAW are compatible with permissionless copying and do not prove privileged linkage to cawdevelopment.
+
+What solves it: A direct mainnet touchpoint from a proven Gilgamesh-linked wallet to deployer custody, token custody, or an authorized project control surface.
+
+9) “Gilgamesh is proven scammer.”
+
+Verdict: OPEN / NOT VERIFIED
+
+Why: The research repeatedly narrows this. It shows real build claims and real narrative influence, but it also explicitly refuses to say he is proven scammer and says no verified mainnet authority is yet shown.
+
+What solves it: Either a closed beneficiary / custody chain showing extractive control, or a signed authorization proving he was indeed the intended official builder.
+
+10) “CAW had official socials / official partner projects.”
+
+Verdict: FALSE against the manifesto; PARTIAL in practice
+
+Why: The manifesto text says there are no official socials and no official partner projects. That posture appears verbatim in the recovered manifesto lines.
+
+[Inference] At the same time, later social reality appears to have produced de facto centers of gravity. But that is not the same thing as proving formal official status.
+
+What solves it: A signed message or on-chain authorization explicitly designating a social account or partner project as official.
+
+11) “CAW needed leadership / had real leaders.”
+
+Verdict: PARTIAL
+
+Why: The manifesto says the opposite: “there is no leader in this process” and warns that helpful people will claim ownership of the process.
+
+But the later social history in the research shows visible interpreters and builders becoming practical authority figures anyway. That proves social drift, not formal legitimacy.
+
+What solves it: Formal authorization. Without that, leadership remains de facto, not proven de jure.
+
+12) “The Team Finance / whitehat event was fake.”
+
+Verdict: FALSE
+
+Why: The whitehat lane is real. The deployer-side message tx 0x7903adbb7ab03521da9951d63cc9050ee005dfa871ba3f6d3e20d0bb941f5c37 is repeatedly preserved with the message
+ “teh appointed time and appointed place. be well whitehat”
+ and links to the manifesto Pastebin and cawdevelopment GitHub. The corpus also preserves later deployer-side whitehat messaging.
+
+What solves it: Already solved against the “fake event” theory. The open issue is not whether it happened, but who the whitehat was and what that means.
+
+13) “FarmTown / HashEx / Jeff were the whitehat.”
+
+Verdict: OPEN / NOT VERIFIED
+
+Why: The allegation file itself admits the leap. It presents a Unimex multisig with
+ 0xF5c730070941bd6bfEcd7685C2D44c53c73b649F
+ and lists addresses attributed to FarmTown, Jeff/TrustSwap, Cryptoran, and HashEx/Auditors, then says:
+ “I just jumped to this logical conclusion.” That is an accusation, not a closed proof chain.
+
+What solves it: Direct on-chain linkage from the actual whitehat endpoint to those identities, or cryptographic / custody proof from a wallet in that chain.
+
+14) “CAW reached out to FarmTown for dev work.”
+
+Verdict: OPEN / NOT VERIFIED in the current surfaced receipts
+
+Why: The allegation text says this, but the surfaced materials shown here do not provide the direct underlying receipt. The statement appears as a research assertion, not a reproduced primary artifact in the returned snippets.
+
+What solves it: The actual message, email, chat log, or on-chain / public receipt showing the outreach.
+
+15) “HashEx audit was free.”
+
+Verdict: OPEN / NOT VERIFIED
+
+Why: The allegation file claims the audit was not paid for, but the returned research snippets do not contain the underlying billing or confirmation receipt.
+
+What solves it: A billing record, public statement from HashEx, or other direct audit-procurement receipt.
+
+16) “HashEx audit clears CAW as safe.”
+
+Verdict: FALSE
+
+Why: Even the research that uses the HashEx lane treats it as narrow and contract-scoped. A token audit does not clear socials, builders, lockers, Team Finance events, whitehat identity, later liquidity choreography, or beneficiary tracing.
+
+What solves it: This claim is already solved against overreach. The audit can narrow the contract-level accusation; it cannot clear the full ecosystem.
+
+17) “Current CAW LP is still locked in Team Finance.”
+
+Verdict: FALSE
+
+Why: The claim ledger in the audit says:
+ C014, Current CAW LP is still locked in Team Finance, FALSE_BY_CURRENT_ONCHAIN_STATE
+ with basis:
+ locker_lp_raw=0 and team_finance_current_lp_raw=0.
+
+What solves it: Already solved against the claim, on current on-chain state.
+
+18) “Current CAW LP is overwhelmingly at the CAW dead sink.”
+
+Verdict: CONFIRMED
+
+Why: The same claim ledger says:
+ C015, Current CAW LP is overwhelmingly at the CAW dead sink, CONFIRMED_BY_CURRENT_ONCHAIN_STATE
+ with basis:
+ dead_sink_current_lp_raw=1800000000000000 of lp_total_raw=1800075308324442.
+
+What solves it: Already solved by the LP-state receipts.
+
+19) “September 2025 LP disposition eliminated practical deployer custody of LP.”
+
+Verdict: PARTIAL
+
+Why: The claim ledger says:
+ C016, September 2025 LP disposition eliminated practical deployer custody of LP, PARTIAL_CONFIRMED
+ with basis:
+ deployer and linked wallet current LP raw are both 0; decisive LP flow shows transfer/redeem/dead-sink path.
+
+That is a meaningful state result, but it does not by itself prove motive or innocence.
+
+What solves it: Full beneficiary tracing from the LP unwind through all received assets and downstream destinations.
+
+20) “September 2025 CAW sink transfers prove canonical supply reduction.”
+
+Verdict: FALSE as stated / NOT VERIFIED
+
+Why: The same claim ledger says:
+ C017, September 2025 CAW sink transfers prove canonical supply reduction, NOT_VERIFIED
+ with basis:
+ transfer-to-sink is proven, but supply-reduction semantics are not yet proven from current receipts alone.
+
+What solves it: Contract-level proof that the relevant reductions occurred via _burn() / totalSupply reduction semantics, not only sink transfers.
+
+21) “The late sink transfers did not happen.”
+
+Verdict: FALSE
+
+Why: The September dead-sink cluster is preserved in detail, including repeated large transfers into
+ 0xdead000000000000000042069420694206942069
+ from both
+ 0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+ and
+ 0xbaeedcccbfb112d4a921daa635ac2276307a1705. Your later audit sections already summarize this as real transfer-to-sink behavior.
+
+What solves it: Already solved. The dispute is about semantics and beneficiaries, not whether the transfers occurred.
+
+22) “The late liquidity unwind / removeLiquidity lane is imaginary.”
+
+Verdict: FALSE
+
+Why: Your late-chain audit preserves the LP transfer path, pair address, and confirmed removeLiquidity(...) lane through 0xbbd07...568f. The same audit treats this as decisive LP flow, not speculation.
+
+What solves it: Already solved against the “imaginary” theory.
+
+23) “The seven equal CAW wallets prove scam.”
+
+Verdict: OPEN / NOT VERIFIED
+
+Why: The repeated seven-wallet tranche pattern is real in your later research, but equal-sized distribution does not, by itself, prove criminal intent or one-party custody. Your own later framing is that it is strong choreography evidence, not endpoint proof.
+
+What solves it: Custody overlap proof, synchronized downstream cash-out proof, or a direct tie to insider-controlled endpoints.
+
+24) “The seven equal CAW wallets are definitely harmless.”
+
+Verdict: OPEN / NOT VERIFIED
+
+Why: The same reason in reverse. The pattern is too structured to dismiss casually, but not yet enough to convict by itself.
+
+What solves it: Non-overlap / independent-custody proof, or a fully explained treasury/distribution rationale backed by receipts.
+
+25) “Yu wallet identity is proven.”
+
+Verdict: FALSE
+
+Why: The current best chain case is a reward-linked cluster theory, not final identity proof. The research explicitly treats ba021 and 1bad as a reproduced linked cluster and a behavioral map, not a solved human identity. (via corpus summaries) and the broader wallet-audit work already cited in your later sections.
+
+What solves it: A signed message or equivalent cryptographic proof from the suspected wallet.
+
+26) “Kachoperro deployed OSAK” / “Kachoperro definitively controls the clone-token ecosystem.”
+
+Verdict: OPEN / NOT VERIFIED
+
+Why: The later adjacent-token research narrows this to a community/admin/operations-level concern, not direct smart-contract deployment proof. The surfaced material supports overlap and repeated operator-level allegations, not final chain closure.
+
+What solves it: Contract creation receipts, direct custody proof, or closed funding / beneficiary paths.
+
+27) “Questionable audits or weird social actors automatically invalidate CAW.”
+
+Verdict: FALSE
+
+Why: That overstates what the receipts can do. The right reading is narrower:
+
+contract-level accusations can be narrowed,
+
+social / builder / authority concerns can remain serious,
+
+and neither side gets to overclaim.
+
+What solves it: This is already solved against absolutism. CAW has to be judged claim by claim.
+
+28) “CAW is definitely innocent.”
+
+Verdict: FALSE
+
+Why: The origin path is real, the riddles are real, and the token is real — but the builder-authority problem, whitehat identity problem, late-chain choreography, and beneficiary problem remain open. The corpus explicitly holds all of that together rather than clearing the project.
+
+What solves it: A closed trust model, surfaced authorization, and beneficiary tracing that removes the later-operations cloud.
+
+29) “CAW is definitely a scam.”
+
+Verdict: OPEN / NOT VERIFIED
+
+Why: This is the core conclusion your later sections already reached. The strongest anti-CAW concerns are real, but the decisive beneficiary chain is not fully closed. The project is neither vindicated nor conclusively convicted by the current receipts.
+
+What solves it: Endpoint proof — not just atmosphere, not just patterns, but closed beneficiary tracing into insider-controlled or knowingly deceptive endpoints.
+
+Bottom line
+
+CONFIRMED against CAW critics:
+ CAW was real, the funding path was real, the riddles were real, the Team Finance / whitehat lane was real, the LP-unwind / sink-transfer behavior was real, and the current LP is not still sitting locked in Team Finance.
+
+CONFIRMED against CAW defenders:
+ The first manifesto was not safely final, official-social / official-partner claims contradict the manifesto posture, sink transfer does not automatically equal canonical burn, and the late on-chain pattern is too structured to dismiss as random drift.
+
+Still open:
+ Ryoshi identity, Gilgamesh authority, Yu identity, FarmTown/HashEx/Jeff whitehat theory, and the decisive beneficiary chain.
+
+So the cleanest final line is this:
+
+[Inference] CAW is not cleared, and it is not conclusively convicted. The strongest honest position remains a receipts-first one: some claims are solved, some are dead, and the most important ones still need endpoint proof.
+
+[Image: 0*--f691tTr33i2INa]
+
+By RΛZ13L on March 24, 2026.
+
+Canonical link
+
+Exported from Medium on September 5, 2026.

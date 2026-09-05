@@ -1,0 +1,380 @@
+The Architect of a False Market
+
+The Architect of a False Market
+
+Y_our A_buse M_akes A_ny S_ham A_ppear N_ormal
+
+The Architect of a False Market
+
+Y_our A_buse M_akes A_ny S_ham A_ppear N_ormal
+
+By poor ppl
+
+[Image: 1*yvIKCNUYrgjOsAnxEmOWYA.png]
+
+@yu88510, tread carefully
+
+To the ppl of Japan,
+
+I begin with Respect.
+
+Your community has done what too many crypto communities fail to do, it has preserved accountability. It has documented claims, compared statements, flagged harm, and refused to let outrage replace evidence. That discipline matters. In a market built on speed, anonymity, and spectacle, truth survives only when someone keeps the receipts.
+
+I write this as a member of the US caw community, and as someone who chose to examine this matter through the narrow door that truth requires.. wallet trails, transaction hashes, self-published statements, captured public posts, and the exact words used by the operator at the center of this record.
+
+That operator is known as yamasan, @CAWmunityJAPAN, CAW Fun Community Organizer, M. Kuroda, Masashi Kuroda, Kuroda Masashi, 黒田昌資, and kurosan. In his own captured profile and posts, he presents himself as the planner and deployer of a “CAW Support Fun Token Ecosystem,” naming CAWELON, EMA, DAT, DEASP, and CBJPN.
+
+This article is not written as performance. It is written as an evidentiary record. It does not claim that every token lane is closed. It does not pretend that every contract has been recovered. It does not turn allegation into verdict. It does something more useful..
+
+it separates what the record proves from what remains unproven.
+
+What the record already shows is serious enough.
+
+Public sale instructions directed community funds to wallet 0xa754c2ea1f40b27b74d963756bc5cba77f8a8e62, alongside MEXC UID 29489563, as part of the CBJPN sale flow. The same ecosystem was presented through self-attributed authorship, scarcity language, off-chain promises, and a complaint posture that treated buyer disputes as noise rather than accountability. On-chain, the strongest current picture is not a single dramatic rug. It is a controlled market structure.. using belief first, payment rails second, explanations later.
+
+That is why this title is not metaphor.
+
+The question is not whether Yamasan built an ecosystem. He did.
+
+The question is whether that ecosystem functioned as a real market, or as an architecture designed to simulate legitimacy while directing money through rails the public could see more clearly than it could verify.
+
+He did not need one violent move. He only needed a stage, a story, and a system that made arrangement look like trust.
+
+That is the false market examined here.
+
+[Image: 1*CDIN3HKmudrqMTKMB_l4Iw.png]
+
+Truth is Wealth
+
+Standard of Proof
+
+This article proceeds by one rule..
+
+No proof, no authority.
+
+Where the on-chain record is direct and verifiable, I state it plainly. 
+Where the record is incomplete, I state that plainly. 
+Where the complaint corpus alleges serious harm that is not yet closed by wallet trails, contract mechanics, or transaction-level proof..
+
+I identify it as allegation, not verdict. That is not caution for its own sake. It is the only way to produce a document stronger than the person it examines.
+
+For that reason, the record below is separated into four categories,, 
+what is proved from the current file record, 
+what is supported but still incomplete, 
+what is alleged in complaint materials, 
+and what is not yet proved on the present record.
+
+A stronger article is not the one that says the most. It is the one that says only what the evidence can carry.
+
+Exhibit A — Self-Attribution, Self-Branding, and Claimed Control
+
+The first exhibit is not hidden in code or buried in a wallet. It is the operator’s own public self-description.
+
+In the captured @CAWmunityJAPAN profile on X and post archive, the account identifies itself as “Hybrid Creative Planner(HCP),” “BlockChain Backend SE(BBS),” and “M.kuroda.” Most important is the authorship claim published in the profile itself,,
+
+“CAW Support Fun Token Released in Dec 2023 CAWELON・EMA・DAT Plan & Deploy.”
+
+The same archive ties the account to the names Masashi Kuroda, Kuroda Masashi, 黒田昌資, and kurosan.
+
+That matters because attribution often fails at the first step. Here, it does not. The operator does not speak as a distant supporter. He places himself inside authorship.
+
+The captured posts continue that pattern. On March 30, the account publicly presents a 13-dApp ecosystem that includes cbjpn.xyz, deasp.xyz, cawelon.xyz, emadao.xyz, cawsocialclearinghouse.xyz, cawthereum.xyz, aithereumu.xyz, assetdeploy.xyz, hitchhikeguide.xyz, 4269bet.xyz, emabet.xyz, horseracedao.xyz, and horseracebet.xyz, all framed as one CAW support architecture. On March 26, the same account states in substance that it launched #cawelon on March 25, 2024, launched #ema on November 1, 2024, and would launch #DEASP thereafter. On April 3, it states that $DEASP and $CBJPN will be developed simultaneously.
+
+That is not proof of fraud by itself.
+
+It is proof of claimed authorship, claimed continuity, and claimed operational control over the ecosystem story. When an operator publicly brands himself as the planner and deployer of the tokens at issue, that self-attribution becomes the bridge between the narrative presented to the community and the financial rails that follow.
+
+Exhibit B — The Published Payment Rails
+
+The second exhibit is where narrative becomes intake.
+
+The strongest preserved sales-language artifact in the record is the March 13 CBJPN lane described in the local investigation files as a “Secret Whale Sale” naming both,
+
+MEXC UID 29489563 
+and wallet 0xa754c2ea1f40b27b74d963756bc5cba77f8a8e62 
+as the payment route.
+
+The same preserved lane frames the sale with restricted participation, bonus language, and urgency. It also instructs those who sent funds to report by DM. That is not neutral market infrastructure. That is directed intake.
+
+A separate preserved statement dated March 6 says that all USDT from the CBJPN secret pre-order phase would be identified by sender wallet and consolidated into Camelot DEX liquidity. That matters because it turns the payment rail into a promise.. money in, liquidity later.
+
+Yet the same source set does not provide the one object that would close that promise technically.. a recoverable public CBJPN token contract with a deploy transaction, a public explorer page, and a treasury trace.
+
+This is the first major fracture in the market structure.
+
+Money has a route.
+ The promise has a slogan.
+ The public contract does not arrive with the same clarity.
+
+That is how a false market begins.. not with the absence of payment, but with the mismatch between payment visibility and asset visibility.
+
+The same attachment set reinforces a second promoted wallet, 0x6510a4b7fada57d793f12fb9e54fe2c3961b6ea5, described there as a wallet used for the DAT pre-registration lane. That second address does not close the case.
+
+It widens the intake pattern.
+
+Exhibit C — The Complaint Posture
+
+The third exhibit is not a wallet. It is a doctrine.
+
+The preserved X-app record captures the operator’s post-sale posture. It states that on March 22 the account framed proof disputes and refund complaints as user ignorance, treated blocking and removal as “security filtering,” and threatened “Digital Execution” by minting screenshots of critics as NFTs. The same record says a March 10 post moved discussion into a Telegram group as a replacement for LINE OpenChat. Another preserved summary states the same posture in substance,, “ArbScan is the one and only proof,” refund or non-receipt complaints are treated as ignorance, and screenshots of critics may be published permanently.
+
+That matters because it reveals how friction was administered. A legitimate operator may dispute a false allegation. A legitimate operator may block harassment. But when the same ecosystem contains private-sale claims, missing delivery complaints, and directed payment rails, language like “noise,” “security filtering,” and “Digital Execution” becomes evidence of how dissent is processed. It ceases to be style. It becomes policy.
+
+The complaint corpus preserved in the file set alleges a broader pattern.. limited or secret presales, celebrity-name and image use, payment requests routed through a wallet and exchange UID, blocking or ghosting, threats against critics, and the continued absence of public contract visibility.
+
+Those allegations are serious. They are part of the record. They remain allegation unless tied to a closed payment and delivery trace.
+
+That distinction is essential, and I keep it.
+
+Exhibit D — The Sale Wallet as Routing Instrument
+
+The fourth exhibit is the promoted sale wallet itself:
+
+0xa754c2ea1f40b27b74d963756bc5cba77f8a8e62
+
+The present file record repeatedly treats this address as the strongest Yamasan-specific on-chain lane. It is the wallet preserved as the CBJPN sale rail. It is also described in the corpus as an exchange-touching address with repeated movement and off-ramp behavior. The strongest current interpretation is not “this is conclusively Yamasan’s personal wallet,” and not “this is conclusively the CBJPN contract treasury.” The strongest current interpretation is narrower and more durable: it behaves like a routing wallet.
+
+The record contains several layers of support for that conclusion.
+
+One preserved explorer snapshot states that 0xa754...8e62 appeared as Funded By: MEXC 1, with CAW and USDT in the captured holdings view, multichain links including BscScan, an outbound transfer to MEXC 3, and an inbound transfer from 0xa6afac90ff65c7446ade17e1ed3fd86d3ea4cec1. That proves exchange contact and multichain visibility. It does not, by itself, prove scam conduct.
+
+A stronger preserved wallet-function summary gives aggregate ETH behavior for the lane as follows:
+
+IN / non-exchange: 33 transactions, 7.673582425983634106 ETH
+
+IN / exchange: 21 transactions, 2.351872941880962082 ETH
+
+OUT / exchange: 26 transactions, 9.958395641602605992 ETH
+
+The same working record identifies 0xa6afac90ff65c7446ade17e1ed3fd86d3ea4cec1 as the top repeated non-exchange sender. One corrected reproduced status file gives that sender a total of 1.07493084446417252 ETH into 0xa754...8e62; an earlier note reported 1.05893084446417252 ETH. The later corrected figure is the stronger value retained in the working record, but the existence of both figures is itself part of the documentary trail.
+
+The most probative wallet evidence is the fast-sweep pattern preserved in the successful ETH sweep run. That run loaded 130 valid rows, identified 5 exchange counterparties, and found 21 fast sweeps within six hours. Several examples are preserved with full transaction hashes and deltas:
+
+Inbound: 0x9258aa9a394487b8434cae6021472d56444bf89f1744cfb62d6428949f699c11 from 0xa6afac90ff65c7446ade17e1ed3fd86d3ea4cec1, 0.62 ETH
+ Outbound: 0xd3f850867c9fc5cdc7106b815365c1c7ea583739ce452ebd99840723b01106c2 to 0x75e89d5979e4f6fba9f97c104c2f0afb3f1dcb88 (MEXC 1), 0.618966947780192 ETH, 132 seconds
+
+Inbound: 0xb1e637a89cd16d1781ece98e097653b7aace988af5d80e0a9fab9c43595f107b from 0xa6afac90ff65c7446ade17e1ed3fd86d3ea4cec1, 0.1165 ETH
+ Outbound: 0xac79067aaf3086807cf1c6578ed7a74ef3b2300525d9b46d9382980b5c3786ab to MEXC 1, 0.120799728 ETH, 192 seconds
+
+Inbound: 0x4ca146d65459c957f2fde68502c393046861d3882752e2258558403d2cd89d95 from 0x25081acd2b3289e85f0bd4c8d66b82a120cab544, 0.300795175141824875 ETH
+ Outbound: 0x297930b7343a8524e0f48b1a048f7df9d3b0adc5c9b29063cf7a74aca7cbdc3c to MEXC 1, 0.231423263880303229 ETH, 132 seconds
+
+Inbound: 0x77301a5321700292c5b0f76fb819ea5d02ef0f73b898f742cf8a53e00c3e984a
+ Outbound: 0xab6d1164b21ff84e1eed897c8c390547b40c600ad26bf6d44d0db7fff4d148d8, 84 seconds
+
+Inbound: 0x8c0afb641f257c8ffec9b99595ef75d417959a50ec40d87f2e97e17156998224
+ Outbound: 0x5955d23d6fc1e1834512ac358e35cfea52ed02b819b24dedfdbfc95118ea69ed, 144 seconds
+
+Additional preserved deltas include 96, 120, 156, 180, 228, 240, 564, 5,520, 12,384, and 18,012 seconds. The record’s own formulation is the safest one: this is suspicious wallet-function evidence, not yet a closed fraud-attribution chain.
+
+This distinction matters.
+
+A sale wallet is one thing.
+ A routing wallet is another.
+ A treasury is another.
+ A personal-beneficiary endpoint is another still.
+
+The record closes the first two more strongly than the last two. That is enough to expose structure. It is not enough to counterfeit certainty.
+
+[Image: 1*8zgDjsqClGn5Tdpz7si0SA.png]
+
+Exhibit E — CAWELON: The Real Token Lane
+
+Unlike CBJPN, CAWELON is not a phantom lane.
+
+The preserved research identifies a real Base token contract:
+
+CAWELON contract: 0x33fa10ffe177a00648102ebf822ebf6f298291ed
+
+Creator: 0xf4dc2a9ecae3015f3ee9266c3244c6f8d9e18bd1
+
+Creator funder: 0x2c72bc3d0b83ed0cbb64961d3f8c25bd4c4fb635
+
+Upstream funder: 0xa6009ffc51547b1c83e01f2598488e751a227608
+
+Pair: 0x7112901cb66dfe2cd592727d4f4353eb55c3ddee
+
+The preserved launch spine is as follows:
+
+2024–03–30 09:24:33 UTC — funding transaction
+ 0x87670afaa2712de264cbe7e9de12dab320f5fa07bbfc1e9230b7297b448b5909
+ In this transaction, 0x2c72bc3d0b83ed0cbb64961d3f8c25bd4c4fb635 sends 10.1 ETH to 0xf4dc2a9ecae3015f3ee9266c3244c6f8d9e18bd1.
+
+2024–03–30 09:26:23 UTC — deploy transaction
+ 0x0e16403bbae09f2999bed70bfee9fed3ba6d56a34c14bec36ded9c7d4d0527c3
+ In this transaction, the creator deploys the CAWELON contract.
+
+2024–03–30 09:27:27 UTC — add-liquidity transaction
+ 0x3de1ef48e514be7671c8a6a2a3f99c6608a4280e8629439c01d0b6738f310f9f
+ In this transaction, the creator adds liquidity to the pair.
+
+2024–03–30 09:29:39 UTC — creator transfer to pair
+ 0x3c86ab7d0b4d89e4b526efb60d0b09eb788f54bed2ab4ade398103a443b78461
+
+This sequence is real. It is reproducible within the preserved file record. It is one of the strongest technical spines in the case. The same BaseScan snapshot described CAWELON as CAW Supporter (CAWELON) with a 10,000,000,000 max total supply.
+
+The operator-family behavior continues after launch. On 2024–05–03, the funder-side address 0x2c72bc3d0b83ed0cbb64961d3f8c25bd4c4fb635 executes two preserved CAWELON-lane transactions:
+
+Approve to 1inch: Aggregation Router V6
+ 0xcecd14a275cf0e66897cae77ec9af567d437893ec815ed4edfb7d1a2bad40eb0
+
+Zero-amount CAWELON self-transfer
+ 0xf71224d23977a95b7d6b602f7ca6b564c50049492b6fbb46b7d005393262f59f
+
+These are not ordinary facts to ignore. They show that the launch wallet family did not vanish at creation. They remained active in the token’s execution neighborhood. That supports a theory of operator-family coordination. It does not, by itself, prove a rug.
+
+The preserved analyses repeatedly say the surfaced CAWELON contract behavior appears minimal..
+
+standard ERC-20 plus owner() and renounceOwnership(), without reproduced mint, blacklist, rescue, or trading-gate abuse.
+
+Later attempts to reconstruct Base LP custody ran into transport limits, direct Base public RPC returned 403 Forbidden, and Etherscan V2 returned “Free API access is not supported for this chain” on the free plan. That limitation is itself part of the record. The safest responsible statement remains this..
+
+CAWELON is a real Base token lane with a real launch spine and a real operator-family wallet cluster, but the current file record does not prove a completed LP-drain or classic hard rug.
+
+That is not a weakness in the article.
+
+That is what makes the article credible.
+
+Exhibit F — The Shape of the False Market
+
+The local canon file says the sampled execution family around 0x2c72bc3d0b83ed0cbb64961d3f8c25bd4c4fb635 contains:
+
+Transfer = 17
+
+Swap = 14
+
+Approve = 14
+
+Giveuserbbaa = 5
+
+The same file identifies the dominant router receivers as:
+
+0x3fc91a3afd70395cd496c647d5a6cc9d4b2b7fad
+
+0x111111125421ca6dc452d289314280a0f8842a65
+
+with 7 hits each, and states that CAWELON appeared as a repeated receiver in the canonical family summary on 2024–05–03 through the Approve and Transfer pair. That supports the narrower inference that 0x2c72... was an operator-family wallet active in launch funding and later execution behavior.
+
+It does not prove common deployer identity across every sampled token, and it does not convert CAWELON into a closed rug case.
+
+What Is Proved on the Present Record
+
+On the present file record, the following statements are supportable:
+
+The operator publicly self-attributed planning and deployment language for a CAW-adjacent multi-token ecosystem. The preserved off-chain record names MEXC UID 29489563 and wallet 0xa754c2ea1f40b27b74d963756bc5cba77f8a8e62 as the CBJPN sale rail. The strongest Yamasan-specific on-chain lane remains that promoted wallet, whose current record supports routing-wallet behavior and repeated funding, but not yet a closed fraud-attribution chain. CAWELON is a real Base token lane with a reproducible creator, funder, deploy, liquidity-add, and later funder-side execution sequence.
+
+The strongest courtroom-safe on-chain statement is narrower than “everything is solved,” but stronger than “there is nothing here.” The record supports a claimed multi-token ecosystem, a published intake rail for CBJPN, a promoted BSC wallet that behaves like a routing instrument, and a real CAWELON launch spine with continued funder-family activity. It also supports a complaint posture that treated criticism and refund disputes as disorder rather than accountability.
+
+What the Present Record Does Not Yet Prove
+
+This article should say this plainly, because honesty is not a footnote. It is the spine.
+
+The present record does not yet prove any of the following as closed fact:
+
+that 0xa754c2ea1f40b27b74d963756bc5cba77f8a8e62 is conclusively Yamasan’s personal-beneficiary wallet
+
+that a public CBJPN contract has been recovered and tied end-to-end to the sale rail
+
+that a full victim-payment-to-beneficiary chain has been reproduced for the CBJPN lane
+
+that CAWELON has been proved as a classic LP-drain or hard rug
+
+that every public complaint against Yamasan is technically solved on-chain
+
+that every wallet in the surrounding ecosystem is under common control
+
+that the routing-wallet case, by itself, proves beneficiary identity, treasury misuse, or scam intent beyond dispute.
+
+The present file set also preserves explicit stop conditions from the investigation itself: do not promote CAWELON to “hard rug proven” without an abuse path tied to creator, funder, or upstream LP custody; do not promote CBJPN to “on-chain rug proven” without a real victim payment, token contract, or treasury path; and do not merge the Base CAWELON lane with the CBJPN sale lane unless a deterministic bridge address or transaction appears. Those cautions are not weakness. They are evidence of methodological integrity.
+
+Admitted Facts / Excluded Inferences
+
+Admitted Facts
+
+The current record admits the following:
+
+Published intake rail: 0xa754c2ea1f40b27b74d963756bc5cba77f8a8e62
+
+Named exchange UID: 29489563
+
+Secondary promoted wallet: 0x6510a4b7fada57d793f12fb9e54fe2c3961b6ea5
+
+CAWELON contract: 0x33fa10ffe177a00648102ebf822ebf6f298291ed
+
+CAWELON creator: 0xf4dc2a9ecae3015f3ee9266c3244c6f8d9e18bd1
+
+CAWELON creator funder: 0x2c72bc3d0b83ed0cbb64961d3f8c25bd4c4fb635
+
+CAWELON upstream funder: 0xa6009ffc51547b1c83e01f2598488e751a227608
+
+CAWELON pair: 0x7112901cb66dfe2cd592727d4f4353eb55c3ddee
+
+Launch funding tx: 0x87670afaa2712de264cbe7e9de12dab320f5fa07bbfc1e9230b7297b448b5909
+
+Deploy tx: 0x0e16403bbae09f2999bed70bfee9fed3ba6d56a34c14bec36ded9c7d4d0527c3
+
+Liquidity-add tx: 0x3de1ef48e514be7671c8a6a2a3f99c6608a4280e8629439c01d0b6738f310f9f
+
+Pair-transfer tx: 0x3c86ab7d0b4d89e4b526efb60d0b09eb788f54bed2ab4ade398103a443b78461
+
+Post-launch approve tx: 0xcecd14a275cf0e66897cae77ec9af567d437893ec815ed4edfb7d1a2bad40eb0
+
+Post-launch transfer tx: 0xf71224d23977a95b7d6b602f7ca6b564c50049492b6fbb46b7d005393262f59f
+
+The ETH sweep lane also admits that 0xa754...8e62 is a real exchange-touching wallet with 130 parsed transactions, 5 exchange counterparties, and 21 fast sweeps within six hours in the preserved run, including the representative transaction pairs set out above.
+
+Excluded Inferences
+
+The following should not be written as closed fact:
+
+“Yamasan personally owned every wallet in this network.”
+
+“CBJPN contract recovery is complete.”
+
+“CAWELON is proved as a hard rug.”
+
+“Every complaint has been technically solved.”
+
+“The routing-wallet case already proves victim-loss attribution.”
+
+“The CAWELON Base lane and the CBJPN sale lane are already deterministically bridged.”
+
+Bottom Line
+
+On the present record, the strongest safe statement is this:
+
+A publicly promoted BSC intake wallet exists. That wallet is real, exchange-touching, and shows reproduced intake-and-sweep behavior. Separately, CAWELON is a real Base token lane with a reproducible creator-funder-deploy-liquidity sequence and later funder-family execution activity. Those facts support a structured operator context and a routing-wallet theory. They do not yet close a full victim-loss or contract-rug case for every named token lane.
+
+A false market is not necessarily a chart that dies in one candle. A false market is a structure in which legitimacy is staged before accountability is supplied. The architecture comes first. The victim often arrives later.
+
+One-Sentence Thesis
+
+The current record proves published intake rails, reproduced routing-wallet behavior, and a real CAWELON launch-and-execution spine; it does not yet prove every named token lane as a fully closed contract rug or victim-loss chain.
+
+Closing
+
+To the Japanese CAW community and all global cawmmunities..
+
+Keep doing what you have already done well. Preserve accoutnibailty. Separate proof from pressure. Refuse to loan authority to anyone whose certainty outruns his receipts.
+
+To readers outside this case..
+
+A blockchain does not eliminate deception. It only changes its texture. The lie is rarely “there is no chain.” The lie is more often “the chain says enough.” Sometimes it does. Sometimes it says only that the door existed, that the money moved, that the hands stayed hidden, and that the story arrived before the proof.
+
+And to Yamasan —
+
+A real market does not fear evidence.
+ A real builder does not need fog.
+ A real operator does not ask the public to trust architecture where receipts should be.
+
+This is what true accountability looks like.
+
+[Image: 1*5IEFzEgyBkCcJTV0TW7N1g.png]
+
+GOTCHA
+
+By RΛZ13L on April 14, 2026.
+
+Canonical link
+
+Exported from Medium on September 5, 2026.

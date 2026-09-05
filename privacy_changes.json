@@ -1,0 +1,67 @@
+[
+  {
+    "path": "articles/004c932ccd93/article.txt",
+    "path_redactions": 11,
+    "published_sha256": "528d7d049fe79f0bbae7602d08a091989906e33c214eb5c840115f693e7a39cb"
+  },
+  {
+    "path": "articles/004c932ccd93/offline.html",
+    "path_redactions": 11,
+    "published_sha256": "5a55b3cb99e20fe391fb388480ae57b7f410cc18b727146e28d500a7d7202d1c"
+  },
+  {
+    "path": "articles/004c932ccd93/original.html",
+    "path_redactions": 11,
+    "published_sha256": "e22273de80f45405eaf865b52ab245908b08ffd84447697007e31e499fa0b149"
+  },
+  {
+    "path": "articles/47677e4ed7cb/article.txt",
+    "path_redactions": 1,
+    "published_sha256": "890005fffaebc84bb480588b0113437dbc6c4500753281ac7772ea8327cd2458"
+  },
+  {
+    "path": "articles/610efb781ca5/article.txt",
+    "path_redactions": 4,
+    "published_sha256": "7d59e1ce4239a0c7674924b1f66d28237ace85126a9f0009e134f5af84b46072"
+  },
+  {
+    "path": "articles/610efb781ca5/offline.html",
+    "path_redactions": 4,
+    "published_sha256": "659d7feb200e23e8d0fe49dd2752eb0a3de4fb4d5f0146bacc4cbdf780c9b449"
+  },
+  {
+    "path": "articles/610efb781ca5/original.html",
+    "path_redactions": 4,
+    "published_sha256": "411fac2fe7a34e93f2baae2c06c6612dc711d0dcc7d9e00530c0455c58c839ff"
+  },
+  {
+    "path": "articles/72f812b6c0f9/article.txt",
+    "path_redactions": 1,
+    "published_sha256": "a452249034de5f73d6b04cb1fc09a92b1bcf1975c476f3617c5e03cd023c0b92"
+  },
+  {
+    "path": "articles/72f812b6c0f9/offline.html",
+    "path_redactions": 1,
+    "published_sha256": "5761ee89c2480027ca14768b4c122ed5828b3dfd55b86396dc7fda40ba0238c1"
+  },
+  {
+    "path": "articles/72f812b6c0f9/original.html",
+    "path_redactions": 1,
+    "published_sha256": "db1f4e4954ab0ca6d314f6e5cd3b98edfbde2cae7ec0d70b0c1f73c17e874b94"
+  },
+  {
+    "path": "articles/bbf12ce928fe/article.txt",
+    "path_redactions": 23,
+    "published_sha256": "24d19e9d4ebcf19ec736e7f2c8ebb9f05c776d5e454e4362b6137b0502a252f0"
+  },
+  {
+    "path": "articles/bbf12ce928fe/offline.html",
+    "path_redactions": 23,
+    "published_sha256": "902319d1e687f4a9368cd24057c9a68a4a15335963193a6d43d4200980afaaae"
+  },
+  {
+    "path": "articles/bbf12ce928fe/original.html",
+    "path_redactions": 23,
+    "published_sha256": "af37b54eb87779e353beaeef8f0f5c383c2b3a37ddc613922b98f2d48c783a88"
+  }
+]

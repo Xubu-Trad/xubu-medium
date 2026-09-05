@@ -1,0 +1,4768 @@
+Pandora’s Jar
+
+Pandora’s Jar
+
+A CAW ORIGIN STORY pt. 1
+
+Pandora’s Jar
+
+A CAW ORIGIN STORY pt. 1
+
+written by a truth seeker
+
+[Image: 1*nk0-uCHDpSK8RO3QxIYUvA.png]
+
+beginning…
+
+PART I — HOW TO READ TEH ORIGIN STORY
+
+Receipts Before Mythology
+
+Every mystery becomes dangerous at the same moment,
+
+when the story becomes easier to repeat than the evidence is to check.
+
+CAW has lived inside that danger for years.
+
+Some saw a forgotten branch of SHIB. Others saw coincidence, a scam, a riddle, a revolution, an unfinished experiment, or the return of someone who had already disappeared.
+
+The strange part is not that the trail was hidden.
+
+The strange part is how much of it was visible all along.
+
+Ethereum does not remember who sounded convincing, who had the largest audience, or which version of the story became popular. It remembers transactions, block numbers, contract code, calldata, receipts, logs, and execution results.
+
+That is where this origin story begins.
+
+Not with Ryoshi.
+
+Not with belief.
+
+With the receipts.
+
+What This Article Adds
+
+Three earlier investigations opened separate doors into the CAW record.
+
+An Autopsy of CAWincidence followed the funding trail from the address associated with SHIB’s deployment, through an intermediary wallet, into the wallet that deployed CAW.
+
+Proof or It Didn’t Happen reconstructed the CAW riddles, preserved the work of the early hunters, and showed why a readable layer or surfaced manifesto should not automatically be treated as the final instruction.
+
+Is CAW a Scam? examined the harder distinction between a real on-chain project and one proven to be fully trustless, leaderless, transparent, and decentralized.
+
+Those articles remain part of the record. This article will not duplicate them chapter by chapter. It will preserve what survived verification, correct what later evidence disproved, and move directly into the larger forensic record now reconstructed: the origin branch, the wallets surrounding it, the contract’s actual authority surface, the launch and liquidity history, the transactions that were misunderstood, and the questions the blockchain still cannot answer.
+
+The Fixed Point
+
+Blockchain state changes continuously.
+
+Balances move. Liquidity moves. Contracts interact. Explorer labels change. Wallets receive unsolicited tokens. APIs may return revised or differently enriched historical results.
+
+For that reason, all claims describing CAW’s current state are frozen at one Ethereum block:
+
+PUBLICATION BLOCK
+25564382
+
+BLOCK HASH
+0x940b0abe73cc528acb2e80a24f15d47161419e00498931325a00801f0f313dfd
+
+UTC
+2026-07-19T04:31:35+00:00
+
+Any balance, holder count, storage value, liquidity position, contract state, or custody claim described as current must resolve to this block unless a different historical cutoff is stated.
+
+A reader checking later may see additional activity. That does not invalidate the snapshot.
+
+It means the same block must be compared with the same block.
+
+The Five Labels
+
+Every important claim in this article will be marked according to what the evidence actually supports.
+
+FACT — Directly observed or deterministically reproduced evidence: a transaction, receipt, raw log, runtime hash, storage value, block timestamp, or locally reproduced artifact.
+
+INFERENCE — A reasoned interpretation supported by facts but not directly written on-chain.
+
+IDEA — A proposed explanation, comparison, or experiment that has not yet been proven.
+
+UNKNOWN — A question the available evidence does not resolve.
+
+STOP CONDITION — The point beyond which a stronger claim would exceed the evidence.
+
+Examples:
+
+STOP CONDITION
+
+Do not call an account-endpoint dataset canonical
+until its rows reconcile against raw logs carrying logIndex.
+
+STOP CONDITION
+
+Do not call tokens sent to a vanity address burned
+unless supply was destroyed or inaccessibility was proven.
+
+STOP CONDITION
+
+Do not infer common human control
+from funding chronology alone.
+
+A stop condition is not hesitation.
+
+It is the line separating evidence from storytelling.
+
+Four Questions That Must Never Be Collapsed
+
+The CAW origin story repeatedly crosses four different questions.
+
+1. What happened on-chain?
+
+A transaction can prove that an address transferred ETH, deployed a contract, approved a router, added or removed liquidity, submitted calldata, emitted an event, or funded another address.
+
+This is the strongest layer.
+
+It describes activity.
+
+2. Who controlled the wallet?
+
+A valid transaction proves that the required signing authority was used at that moment.
+
+It does not prove whether the key belonged to one person, several people, a custodian, an automated system, a compromised operator, or someone who acquired the key later.
+
+Wallet activity is evidence of key use.
+
+It is not a permanent biography of the keyholder.
+
+3. Who authored the pseudonymous work?
+
+A wallet can deploy a contract. A Medium account can publish an essay. A GitHub account can push code. A Telegram account can post a message. An image can contain a riddle.
+
+Those records may form a pattern, but they do not automatically prove one author controlled every surface.
+
+Writing style, repeated phrases, misspellings, symbols, or philosophy may support an inference.
+
+They do not establish authorship by themselves.
+
+4. Who is the human being?
+
+A blockchain address is not a legal identity.
+
+An explorer label is not a passport.
+
+A profile name is not cryptographic proof.
+
+Even a valid signature proves control of a key, not necessarily the legal identity of the signer.
+
+This article investigates the CAW origin trail.
+
+It does not claim to identify Ryoshi.
+
+The chain can prove a path.
+
+It cannot name the person walking it unless additional proof is supplied.
+
+The Naming Rule
+
+Every wallet address will be introduced by its complete hexadecimal address and an evidence-based role name.
+
+For example:
+
+Shiba Inu Deployer wallet
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+short name: B8F
+
+Later references will read:
+
+Shiba Inu Deployer wallet B8F
+
+not simply:
+
+B8F
+
+The same rule applies to every central address:
+
+81A0 Intermediary wallet
+0x81a0daaab45dbbce68b11e7aeddd6a0d1970bdea
+
+CAW Creator wallet
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+CAW Riddle and Liquidity wallet
+0xbaeedcccbfb112d4a921daa635ac2276307a1705
+
+CAW Temporary Operations wallet
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+FACT — These names describe observed roles in the audited record.
+
+UNKNOWN — They do not establish the human identity of the controller.
+
+Explorer labels are useful discovery aids. They are not identity certificates.
+
+The Evidence Hierarchy
+
+Not all records carry equal weight.
+
+This investigation uses the following order:
+
+Ethereum blocks and transaction envelopes.
+
+Transaction receipts and raw logs.
+
+Deployed runtime bytecode and fixed-block storage.
+
+Deterministic local reconstruction from pinned parent artifacts.
+
+Explorer account APIs.
+
+Screenshots, articles, chats, and community memory.
+
+Where an account API omits logIndex, it remains secondary until reconciled against raw logs.
+
+Where verified source and deployed runtime differ in significance, the deployed runtime controls what actually executes.
+
+Every important generated artifact records:
+
+PARENTS=[...]
+TRANSFORM="exact command or script and arguments"
+SHA256=...
+SIZE=...
+PATH=...
+
+A reader should be able to disagree with the interpretation while reproducing the evidence.
+
+That is the standard.
+
+What the Earlier Articles Established
+
+The first article followed the money.
+
+On June 15, 2021, the Shiba Inu Deployer wallet B8F:
+
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+sent 2.78 ETH to the 81A0 Intermediary wallet:
+
+0x81a0daaab45dbbce68b11e7aeddd6a0d1970bdea
+
+Transaction:
+
+0xb5b81a63c957fcc33469d59f9c969e860d24574bb72d8b2fc482c7232cb13062
+
+Approximately 303 days later, the 81A0 Intermediary wallet sent 2.22 ETH to the CAW Creator wallet:
+
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+Transaction:
+
+0xbfed9c9fe98cf7705b6668afbe9f01c81310f062ae5853b2ac31efd2847f44f0
+
+Two minutes and twenty seconds later, the CAW Creator wallet submitted:
+
+0x4d160f76cdacbffc4f7302d4fb180317e15d19080cbbaded4ef0197e71ba515c
+
+creating the CAW Token contract:
+
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+The reproduced branch is:
+
+Shiba Inu Deployer wallet B8F
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+        ↓ 2.78 ETH
+
+81A0 Intermediary wallet
+0x81a0daaab45dbbce68b11e7aeddd6a0d1970bdea
+
+        ↓ 2.22 ETH
+
+CAW Creator wallet
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+        ↓ contract creation
+
+CAW Token contract
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+FACT — The branch is real and timestamped.
+
+INFERENCE — The final transfer is consistent with intentional predeployment funding.
+
+UNKNOWN — The branch does not identify the human controller of any wallet.
+
+A chain can be specific without being personal.
+
+The second article followed the riddles.
+
+The CAW Riddle and Liquidity wallet BA:
+
+0xbaeedcccbfb112d4a921daa635ac2276307a1705
+
+placed both primary riddle identifiers on-chain.
+
+Riddle One transaction:
+
+0xfbbcf5338b4a9c35073ac7253afc1a8ee81770d8d3285b80497bbd9c2186ed5b
+
+Value:
+
+0.666 ETH
+
+Decoded marker:
+
+58bZfQ1
+
+Riddle Two transaction:
+
+0xcae4b15350b3ccc2b37fec5caa718560241ec181bc49741d5d1199d1d32412d4
+
+Value:
+
+0.999 ETH
+
+Decoded marker:
+
+zrUfKaKV
+
+FACT — The riddles were linked to the CAW wallet structure through immutable transactions.
+
+UNKNOWN — The human identity of the author remains unproven.
+
+FACT — Riddle One still contains unresolved source-selection and transform questions.
+
+FACT — Riddle Two remains unresolved.
+
+A readable layer is not automatically a final layer.
+
+The third article followed authority.
+
+The tested CAW Token contract runtime:
+
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+had:
+
+runtime length:
+2278 bytes
+
+runtime SHA256:
+ac5c77c1372337655d8f0257e34feec1ab0506dc8e8e7f034252cba66390bea1
+
+The captured EIP-1967 implementation and administrator slots returned zero.
+
+The push-aware runtime opcode probe reported zero executed occurrences of:
+
+CALL
+CALLCODE
+DELEGATECALL
+STATICCALL
+CREATE
+CREATE2
+SELFDESTRUCT
+
+Probe script:
+
+opcode_probe_v2.py
+
+SHA256:
+2158b15c628e1953ee0fb978a448e6877d0c86de8c330c8f5f3f3bfa2e1a60d8
+
+FACT — These results cut against a conventional token-level proxy administrator, upgrade path, or external call-family control surface in the tested runtime.
+
+FACT — They do not prove that every wallet, frontend, liquidity position, social account, or application surrounding CAW is decentralized.
+
+A token may be authority-minimized while its ecosystem is not.
+
+What Later Evidence Corrected
+
+Several earlier assumptions required narrowing.
+
+FACT — The substantive initial Uniswap LP position was not burned at creation. Only the mandatory minimum 1,000 raw LP units were minted to the zero address.
+
+FACT — Later LP sent to the CAW LP Vanity Custody address:
+
+0xdead000000000000000042069420694206942069
+
+did not reduce LP total supply.
+
+The correct description is:
+
+burn-style vanity custody
+
+UNKNOWN — Permanent inaccessibility of that address is not proven.
+
+Later research also identified six externally initiated zero-value CAW transferFrom calls.
+
+The CAW Zero-Value Poisoning sender was:
+
+0x62815f4d509353f2acf6721cbddae080fbe75673
+
+The CAW Zero-Value Poisoning batch contract was:
+
+0x4c792cd7282e6e07b71210fbc70ecf9283715c67
+
+Representative transaction:
+
+0x922f940f780f093f9170f9286236f8cccd7f9dea74c31ab14bf98b587d0c8053
+
+Those calls made the CAW Riddle and Liquidity wallet BA and the CAW Temporary Operations wallet BBD appear as indexed source addresses even though neither wallet submitted the transaction.
+
+FACT — Event participation is not transaction initiation.
+
+FACT — Those six calls must be excluded from custody and control analysis.
+
+The Rule of This Story
+
+The earlier CAW articles followed a simple principle:
+
+Proof or it did not happen.
+
+This article applies a stricter version:
+
+Proof establishes only what the proof contains.
+
+A funding transaction proves funding.
+
+A deployment proves deployment.
+
+A raw log proves that an event was emitted.
+
+A runtime proves what code was deployed.
+
+A storage result proves the value of that slot at the tested block.
+
+A repeated pattern proves repetition.
+
+None of those facts automatically proves motive, authorship, identity, permanence, honesty, or future behavior.
+
+This is not only a story about where CAW came from.
+
+It is a story about how easily a true transaction can acquire a false meaning.
+
+How a label can become a person.
+
+How custody can become a burn.
+
+How a clue can become doctrine.
+
+How an inference can become history because it was repeated long enough.
+
+And how, years later, the receipts can still be gathered in the correct order.
+
+The trail is visible.
+
+The controller is not.
+
+And the origin is waiting in plain sight.
+
+[Image: 1*lggsefBkI1byseiNrwEurg.png]
+
+WOOF
+
+PART II — THE ADDRESS AT THE BEGINNING
+
+3. The Shiba Inu Deployer Wallet
+
+At the beginning of this investigation sits one Ethereum address:
+
+Shiba Inu Deployer wallet
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+Short name:
+Shiba Inu Deployer wallet B8F
+
+The address is not a person.
+
+It is not a biography.
+
+It is an on-chain starting point.
+
+FACT — The Shiba Inu Deployer wallet B8F directly deployed SHIB in the audited contract-creation record.
+
+FACT — That makes the Shiba Inu Deployer wallet B8F the strongest available on-chain anchor for examining whether another project has a reproducible connection to SHIB’s origin.
+
+UNKNOWN — The human or pseudonymous controller of the Shiba Inu Deployer wallet B8F remains unproven.
+
+The word deployer describes an action performed by an address.
+
+It does not identify the person behind the key.
+
+That boundary matters because the question was never merely whether one transaction connected SHIB and CAW.
+
+The harder question was whether CAW appeared inside a larger, repeatable pattern of deployments, funding branches, token transfers, and downstream wallets originating from the Shiba Inu Deployer wallet B8F.
+
+To answer that, one branch was not enough.
+
+The entire address history had to be examined.
+
+4. The Complete B8F Universe
+
+The first stage was an inventory of the Shiba Inu Deployer wallet B8F through the publication cutoff at Ethereum block 25,564,382.
+
+The Account-History Record
+
+The completed account-history lanes contain:
+
+normal transactions:        664
+internal records:           112
+ERC-721 records:             28
+outgoing normal txs:        338
+directly funded wallets:     23
+
+FACT — These figures describe records involving the Shiba Inu Deployer wallet B8F within their respective account-history lanes.
+
+FACT — Twenty-three directly funded wallets were identified from the outgoing normal-transaction record.
+
+FACT — SHIB remains the only directly created token contract identified in the narrow direct-contract-creation lane.
+
+That does not mean the Shiba Inu Deployer wallet B8F had no relationship with any other token.
+
+It means no other token contract was identified as being directly created by that address in the audited direct-creation lane.
+
+Funding, deployment, token receipt, liquidity receipt, trading, and unsolicited transfers are different relationships. They must not be collapsed into one category.
+
+The ERC-20 Record
+
+The ERC-20 account history was divided into 52 continuous block ranges covering Ethereum blocks:
+
+0–25,564,382
+
+The account endpoint returned:
+
+32,084 rows
+
+At first, that result could not be accepted as canonical.
+
+A preserved earlier 1,000-row response materially disagreed with the later range-based harvest. The disagreement began at the first row rather than at a pagination boundary.
+
+That meant the investigation had two historical account-endpoint datasets and no safe basis for declaring either one authoritative.
+
+The solution was to stop relying on the account endpoint for event identity.
+
+The ledger was rebuilt from raw Ethereum Transfer logs.
+
+The Canonical ERC-20 Result
+
+The raw-log reconciliation completed with:
+
+account leaves:                     52
+account rows:                   32,084
+unique raw ERC-20 logs:         32,084
+missing account occurrences:         0
+extra raw occurrences:               0
+failed leaves:                        0
+failure count:                        0
+
+The scanner also recorded:
+
+excluded non-ERC-20 shapes:          13
+query duplicate count:               49
+terminal query count:               191
+recursive split count:               23
+newly fetched queries:               68
+reused checkpoint queries:          123
+
+FACT — All 52 block-range leaves passed.
+
+FACT — Every one of the 32,084 account-row occurrences reconciled against the canonical raw ERC-20 log record.
+
+FACT — No account occurrence was missing from the raw ledger.
+
+FACT — No extra raw ERC-20 occurrence remained after reconciliation.
+
+FACT — Canonical raw-log identity used:
+
+blockNumber
+transactionHash
+logIndex
+contractAddress
+
+This identity matters because the Etherscan account endpoint does not provide logIndex.
+
+Without logIndex, two event rows can look identical even when they are separate logs inside one transaction.
+
+The raw chain resolves that ambiguity.
+
+Accepted ERC-20 Artifacts
+
+Canonical raw ledger:
+
+raw_transfer_logs.jsonl
+
+SHA256:
+01612567b15d38c6a33ea5798df9437fa61fcd5a0cea4b7ddaf78f366a388a38
+
+Full reconciliation summary:
+
+full_reconciliation_summary.tsv
+
+SHA256:
+c7d0d006a49e3b7a6967852ad081e5f4c29a9ff6ee645591174d7c184166bcc4
+
+Final acceptance record:
+
+final_acceptance.txt
+
+SHA256:
+e8fb669d8466490688b58965217cda5fdcdb6c1bd1f4f03ae24972148809b5b6
+
+Accepted scanner:
+
+reconcile_all_raw_transfer_logs_v6.py
+
+SHA256:
+5f60330971831ca11bb6b8f3bf1ffb0752814bc1bb4be45a374b497d30a0ba01
+
+The scanner contains:
+
+1,793 lines
+33 functions or classes
+
+The preserved mismatch between the old 1,000-row response and the later account harvest remains part of the record.
+
+It was not deleted or explained away.
+
+It simply no longer controls the result.
+
+The correct publication language is:
+
+The Etherscan account endpoint was treated as secondary enrichment. Canonical ERC-20 identity and completeness were established independently from raw Ethereum Transfer logs.
+
+That distinction turns an explorer history into an audited ledger.
+
+The ERC-1155 Record
+
+ERC-1155 presented a different problem.
+
+The account endpoint stopped exposing additional results after a 10,000-row window.
+
+The apparent endpoint history was therefore incomplete until the boundary was isolated and reconstructed.
+
+The final partition was:
+
+blocks 0–20,651,941:              9,023 rows
+block 20,651,942:                 1,747 rows
+blocks 20,651,943–25,564,382:         4 rows
+total:                           10,774 rows
+
+The critical boundary was block:
+
+20,651,942
+
+That block contained one transaction with 1,747 ERC-1155 account rows:
+
+ERC-1155 boundary transaction
+0x4c0f23343399fbb67a847f14abfdf8ae6e93143c40ba280d2f7cdecb9c64f924
+
+The saturated full-range response had exposed only 977 rows from that transaction.
+
+An exact-block query recovered:
+
+770 additional rows
+
+The account baseline therefore contains:
+
+account rows:                 10,774
+stable unique rows:           10,774
+stable duplicates:                 0
+unique transactions:              34
+unique contracts:                 16
+event from B8F rows:          10,748
+event to B8F rows:                26
+rows containing logIndex:          0
+
+Here, B8F refers to the Shiba Inu Deployer wallet B8F:
+
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+FACT — The ERC-1155 account-endpoint baseline is complete through the publication block.
+
+FACT — It is not yet the canonical raw event ledger.
+
+Accepted ERC-1155 Account Baseline
+
+Account rows:
+
+account_rows.jsonl
+
+SHA256:
+e982e7429ff49a7b626cc3312890553e848d3ea5ead5f6c3c332c5e329bcc1e7
+
+SIZE:
+7,716,330 bytes
+
+Summary:
+
+summary.tsv
+
+SHA256:
+2af9ba1dbe23b22c3037625bbf560e4d88c6c68fd926c6a6a55ed3f9a1f19eb0
+
+The endpoint authority remains:
+
+SECONDARY_ENRICHMENT_NO_LOGINDEX
+
+That phrase is deliberate.
+
+The account endpoint provides useful information about contract, token identifier, quantity, sender, recipient, and transaction.
+
+It does not provide the raw event’s logIndex.
+
+Until raw logs supply that identity, the endpoint remains secondary.
+
+Why ERC-1155 Requires a Separate Scanner
+
+ERC-20 normally represents one token movement per Transfer event.
+
+ERC-1155 may represent either one movement or many movements inside one event.
+
+The two ERC-1155 event types are:
+
+TransferSingle
+TransferBatch
+
+Both contain three indexed address roles:
+
+operator
+from
+to
+
+The canonical scan therefore requires six independent query families:
+
+TransferSingle operator
+TransferSingle from
+TransferSingle to
+
+TransferBatch operator
+TransferBatch from
+TransferBatch to
+
+This distinction prevents a serious attribution error.
+
+The ERC-1155 event field from identifies the balance holder whose token balance decreased.
+
+It does not automatically identify the transaction signer.
+
+Likewise, an operator appearance does not automatically mean the Shiba Inu Deployer wallet B8F sent or received the token being moved.
+
+STOP CONDITION — Do not classify an operator-only appearance as a balance movement involving the Shiba Inu Deployer wallet B8F.
+
+Canonical ERC-1155 Identity
+
+A raw ERC-1155 log will use:
+
+blockNumber
+transactionHash
+logIndex
+contractAddress
+
+A TransferBatch event can contain multiple token identifiers and values.
+
+Each expanded movement therefore requires an additional field:
+
+batchIndex
+
+The expanded identity becomes:
+
+blockNumber
+transactionHash
+logIndex
+contractAddress
+batchIndex
+
+Without batchIndex, multiple token movements emitted by one batch log would be incorrectly collapsed into one record.
+
+The Scanner Reuse Audit
+
+The accepted ERC-20 V6 scanner was inspected as the transport foundation for the ERC-1155 lane.
+
+The following components were confirmed reusable:
+
+response-envelope parsing;
+
+timeout detection;
+
+result-window detection;
+
+request retries;
+
+query checkpoints;
+
+recursive block splitting;
+
+terminal single-block pagination;
+
+canonical raw identity;
+
+immutable receipt-overlay keys;
+
+deterministic manifests.
+
+The receipt-overlay key uses:
+
+transactionHash
+blockNumber
+contractAddress
+topics
+data
+
+FACT — That key structure is not specific to ERC-20.
+
+FACT — Existing ERC-20 overlay records must not be presumed valid for unrelated ERC-1155 logs.
+
+Any malformed ERC-1155 logIndex must either be independently recovered from its transaction receipt or treated as a stop condition.
+
+Accepted Scanner-Reuse Artifacts
+
+Transport and validation excerpt:
+
+transport_validation_553_690.py
+
+SHA256:
+8b7c22c49e563a7b58e925963847b1eedae16b2158457749e6d0b3329cafcc8a
+
+Identity and event-shape excerpt:
+
+identity_shape_245_379.py
+
+SHA256:
+4f0b4977cb5376fe3ef97d13d4eb026a038685a856b15d7028c2d0b50b47af3d
+
+Receipt-overlay excerpt:
+
+overlay_identity_379_501.py
+
+SHA256:
+60831795bcd1d61940695886c62464ab84d76a8c53c04b28c77061a10deeaf52
+
+Wiring inventory:
+
+wiring_inventory_v1.txt
+
+SHA256:
+2200d4cd1655464d1c055c74124eea646900b7997fea20513e4d1538ec2c1844
+
+FACT — The constants-and-types excerpt was displayed during the audit.
+
+STOP CONDITION — Its provenance remains incomplete until its SHA-256, size, path, and acceptance marker are recorded.
+
+The ERC-1155 raw-log lane therefore remains in progress.
+
+No result from that lane will be promoted merely because the account endpoint appears complete.
+
+5. Which Projects Truly Descend From the Shiba Inu Deployer Wallet B8F?
+
+This is where the investigation reaches its current boundary.
+
+Some relationships are already proven.
+
+FACT — The Shiba Inu Deployer wallet B8F directly deployed SHIB.
+
+FACT — Twenty-three wallets were directly funded in the audited normal-transaction lane.
+
+FACT — Directly funded wallets and directly created contracts can be reported within those narrow categories.
+
+But the word descend is broader.
+
+A token can appear near the Shiba Inu Deployer wallet B8F because:
+
+the wallet directly deployed it;
+
+the wallet funded its creator before deployment;
+
+the wallet funded an intermediary that later funded its creator;
+
+the wallet received the token after launch;
+
+the wallet received LP tokens;
+
+the wallet traded it;
+
+another party transferred it to the wallet;
+
+an ERC-1155 operator acted on behalf of another holder;
+
+spam or unsolicited tokens appeared in the account history.
+
+Those relationships do not carry the same evidentiary weight.
+
+A post-launch token transfer is not pre-launch creator funding.
+
+An unsolicited receipt is not participation.
+
+A liquidity receipt is not contract authorship.
+
+A funded wallet is not automatically a funded project.
+
+What Can Be Said Now
+
+FACT — The direct-funding and direct-contract-creation findings remain usable within their exact scopes.
+
+FACT — The complete canonical ERC-20 history of the Shiba Inu Deployer wallet B8F is accepted through block 25,564,382.
+
+FACT — The ERC-1155 account baseline is complete as secondary enrichment through the same block.
+
+FACT — An exhaustive downstream-token universe cannot yet be published.
+
+The remaining dependencies are:
+
+1. Canonical ERC-1155 raw-log reconciliation.
+
+2. Classification of all directly and indirectly funded wallets.
+
+3. Identification of deployments made by those wallets.
+
+4. Separation of pre-launch funding from post-launch activity.
+
+5. Separation of genuine economic events from unsolicited,
+   operator-only, spam, dust, or unrelated token appearances.
+
+Until those tests are complete, the article will distinguish:
+
+directly deployed
+directly funded
+funded through an intermediary
+post-launch associated
+unrelated or unsolicited
+
+It will not merge them into one family tree merely because the addresses touched the same token.
+
+That is the current limit of the evidence.
+
+The Shiba Inu Deployer wallet B8F sits at the beginning of the record.
+
+Its complete ERC-20 history is now reconstructed.
+
+Its ERC-1155 account history is visible but not yet raw-log canonical.
+
+The address can be audited.
+
+The person behind it cannot yet be named.
+
+And before CAW can be compared with anything downstream, the next question must be answered:
+
+What did SHIB itself actually establish?
+
+PART III — SHIB AS THE BASELINE
+
+6. What SHIB Actually Established
+
+Before CAW can be compared with SHIB, SHIB has to be reduced to what the chain actually proves.
+
+At the center of that record is the Shiba Inu Deployer wallet B8F:
+
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+FACT — The Shiba Inu Deployer wallet B8F directly created the SHIB Token contract:
+
+SHIB Token contract
+0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce
+
+That is the strongest provenance category available in this investigation.
+
+There is no intermediary funding step between the Shiba Inu Deployer wallet B8F and the creation of the SHIB Token contract.
+
+The same address sits directly at the contract’s origin.
+
+That makes SHIB the reference point against which every later claim of “lineage,” “connection,” or “Ryoshi-like design” must be measured.
+
+Direct Provenance Is Not Identity
+
+FACT — The Shiba Inu Deployer wallet B8F directly deployed SHIB.
+
+UNKNOWN — The human or pseudonymous controller of the Shiba Inu Deployer wallet B8F remains unproven.
+
+The difference is simple but essential.
+
+The blockchain can show which address created a contract.
+
+It cannot, by itself, show who sat behind the keyboard.
+
+An explorer label such as “Shiba Inu: Deployer” describes an on-chain role. It does not prove the legal or personal identity of Ryoshi.
+
+For that reason, this article uses SHIB as the strongest provenance baseline, not as a verified identity certificate.
+
+The Reference Provenance Categories
+
+The origin relationships in this investigation are ranked separately.
+
+CATEGORY A
+Direct contract deployment
+
+CATEGORY B
+Direct pre-launch funding of a creator wallet
+
+CATEGORY C
+Pre-launch funding through an intermediary wallet
+
+CATEGORY D
+Post-launch token receipt
+
+CATEGORY E
+Post-launch LP receipt
+
+CATEGORY F
+Later trading or unrelated interaction
+
+FACT — SHIB occupies Category A because the Shiba Inu Deployer wallet B8F directly created the SHIB Token contract.
+
+FACT — CAW does not occupy Category A relative to the Shiba Inu Deployer wallet B8F.
+
+FACT — CAW instead has a reproduced pre-launch funding branch through the 81A0 Intermediary wallet:
+
+0x81a0daaab45dbbce68b11e7aeddd6a0d1970bdea
+
+and into the CAW Creator wallet:
+
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+before creation of the CAW Token contract:
+
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+That places CAW in a different provenance class.
+
+The connection is real.
+
+The degree of separation is also real.
+
+Both must be stated.
+
+What SHIB’s Token Design Established
+
+The SHIB Token contract is important for more than its origin wallet.
+
+It also became a reference architecture for a token launched with a narrow visible authority surface.
+
+FACT — The current investigation treats SHIB as the baseline for comparing:
+
+deployment provenance
+runtime implementation
+ownership surfaces
+mint authority
+pause authority
+blacklist authority
+fee or tax authority
+proxy architecture
+upgrade authority
+liquidity custody
+ecosystem control
+
+Those categories must remain separate.
+
+A contract can be minimal while its surrounding ecosystem is complex.
+
+A token can lack an owner while important infrastructure remains controlled elsewhere.
+
+A project can have direct provenance but concentrated liquidity.
+
+Another can have indirect provenance but fewer token-level control surfaces.
+
+There is no single variable called “decentralized.”
+
+Internal Minting Is Not Continuing Mint Authority
+
+This distinction matters whenever token source code is discussed.
+
+A token contract can create its initial supply during deployment without exposing a continuing privileged function that allows an administrator to mint more later.
+
+Those are not the same condition.
+
+FACT — Construction-time supply creation must be classified separately from a continuing public or privileged mint function.
+
+STOP CONDITION — Do not describe a token as having an active mint authority merely because its initial supply was created during construction.
+
+STOP CONDITION — Do not describe a token as permanently mintless without checking the deployed runtime, callable selectors, inherited logic, role state, and any proxy or upgrade path.
+
+The same evidentiary standard must be applied to SHIB, CAW, and every comparison token.
+
+What Still Has to Be Frozen
+
+The SHIB baseline is not publication-complete merely because its creation address is known.
+
+A final fixed-block evidence package must still bind the following into one reproducible record:
+
+SHIB verified source
+compiler version
+compiler settings
+ABI
+creation transaction
+deployed runtime bytecode
+runtime size
+runtime SHA256
+metadata-stripped executable SHA256
+public function selectors
+owner and role checks
+mint checks
+pause and blacklist checks
+fee and tax checks
+proxy detection
+EIP-1967 implementation slot
+EIP-1967 admin slot
+EIP-1967 beacon slot
+total supply at publication block
+publication block hash
+
+FACT — Until that package is complete, the strongest supported SHIB claim is narrow:
+
+The Shiba Inu Deployer wallet B8F directly deployed the SHIB Token contract, making SHIB the direct-provenance baseline for this investigation.
+
+PENDING — The final source, compiler, runtime, ABI, authority, and fixed-block state package remains to be frozen.
+
+The absence of the final package does not erase the direct deployment.
+
+It limits how far the technical comparison can responsibly go.
+
+Why SHIB Is the Baseline
+
+SHIB is not the baseline because it is the largest token in the comparison.
+
+It is not the baseline because of community belief.
+
+It is not the baseline because its founder disappeared.
+
+It is the baseline because the address at the beginning is directly connected to the contract creation.
+
+That creates a clean reference point.
+
+From there, every other candidate can be measured by asking:
+
+Was it directly deployed by the Shiba Inu Deployer wallet B8F?
+
+Was its creator funded before deployment?
+
+Was that funding direct or routed through another wallet?
+
+Did the connection occur only after launch?
+
+Does the token reproduce SHIB’s executable code?
+
+Does it merely arrive at a similar authority outcome?
+
+Does its liquidity structure depend on one custodian?
+
+Does its broader ecosystem introduce controls absent from the token itself?
+
+Those questions prevent one form of similarity from being mistaken for all the others.
+
+7. What “Ryoshi-Like” Can and Cannot Mean
+
+“Ryoshi-like” is one of the most easily abused phrases in this entire investigation.
+
+It can be used to describe almost anything:
+
+an anonymous launch,
+
+a renounced contract,
+
+a dog or bird token,
+
+a misspelling,
+
+a philosophical statement,
+
+a mysterious wallet,
+
+a disappeared creator,
+
+or a community that claims to have no leader.
+
+None of those qualities is sufficient on its own.
+
+FACT — “Ryoshi-like” may describe a reproducible set of properties.
+
+FACT — It cannot establish human identity.
+
+The phrase has evidentiary value only when it is broken into testable components.
+
+The Five Separate Comparisons
+
+A serious comparison requires at least five independent dimensions.
+
+1. Provenance
+
+Who directly deployed the token?
+
+Who funded the creator?
+
+Did funding occur before or after deployment?
+
+Was there an intermediary?
+
+Was the connection deliberate-looking, incidental, unsolicited, or purely post-launch?
+
+FACT — SHIB has direct provenance from the Shiba Inu Deployer wallet B8F.
+
+FACT — CAW has an indirect but reproduced pre-launch funding branch beginning with the Shiba Inu Deployer wallet B8F.
+
+Those are related findings.
+
+They are not identical findings.
+
+2. Executable Similarity
+
+Do two contracts share:
+
+full runtime bytecode;
+
+metadata-stripped executable bytecode;
+
+compiler lineage;
+
+ABI;
+
+function selectors;
+
+inherited libraries;
+
+control flow;
+
+storage design?
+
+FACT — CAW is not copied SHIB bytecode.
+
+FACT — A token can be philosophically similar to SHIB while being technically different.
+
+FACT — A token can copy SHIB’s executable code without sharing SHIB’s creator or origin funding.
+
+Therefore, executable similarity and provenance must be ranked separately.
+
+3. Token Authority
+
+Does the deployed token expose:
+
+ownership;
+
+roles;
+
+privileged minting;
+
+pausing;
+
+blacklisting;
+
+taxation;
+
+fee control;
+
+rescue functions;
+
+proxy administration;
+
+upgradeability?
+
+A token may reach a SHIB-like outcome by minimizing or eliminating those surfaces.
+
+But arriving at a similar authority result does not prove common authorship.
+
+Anyone can imitate a design principle.
+
+The stronger question is whether the same design appears beside a meaningful provenance relationship.
+
+4. Liquidity Structure
+
+Who received the initial LP tokens?
+
+Was liquidity burned through actual supply destruction?
+
+Was it locked by a contract?
+
+Was it transferred to an externally owned wallet?
+
+Was it moved to a vanity address?
+
+Could a key still control it?
+
+FACT — Token-level minimalism does not prove liquidity decentralization.
+
+A token can be immutable while its liquidity remains dependent on one private key.
+
+That is why “renounced contract” and “trustless market” are not interchangeable claims.
+
+5. Ecosystem Control
+
+Who controls:
+
+frontends;
+
+domains;
+
+hosting;
+
+APIs;
+
+indexers;
+
+databases;
+
+repositories;
+
+deployment keys;
+
+treasury assets;
+
+social accounts;
+
+governance processes?
+
+A token contract can be ownerless while the usable ecosystem around it remains highly centralized.
+
+FACT — Complete decentralization cannot be inferred from token bytecode alone.
+
+The Composite Fingerprint
+
+A more meaningful “Ryoshi-like” fingerprint would combine several independently verified properties:
+
+proximity to the SHIB origin wallet
+pre-launch chronology
+compartmentalized wallet use
+minimal token authority
+public rather than privileged launch
+limited visible administrative control
+rejection of official ownership
+on-chain communication
+
+INFERENCE — A project matching several of these properties is more meaningfully comparable to SHIB than one matching only a writing style, meme theme, or anonymous launch.
+
+UNKNOWN — Even a complete composite match would not prove that the same human created both projects.
+
+That boundary does not weaken the investigation.
+
+It makes the conclusion defensible.
+
+What the Phrase Must Never Be Used to Prove
+
+STOP CONDITION — Do not infer Ryoshi from a typo.
+
+STOP CONDITION — Do not infer Ryoshi from anonymity.
+
+STOP CONDITION — Do not infer Ryoshi from renounced ownership.
+
+STOP CONDITION — Do not infer Ryoshi from copied bytecode.
+
+STOP CONDITION — Do not infer Ryoshi from funding proximity alone.
+
+STOP CONDITION — Do not infer common human control from philosophical similarity.
+
+Each may contribute context.
+
+None can carry the conclusion by itself.
+
+The Stronger Question
+
+The real question is not:
+
+Does CAW feel like SHIB?
+
+The stronger question is:
+
+Does CAW combine a reproducible pre-launch relationship to the SHIB origin address with an independently verified token-authority structure that resembles SHIB’s minimized outcome?
+
+That question can be tested.
+
+It does not depend on personality.
+
+It does not depend on belief.
+
+It does not require identifying Ryoshi.
+
+And it leaves room for an answer more precise than either “same creator” or “pure coincidence.”
+
+The Current Position
+
+FACT — SHIB remains the direct-provenance baseline because the Shiba Inu Deployer wallet B8F directly deployed the SHIB Token contract.
+
+FACT — CAW does not share that direct deployment relationship.
+
+FACT — CAW does possess a reproduced pre-launch funding branch beginning at the Shiba Inu Deployer wallet B8F.
+
+FACT — CAW and SHIB are technically different contracts.
+
+FACT — CAW independently reaches a comparatively minimized token-authority outcome in the evidence currently assembled.
+
+INFERENCE — Among the present audited candidates, CAW remains the strongest candidate for the combined test of SHIB-origin proximity and token-authority minimization.
+
+UNKNOWN — That combined pattern does not establish that Ryoshi personally created, authored, or controlled CAW.
+
+That is the boundary.
+
+SHIB establishes the baseline.
+
+CAW establishes the anomaly.
+
+The next question is what happened inside the 303 days between them.
+
+PART IV — THE HIDDEN BRANCH THAT LED TO CAW
+
+8. The Shiba Inu Deployer Wallet Funds the 81A0 Intermediary Wallet
+
+The branch begins on June 15, 2021.
+
+FACT — At 02:57:33 UTC, the Shiba Inu Deployer wallet B8F:
+
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+sent 2.78 ETH to the 81A0 Funding Intermediary wallet:
+
+0x81a0daaab45dbbce68b11e7aeddd6a0d1970bdea
+
+Transaction:
+
+0xb5b81a63c957fcc33469d59f9c969e860d24574bb72d8b2fc482c7232cb13062
+
+Verify the 2.78 ETH funding transaction on Etherscan
+
+The first edge is therefore:
+
+Shiba Inu Deployer wallet B8F
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+        ↓ 2.78 ETH
+
+81A0 Funding Intermediary wallet
+0x81a0daaab45dbbce68b11e7aeddd6a0d1970bdea
+
+FACT — The transaction proves that the Shiba Inu Deployer wallet B8F funded the 81A0 Funding Intermediary wallet.
+
+FACT — The transaction occurred before the creation of the CAW Token contract.
+
+UNKNOWN — The transaction does not reveal why the funds were sent.
+
+UNKNOWN — It does not establish that the Shiba Inu Deployer wallet B8F and the 81A0 Funding Intermediary wallet shared one controller.
+
+A transfer proves movement.
+
+It does not prove motive.
+
+It does not prove identity.
+
+But it leaves a first footprint.
+
+9. The 303-Day Silence
+
+The next relevant transaction in the branch did not occur the following day, week, or month.
+
+It occurred more than ten months later.
+
+FACT — The elapsed time between the Shiba Inu Deployer wallet B8F funding the 81A0 Funding Intermediary wallet and the 81A0 Funding Intermediary wallet funding the CAW Creator wallet was:
+
+303 days
+1 hour
+41 minutes
+41 seconds
+
+The interval began:
+
+2021-06-15 02:57:33 UTC
+
+It ended:
+
+2022-04-14 04:39:14 UTC
+
+FACT — The 303-day interval is a reproducible comparison between two Ethereum transaction timestamps.
+
+UNKNOWN — It does not prove that CAW was under development for 303 days.
+
+UNKNOWN — It does not reveal what occurred off-chain, through other wallets, or through systems not represented in this funding branch.
+
+INFERENCE — The delay is consistent with funds being retained before a later deployment operation.
+
+That is as far as the timestamps permit the claim to go.
+
+The silence may be meaningful.
+
+It may be operational separation.
+
+It may be unrelated delay.
+
+The chain records the interval.
+
+It does not record the reason.
+
+10. The 81A0 Funding Intermediary Wallet Funds the CAW Creator Wallet
+
+On April 14, 2022, the dormant-looking branch moved again.
+
+FACT — At 04:39:14 UTC, the 81A0 Funding Intermediary wallet:
+
+0x81a0daaab45dbbce68b11e7aeddd6a0d1970bdea
+
+sent 2.22 ETH to the CAW Creator wallet:
+
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+Transaction:
+
+0xbfed9c9fe98cf7705b6668afbe9f01c81310f062ae5853b2ac31efd2847f44f0
+
+Verify the 2.22 ETH creator-funding transaction on Etherscan
+
+The branch now contained two funding edges:
+
+Shiba Inu Deployer wallet B8F
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+        ↓ 2.78 ETH
+
+81A0 Funding Intermediary wallet
+0x81a0daaab45dbbce68b11e7aeddd6a0d1970bdea
+
+        ↓ 2.22 ETH
+
+CAW Creator wallet
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+FACT — The 81A0 Funding Intermediary wallet funded the CAW Creator wallet before the CAW Token contract existed.
+
+FACT — The 2.22 ETH transfer is a predeployment funding event.
+
+INFERENCE — Its position immediately before deployment is consistent with operational funding for contract creation and launch activity.
+
+UNKNOWN — The transaction does not prove that the same person controlled the Shiba Inu Deployer wallet B8F, the 81A0 Funding Intermediary wallet, and the CAW Creator wallet.
+
+The chain now showed a path.
+
+What happened next made the timing difficult to dismiss as ordinary post-launch interaction.
+
+11. Two Minutes and Twenty Seconds
+
+The 2.22 ETH arrived in the CAW Creator wallet at:
+
+2022-04-14 04:39:14 UTC
+
+Exactly 140 seconds later, the CAW Creator wallet submitted the contract-creation transaction:
+
+0x4d160f76cdacbffc4f7302d4fb180317e15d19080cbbaded4ef0197e71ba515c
+
+Verify the CAW contract-creation transaction on Etherscan
+
+FACT — The transaction created the CAW Token contract:
+
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+Inspect the CAW Token contract on Etherscan
+
+The completed origin branch is:
+
+Shiba Inu Deployer wallet B8F
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+        ↓ 2.78 ETH
+        tx:
+        0xb5b81a63c957fcc33469d59f9c969e860d24574bb72d8b2fc482c7232cb13062
+
+81A0 Funding Intermediary wallet
+0x81a0daaab45dbbce68b11e7aeddd6a0d1970bdea
+
+        ↓ 2.22 ETH
+        tx:
+        0xbfed9c9fe98cf7705b6668afbe9f01c81310f062ae5853b2ac31efd2847f44f0
+
+CAW Creator wallet
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+        ↓ 140 seconds later
+        contract-creation tx:
+        0x4d160f76cdacbffc4f7302d4fb180317e15d19080cbbaded4ef0197e71ba515c
+
+CAW Token contract
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+FACT — The CAW Creator wallet received 2.22 ETH and created the CAW Token contract two minutes and twenty seconds later.
+
+FACT — The deployment occurred after a reproducible pre-launch funding path beginning at the Shiba Inu Deployer wallet B8F.
+
+INFERENCE — The 140-second interval is consistent with intentional predeployment funding rather than an unrelated later association.
+
+FACT — Timing alone does not prove that the Shiba Inu Deployer wallet B8F controlled the CAW Creator wallet.
+
+FACT — The branch does not prove that Ryoshi created CAW.
+
+UNKNOWN — Human authorship and common wallet control remain unresolved.
+
+That is the limit.
+
+But it is also the finding.
+
+The SHIB connection did not first appear after CAW launched.
+
+It did not begin with an unsolicited token transfer, a liquidity receipt, a later trade, or a community story.
+
+It existed before the CAW Token contract existed.
+
+The money moved first.
+
+The contract appeared two minutes and twenty seconds later.
+
+The origin path is visible.
+
+The person behind it is not.
+
+[Image: 1*OOlp7aaz5187pSF_-KwcaQ.png]
+
+lost dog, black crow
+
+PART V — WHAT CAW’S CONTRACT REALLY IS
+
+12. CAW Is Not a SHIB Clone
+
+The funding trail connects CAW to the origin neighborhood of SHIB.
+
+The contract code does not.
+
+The CAW Token contract is:
+
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+Inspect the CAW Token contract on Etherscan
+
+The SHIB Token contract is:
+
+0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce
+
+Inspect the SHIB Token contract on Etherscan
+
+FACT — CAW is not copied SHIB bytecode.
+
+FACT — The two contracts use different implementations.
+
+FACT — They belong to different compiler lineages.
+
+That distinction matters because two opposite mistakes are common.
+
+The first is:
+
+CAW must be connected to SHIB because the contracts are identical.
+
+They are not identical.
+
+The second is:
+
+CAW cannot be connected to SHIB because the contracts are different.
+
+That conclusion also exceeds the evidence.
+
+Funding provenance and executable similarity are separate questions.
+
+The reproduced funding branch exists regardless of whether CAW copied SHIB’s code.
+
+The code comparison exists regardless of who controlled the funding wallets.
+
+What CAW and SHIB share most clearly is not executable identity.
+
+It is a similar result:
+
+a token contract with very little visible post-deployment authority.
+
+FACT — Their principal supported similarity is token-authority minimization.
+
+UNKNOWN — Similar authority outcomes do not establish common authorship.
+
+Anyone can copy code.
+
+Anyone can also independently copy an idea.
+
+The stronger evidence appears when design choices are considered beside provenance — but the two must never be merged into one claim.
+
+13. The CAW Token Authority Audit
+
+The most important question about a token contract is not how mysterious its creator appears.
+
+It is what power remains after deployment.
+
+Can someone mint more?
+
+Can transfers be paused?
+
+Can addresses be blacklisted?
+
+Can taxes be changed?
+
+Can the code be upgraded?
+
+Can an administrator replace the implementation?
+
+Can an owner seize control through a function the average holder never inspected?
+
+The current CAW audit has not identified those conventional authority surfaces.
+
+Existing Findings
+
+FACT — Existing evidence supports the absence of an identified owner function or active owner-control surface in the CAW Token contract.
+
+FACT — Existing evidence supports the absence of an identified privileged public mint function.
+
+FACT — Existing evidence supports the absence of identified:
+
+pause authority
+blacklist authority
+transfer-tax controller
+fee controller
+proxy administrator
+upgrade controller
+
+The tested CAW Token contract remains:
+
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+An earlier runtime probe recorded:
+
+runtime size:
+2,278 bytes
+
+runtime SHA256:
+ac5c77c1372337655d8f0257e34feec1ab0506dc8e8e7f034252cba66390bea1
+
+The push-aware opcode audit reported zero executed occurrences of:
+
+CALL
+CALLCODE
+DELEGATECALL
+STATICCALL
+CREATE
+CREATE2
+SELFDESTRUCT
+
+The tested EIP-1967 implementation and administrator storage slots returned zero.
+
+FACT — Those results cut against a conventional proxy-based upgrade mechanism or hidden external call route in the tested runtime.
+
+They do not prove that the entire CAW ecosystem is decentralized.
+
+They prove something narrower:
+
+The audited CAW token runtime does not presently show the ordinary owner, proxy, upgrade, mint, pause, blacklist, or tax-control surfaces examined in this investigation.
+
+That is a contract-level conclusion.
+
+It is not a conclusion about liquidity, websites, social accounts, repositories, applications, or community authority.
+
+Construction-Time Supply Is Not Continuing Mint Authority
+
+A token can create its initial supply during deployment without giving someone the continuing power to create more later.
+
+Those are different things.
+
+FACT — Initial supply creation during construction is not, by itself, evidence of an active post-deployment mint authority.
+
+STOP CONDITION — Do not describe CAW as having a continuing mint controller merely because supply was created during deployment.
+
+STOP CONDITION — Do not describe CAW as permanently free of mint authority until the final ABI, runtime, inherited logic, selectors, proxy slots, and fixed-block state package are frozen together.
+
+The current evidence is strong.
+
+The final publication package must make it independently reproducible.
+
+What Still Must Be Frozen
+
+The contract-authority conclusion is not yet publication-complete.
+
+The final package must bind the following evidence to the publication block:
+
+CAW verified-source SHA256
+compiler version
+compiler settings
+ABI
+ABI selector table
+creation bytecode
+deployed runtime bytecode
+runtime size
+runtime SHA256
+metadata-stripped executable SHA256
+EIP-1967 implementation slot
+EIP-1967 administrator slot
+EIP-1967 beacon slot
+owner checks
+role checks
+mint checks
+pause checks
+blacklist checks
+tax and fee checks
+total supply
+publication block
+publication block hash
+
+Publication cutoff:
+
+block:
+25564382
+
+block hash:
+0x940b0abe73cc528acb2e80a24f15d47161419e00498931325a00801f0f313dfd
+
+PENDING — The final source, compiler, ABI, runtime, selector, storage-slot, authority, and supply evidence must be frozen in one package.
+
+Until then, the correct language remains:
+
+Existing evidence supports the absence of identified privileged token-control surfaces.
+
+Not:
+
+Every possible form of control has been mathematically eliminated.
+
+Proof should remain exactly as strong as the artifact supporting it.
+
+14. Runtime Comparison
+
+Code size is often used as shorthand for simplicity.
+
+It can be useful.
+
+It can also mislead.
+
+Within the current comparison set, the audited contracts are:
+
+SHIB Token contract
+CAW Token contract
+OSAK Token contract
+LEASH Token contract
+BaseToken contract
+ZoomProtocolToken contract
+
+FACT — The CAW Token contract had the smallest deployed runtime in this six-contract comparison set.
+
+FACT — That statement applies only to this explicitly enumerated set.
+
+It does not mean CAW has the smallest token runtime on Ethereum.
+
+It does not mean smaller code is automatically safer.
+
+It does not mean fewer bytes guarantee decentralization.
+
+A small contract can still contain one decisive privileged function.
+
+A larger contract can be complex without retaining dangerous authority.
+
+The number of bytes is therefore secondary to the functions those bytes implement.
+
+The proper comparison order is:
+
+1. What functions can be called?
+2. Who can call them?
+3. Can authority change?
+4. Can supply change?
+5. Can transfers be restricted?
+6. Can the implementation be replaced?
+7. Only then: how large is the runtime?
+
+INFERENCE — CAW’s small runtime strengthens the minimal-authority finding because the code is both limited in scope and presently lacks the privileged surfaces examined.
+
+FACT — Runtime size alone does not establish decentralization.
+
+The Contract-Level Conclusion
+
+The contract evidence produces a result more precise than either side of the usual argument.
+
+CAW is not a SHIB clone.
+
+It does not need to be one for the funding branch to matter.
+
+Its runtime is different.
+
+Its compiler lineage is different.
+
+Its implementation is different.
+
+Yet the deployed CAW Token contract arrives at a result that resembles the most important technical feature of the SHIB baseline:
+
+very little visible token-level authority remains after deployment.
+
+That does not prove Ryoshi.
+
+It does not prove common control.
+
+It does not prove the surrounding ecosystem is decentralized.
+
+It establishes the narrower technical finding:
+
+CAW is an independently implemented token whose audited runtime presently shows a highly minimized authority surface.
+
+The next question is larger than the contract.
+
+What does “decentralized” mean once liquidity, custody, infrastructure, and social authority are included?
+
+PART VI — DEFINING TRUE DECENTRALIZATION
+
+15. Decentralization Is Not One Variable
+
+FACT — A token contract can be immutable while the project surrounding it remains centralized.
+
+FACT — A project can have no owner function while its liquidity, treasury, website, databases, deployment keys, or social accounts remain controlled by a small number of people.
+
+FACT — A renounced contract does not automatically create a trustless ecosystem.
+
+That distinction is essential to CAW.
+
+The CAW Token contract is:
+
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+FACT — The current audit supports a highly minimized token-level authority surface.
+
+FACT — That finding applies to the CAW Token contract.
+
+FACT — It does not automatically apply to every wallet, liquidity position, website, application, repository, indexer, database, or social account associated with CAW.
+
+The word decentralized therefore has to be divided into separate questions.
+
+Token-Contract Authority
+
+FACT — Token-contract authority asks whether someone can change the rules enforced by the token itself.
+
+The relevant questions include:
+
+Is there an owner?
+
+Is there an administrator?
+
+Can new supply be minted?
+
+Can transfers be paused?
+
+Can addresses be blacklisted?
+
+Can taxes or fees be changed?
+
+Can tokens be rescued or seized?
+
+Can the implementation be upgraded?
+
+FACT — Existing evidence supports the absence of those conventional privileged surfaces in the CAW Token contract.
+
+STOP CONDITION — That conclusion must remain limited to the contract and functions actually tested.
+
+Upgrade Authority
+
+FACT — A proxy can allow the code behind a contract address to be replaced without changing the address users interact with.
+
+FACT — That makes proxy and implementation checks separate from ordinary ownership checks.
+
+FACT — The tested CAW EIP-1967 implementation and administrator slots returned zero.
+
+FACT — The tested runtime did not expose an identified DELEGATECALL route.
+
+INFERENCE — Those findings are inconsistent with a conventional EIP-1967 proxy architecture in the tested CAW Token contract.
+
+STOP CONDITION — The final publication claim must remain tied to the frozen runtime, storage slots, and publication block.
+
+Supply Authority
+
+FACT — Supply authority concerns who can create, destroy, seize, or redirect tokens after deployment.
+
+FACT — Initial supply creation during construction is not the same as a continuing privileged mint function.
+
+FACT — Existing evidence has not identified a public privileged mint authority in the CAW Token contract.
+
+PENDING — Final total-supply and selector evidence must still be frozen at publication block 25,564,382.
+
+Transfer Authority
+
+FACT — Transfer authority concerns whether a privileged actor can block, redirect, tax, or selectively permit token movements.
+
+Relevant surfaces include:
+
+pause
+blacklist
+whitelist
+maximum-wallet limits
+maximum-transaction limits
+dynamic transfer fees
+sell restrictions
+anti-bot controls
+
+FACT — Existing evidence has not identified these conventional controls in the CAW Token contract.
+
+FACT — Their absence reduces token-level administrative power.
+
+FACT — It does not eliminate market, custody, liquidity, or infrastructure risk.
+
+Liquidity Custody
+
+FACT — Liquidity custody asks who controls the LP tokens representing assets inside a trading pool.
+
+FACT — LP tokens sent to the zero address reduce the usable LP supply only when the relevant supply mechanics support that interpretation.
+
+FACT — LP tokens held by an externally owned wallet remain controlled by whoever can sign for that wallet.
+
+FACT — LP tokens transferred to a vanity-form address are not automatically destroyed.
+
+The CAW LP Vanity Custody address is:
+
+0xdead000000000000000042069420694206942069
+
+FACT — The address held nearly all outstanding CAW/WETH LP at the earlier audited snapshot.
+
+FACT — The transfer to that address did not reduce LP total supply.
+
+UNKNOWN — Permanent inaccessibility of the CAW LP Vanity Custody address has not been proven.
+
+The correct description remains:
+
+burn-style vanity custody
+
+not:
+
+permanently burned liquidity.
+
+Treasury Custody
+
+FACT — Treasury custody concerns wallets or contracts that hold assets used for development, incentives, operations, grants, marketing, or future liquidity.
+
+FACT — A project can have an immutable token while a treasury remains controlled by one private key or multisignature wallet.
+
+PENDING — A complete CAW treasury and operational-custody inventory has not yet been frozen at the publication block.
+
+STOP CONDITION — No complete ecosystem-decentralization claim can be made until those custody relationships are classified.
+
+Oracle Dependence
+
+FACT — An oracle can influence a contract by providing prices, exchange rates, or external state.
+
+FACT — A token without an oracle may still interact with applications that depend on one.
+
+FACT — Oracle administration can create a control surface outside the token contract itself.
+
+PENDING — Each CAW application contract must be checked separately for price feeds, configurable providers, fallback sources, and administrator authority.
+
+Frontend and Domain Control
+
+FACT — A blockchain contract may remain available even when a website disappears.
+
+FACT — Most users still depend on frontends to discover, interpret, and interact with contracts.
+
+A frontend can be controlled through:
+
+domain registration
+DNS
+hosting
+deployment accounts
+analytics
+wallet-connect configuration
+embedded contract addresses
+remote configuration
+
+FACT — Control of those systems can influence what users see and which contracts they interact with.
+
+FACT — That influence does not change the CAW Token contract’s runtime.
+
+FACT — It can still change the practical user experience.
+
+PENDING — CAW frontend, domain, hosting, and deployment-control evidence remains incomplete.
+
+Indexers, APIs, and Databases
+
+FACT — Many decentralized applications display data through centralized APIs, indexers, or databases.
+
+FACT — Those services can fail, filter records, lag behind the chain, or present incomplete histories.
+
+The B8F audit demonstrated this directly.
+
+The Shiba Inu Deployer wallet B8F is:
+
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+FACT — Its historical account-endpoint results were not treated as canonical until independently reconciled against raw Ethereum logs.
+
+FACT — The ERC-1155 account endpoint omitted logIndex and was capped by a 10,000-row result window.
+
+INFERENCE — A project depending on one indexer or API inherits that system’s availability and presentation risks.
+
+FACT — On-chain truth and application-visible truth are not always identical.
+
+Repository and Deployment Authority
+
+FACT — Public source code does not prove that anyone can deploy the canonical application.
+
+FACT — A public repository can still depend on private deployment credentials, administrator keys, package registries, or hosted infrastructure.
+
+FACT — A GitHub fork demonstrates access to public code.
+
+FACT — It does not prove authorization by an original deployer or current custodian.
+
+PENDING — CAW deployment reproducibility must be tested from source through bytecode, configuration, and final deployed addresses.
+
+Social and Narrative Authority
+
+FACT — Social authority can exist even when no formal on-chain governance system exists.
+
+A community may treat certain people as:
+
+official builders
+founders
+custodians
+interpreters
+leaders
+spokespeople
+authorized accounts
+
+FACT — Those roles can influence users without controlling the token contract.
+
+FACT — Popularity, tenure, confidence, or access to a social account does not prove control of an origin wallet.
+
+STOP CONDITION — No person should be described as an authorized CAW origin representative without verifiable evidence connecting that claim to a relevant key, contract, repository permission, or reproducible proof chain.
+
+Public Reproducibility
+
+FACT — A system is more independently verifiable when another researcher can reproduce its contract state, deployment, balances, event history, and authority findings without relying on private access.
+
+FACT — Reproducibility does not itself eliminate centralized control.
+
+FACT — It makes that control easier to identify.
+
+For this investigation, reproducibility requires:
+
+fixed block
+exact address
+transaction hash
+raw amount
+decimals
+runtime hash
+storage value
+source artifact
+exact transform
+SHA256
+file size
+local path
+
+The standard is not:
+
+trust the conclusion.
+
+The standard is:
+
+reproduce the evidence.
+
+The Eleven Separate Dimensions
+
+FACT — This article evaluates decentralization across at least eleven separate dimensions:
+
+1. Token-contract authority
+2. Upgradeability
+3. Supply authority
+4. Transfer restrictions
+5. Liquidity custody
+6. Treasury custody
+7. Oracle dependence
+8. Frontend and domain control
+9. Indexer and database dependence
+10. Social and narrative authority
+11. Public reproducibility
+
+FACT — A project may perform strongly in one dimension and poorly in another.
+
+FACT — No single dimension can responsibly stand in for all eleven.
+
+16. The Decentralization Test Matrix
+
+The final comparison will not assign one unexplained score such as:
+
+decentralized
+not decentralized
+
+Instead, each project will be evaluated independently across each control surface.
+
+The current comparison universe includes:
+
+SHIB Token contract
+0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce
+
+CAW Token contract
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+OSAK Token contract
+0xa21af1050f7b26e0cff45ee51548254c41ed6b5c
+
+LEASH Token contract
+address pending final frozen comparison package
+
+BaseToken contract
+address pending final frozen comparison package
+
+ZoomProtocolToken contract
+address pending final frozen comparison package
+
+STOP CONDITION — The remaining contract addresses must be printed in full before the final article assigns them any result.
+
+Matrix Values
+
+Each category will use one of five states:
+
+NONE
+No identified authority or dependency in the tested scope.
+
+RENOUNCED
+Authority existed historically but the current state shows it relinquished.
+
+ACTIVE
+A current owner, administrator, role, custodian, or dependency exists.
+
+UNKNOWN
+The evidence is incomplete or inconclusive.
+
+NOT APPLICABLE
+The category does not apply to that contract or system.
+
+FACT — NONE does not mean no unknown risk exists.
+
+FACT — It means no relevant authority was identified within the tested scope and evidence.
+
+FACT — RENOUNCED is not equivalent to authority never having existed.
+
+FACT — UNKNOWN must remain unknown until the missing evidence is obtained.
+
+Required Matrix Columns
+
+The final matrix will include:
+
+Direct owner
+Role system
+Privileged mint
+Pause authority
+Blacklist authority
+Fee or tax control
+Proxy architecture
+Upgrade authority
+Rescue function
+Oracle dependence
+Treasury custody
+Liquidity custody
+Official frontend dependence
+Off-chain database dependence
+Repository control
+Deployment reproducibility
+Current state verified
+
+Each row must identify:
+
+contract or system
+tested block
+tested address
+result
+supporting artifact
+SHA256
+claim limit
+
+FACT — A blank cell is not evidence.
+
+FACT — A project claim is not a substitute for contract state.
+
+FACT — An old ownership-renouncement transaction does not prove that every related contract is ownerless today.
+
+FACT — Every mutable state claim must be checked at the same publication block or explicitly labeled as historical.
+
+Current CAW Position
+
+The current evidence supports the following narrow CAW classification:
+
+CAW Token contract authority:
+MINIMIZED / EXISTING EVIDENCE STRONG
+
+CAW Token proxy status:
+NO CONVENTIONAL PROXY IDENTIFIED IN TESTED SCOPE
+
+CAW Token upgrade authority:
+NO IDENTIFIED UPGRADE CONTROLLER IN TESTED SCOPE
+
+CAW liquidity custody:
+BURN-STYLE VANITY CUSTODY AT EARLIER SNAPSHOT
+
+CAW treasury custody:
+UNKNOWN / INCOMPLETE
+
+CAW frontend control:
+UNKNOWN / INCOMPLETE
+
+CAW indexer dependence:
+UNKNOWN / INCOMPLETE
+
+CAW social authority:
+INFORMAL AND NOT CRYPTOGRAPHICALLY RESOLVED
+
+CAW ecosystem decentralization:
+NOT YET ESTABLISHED
+
+FACT — The CAW Token contract currently appears more authority-minimized than the wider CAW ecosystem has been proven to be.
+
+FACT — That is not a contradiction.
+
+It is the reason the layers are evaluated separately.
+
+The Claim Boundary
+
+STOP CONDITION — Do not describe CAW as completely decentralized while liquidity, treasury, frontend, indexer, database, deployment, and social-authority evidence remains incomplete.
+
+STOP CONDITION — Do not describe CAW as centralized merely because community figures, websites, or unofficial builders exist.
+
+FACT — The correct conclusion must identify the exact layer being discussed.
+
+The defensible language is:
+
+Existing evidence supports a highly minimized CAW token contract.
+
+It is not yet:
+
+Every layer of CAW is fully decentralized.
+
+The contract may have stepped away from authority.
+
+The ecosystem still has to prove that it did the same.
+
+PART VII — EVERY COMPARISON TOKEN
+
+A shared wallet, copied contract, similar philosophy, or later token transfer can each create the appearance of lineage.
+
+None means the same thing.
+
+The comparison therefore separates:
+
+provenance
+executable similarity
+token authority
+launch structure
+liquidity custody
+ecosystem control
+
+It also includes three comparison wallets — the 59D Intermediary wallet, DFEA Comparison wallet, and DrinkingBuddy.eth-associated wallet — because they reveal a second downstream branch from the Shiba Inu Deployer wallet B8F that must not be confused with CAW’s creator-funding branch.
+
+17. SHIB — Direct Origin, Minimal Authority
+
+The SHIB Token contract is:
+
+0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce
+
+It was directly created by the Shiba Inu Deployer wallet B8F:
+
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+FACT — SHIB occupies the strongest provenance category in this comparison: direct deployment.
+
+FACT — No intermediary wallet separates the Shiba Inu Deployer wallet B8F from the creation of the SHIB Token contract.
+
+FACT — Existing contract evidence places SHIB among the authority-minimized comparison tokens.
+
+PENDING — The final publication package must freeze SHIB’s verified source, compiler, ABI, runtime, proxy slots, authority checks, and state at block 25,564,382.
+
+UNKNOWN — Direct deployment does not identify the human controller of the Shiba Inu Deployer wallet B8F.
+
+SHIB is therefore the baseline — not because every part of its later ecosystem was decentralized, but because its on-chain origin is direct and unambiguous.
+
+18. CAW — Indirect Origin, Minimal Authority
+
+The CAW Token contract is:
+
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+It was created by the CAW Creator wallet:
+
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+The creator was funded by the 81A0 Funding Intermediary wallet:
+
+0x81a0daaab45dbbce68b11e7aeddd6a0d1970bdea
+
+which had previously received 2.78 ETH from the Shiba Inu Deployer wallet B8F:
+
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+The branch is:
+
+Shiba Inu Deployer wallet B8F
+        ↓
+81A0 Funding Intermediary wallet
+        ↓
+CAW Creator wallet
+        ↓
+CAW Token contract
+
+FACT — CAW was not directly deployed by the Shiba Inu Deployer wallet B8F.
+
+FACT — CAW has a reproducible pre-launch funding branch beginning at that wallet.
+
+FACT — The final 2.22 ETH funding transaction preceded CAW’s creation by 140 seconds.
+
+FACT — CAW is not copied SHIB bytecode.
+
+FACT — Existing evidence supports a highly minimized CAW token-authority surface.
+
+INFERENCE — CAW currently presents the strongest combination of pre-launch SHIB-origin proximity and independently implemented token-authority minimization in the audited set.
+
+UNKNOWN — That combination does not prove that Ryoshi created or controlled CAW.
+
+CAW’s importance in this comparison comes from the combination — not from any one property alone.
+
+19. OSAK — Strong Executable Similarity, Different Launch Provenance
+
+The OSAK Token contract is:
+
+0xa21af1050f7b26e0cff45ee51548254c41ed6b5c
+
+The OSAK Creator wallet is:
+
+0xd27b413f02649710ba393a9dd291a4e86bf9de53
+
+The first plain-ETH funding identified for the OSAK Creator wallet came from:
+
+OSAK Creator Funding wallet
+0x75e89d5979e4f6fba9f97c104c2f0afb3f1dcb88
+
+Funding transaction:
+
+0x906404a8cffe427e46aa047dcedc48b7c49ae4b8b3e4de4f316a61b9c18e05a5
+
+FACT — OSAK does not reproduce CAW’s audited pre-launch branch through the 81A0 Funding Intermediary wallet.
+
+FACT — OSAK’s metadata-stripped executable was found to match SHIB’s in the completed comparison work.
+
+FACT — OSAK is therefore closer to SHIB at the executable-code level than CAW is.
+
+FACT — Executable similarity does not establish common deployment provenance.
+
+FACT — Later activity involving the Shiba Inu Deployer wallet B8F must be classified separately from creator funding before launch.
+
+INFERENCE — OSAK demonstrates why copied or matching executable code is weaker authorship evidence than a reproduced pre-launch funding branch.
+
+A contract may wear the same machinery without sharing the same origin.
+
+20. LEASH — Proven Ecosystem Relationship, More Complex Architecture
+
+The LEASH Creator wallet is:
+
+0xa221af4a429b734abb1cc53fbd0c1d0fa47e1494
+
+Its first identified plain-ETH funder was:
+
+LEASH Creator Funding wallet
+0x0cbf4dfc34e01296c05c89d73819aae23824b4da
+
+Funding transaction:
+
+0x0d8102d6677b0a8e33b5ebd53f4b0c872daa05b5a8ca748cae7d196cdaaf6e0a
+
+FACT — LEASH belongs to the historically established SHIB/Ryoshi ecosystem.
+
+FACT — Its architecture is materially more complex than the CAW Token contract.
+
+FACT — Important outer ownership and orchestration controls were reported as renounced in the audited components.
+
+FACT — The audited oracle retained provider or configuration authority.
+
+INFERENCE — LEASH disproves the idea that every Ryoshi-associated contract must be tiny, plain, and free of all surrounding authority.
+
+That matters because CAW cannot be attributed through minimalism alone.
+
+A known ecosystem relationship can coexist with a complex trust surface.
+
+21. BaseToken — Funding Proximity Without Authority Similarity
+
+The audited BaseToken contract exposed a broader administrative structure, including:
+
+ownership
+role management
+minter authority
+mint finalization
+ERC-20 recovery
+
+FACT — BaseToken’s authority surface is materially broader than CAW’s.
+
+FACT — Its presence within a wider funding neighborhood does not reproduce CAW’s contract-level authority minimization.
+
+INFERENCE — Funding proximity and decentralization philosophy are independent variables.
+
+A wallet relationship may justify examination.
+
+It does not determine what the contract allows.
+
+PENDING — The complete BaseToken contract address and its fixed-block authority package must be printed before final publication.
+
+22. ZoomProtocolToken — Owner and Mint Architecture
+
+The audited ZoomProtocolToken contract exposed:
+
+ownership transfer
+mint authority
+administrative control
+
+FACT — ZoomProtocolToken does not reproduce CAW’s minimized authority result.
+
+FACT — It may remain relevant to the broader funding graph.
+
+FACT — Broader funding relevance does not make it structurally equivalent to CAW or SHIB.
+
+PENDING — The complete ZoomProtocolToken contract address and publication-block state package remain required.
+
+The Other B8F Branch
+
+The comparison cannot stop with token contracts.
+
+A second branch from the Shiba Inu Deployer wallet B8F produced two closely paired wallets that later interacted actively with CAW:
+
+the DFEA Comparison wallet;
+
+the DrinkingBuddy.eth-associated wallet.
+
+These wallets are not CAW creators.
+
+They are not evidence that B8F directly deployed CAW.
+
+They are valuable because their funding and activation patterns provide a control example for how downstream wallets originating from the B8F funding graph can behave.
+
+The 59D Intermediary Wallet
+
+The 59D Intermediary wallet is:
+
+0x59d29d50dec0322c16e08f633e19a1d450ad8e7d
+
+FACT — It received 0.1 ETH from the Shiba Inu Deployer wallet B8F on July 31, 2020.
+
+Transaction:
+
+0x9defc44a22b6e602559fa612be1d17f661c777227db936c19e28246b033b1016
+
+The branch begins:
+
+Shiba Inu Deployer wallet B8F
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+        ↓ 0.1 ETH
+
+59D Intermediary wallet
+0x59d29d50dec0322c16e08f633e19a1d450ad8e7d
+
+The 59D Intermediary wallet later funded two wallets in the same block and at the same timestamp.
+
+The DFEA Comparison Wallet
+
+The DFEA Comparison wallet is:
+
+0x2a925dfec510c1f916099483a21fd23bfc8cdfea
+
+It received 0.05 ETH from the 59D Intermediary wallet.
+
+Transaction:
+
+0x8ae96d253ecaed86d154a1b48f258bd11f50467df84042c4dca84fa9a6d129e7
+
+Funding record:
+
+UTC:                  2021-04-15 07:16:55
+block:                12243261
+transaction index:    215
+59D sender nonce:     56
+value:                0.05 ETH
+
+FACT — The DFEA Comparison wallet later actively acquired CAW through the Balancer Vault.
+
+First recorded active CAW acquisition:
+
+0xfeb13058d65420a70b7fd651b6cd5cdc7b89f107fc79c29e74f89857fc623c70
+
+UTC:
+
+2022-04-15 10:43:33
+
+That was approximately one day after CAW’s deployment.
+
+FACT — The DFEA Comparison wallet initiated multiple active CAW acquisitions and later outgoing CAW transfers.
+
+FACT — It was not merely the passive recipient of an unsolicited token.
+
+The DrinkingBuddy.eth-Associated Wallet
+
+The DrinkingBuddy.eth-associated wallet is:
+
+0x3815f89682c7f42fa8a5b1bc5ec8d1c953300c96
+
+It received 0.0532 ETH from the 59D Intermediary wallet.
+
+Transaction:
+
+0x3526782b2e182dbe36fb0ed82369abd255877aae1ee1ceb672997afbd3cb238e
+
+Funding record:
+
+UTC:                  2021-04-15 07:16:55
+block:                12243261
+transaction index:    220
+59D sender nonce:     57
+value:                0.0532 ETH
+
+FACT — The DFEA Comparison wallet and DrinkingBuddy.eth-associated wallet were funded:
+
+by the same wallet
+in the same block
+at the same timestamp
+with consecutive sender nonces
+five transaction-index positions apart
+
+Their first outgoing transactions also formed a close pair.
+
+The DFEA Comparison wallet first sent a transaction to:
+
+Shared First-Destination contract
+0x27c70cd1946795b66be9d954418546998b546634
+
+Transaction:
+
+0xb277e4951968dc46c9477085946b420af27196fda8f987976db596d97eee5bd4
+
+The DrinkingBuddy.eth-associated wallet first sent a transaction to the same contract:
+
+0x49af36f34aa9a3c45ad406eb8d1b9160760c73f591510fc923f28be162faac4d
+
+Both called:
+
+transfer(address,uint256)
+
+Both transferred a zero token value.
+
+Their first outgoing timestamps were only:
+
+176 seconds apart
+
+INFERENCE — Same-block funding, consecutive funder nonces, near-simultaneous activation, and an identical first destination constitute a strong operational pairing fingerprint.
+
+UNKNOWN — The fingerprint does not prove one human controlled both wallets.
+
+These results were generated in the paired-wallet fingerprint audit.
+
+Their CAW Activity
+
+The DrinkingBuddy.eth-associated wallet began active CAW acquisition on April 19, 2022.
+
+Its early acquisition transactions included:
+
+0x0efe65cf07ae9f65ef32b515de73c544ce3274bb253afe361bc45be53d32bcb8
+
+0xfea33862ac821afef0253752895d94a7c00f21ecd5fe1868a90d96702c84fcc6
+
+0x20d21d3fa2a5dfc9d4082045bbf4a826ff330722346ac01ad4ca7bc09fa7c04b
+
+Those transactions were submitted by the DrinkingBuddy.eth-associated wallet through a multicall router rather than received as unexplained airdrops.
+
+The wallet later transferred or exchanged CAW through additional transactions, including:
+
+0xfa64f591ac138b4f3712df2ecbfdbb5764e935ca766152c4e5f235e090622a16
+
+0x8f70403d998a450d48be42e214cc596ca299b96018116f1b1930027af3f0a189
+
+0x91dc21f381cc9187ccd81f3fcada5c81066061df5e9285a877d853c3d869fa23
+
+The DFEA Comparison wallet and DrinkingBuddy.eth-associated wallet shared:
+
+33 common counterparties
+15 common actively used token contracts
+
+Their measured overlap was:
+
+counterparty Jaccard:       0.189655
+active-token Jaccard:       0.202703
+
+FACT — Both wallets were active multi-token market participants.
+
+FACT — Both later interacted economically with CAW.
+
+FACT — Their CAW activity was not part of the CAW Creator wallet’s deployment transaction.
+
+FACT — Their activity therefore belongs in a downstream-wallet comparison, not in the direct CAW creation branch.
+
+The correct classification is:
+
+Shiba Inu Deployer wallet B8F
+        ↓
+59D Intermediary wallet
+        ↓
+DFEA Comparison wallet
+and
+DrinkingBuddy.eth-associated wallet
+        ↓
+later active CAW market activity
+
+That is different from:
+
+Shiba Inu Deployer wallet B8F
+        ↓
+81A0 Funding Intermediary wallet
+        ↓
+CAW Creator wallet
+        ↓
+CAW Token contract
+
+One branch leads directly into CAW’s pre-launch creation path.
+
+The other leads to closely paired market wallets that later acquired and moved CAW.
+
+Both are real.
+
+They do not prove the same thing.
+
+23. Tokens and Wallets Not Yet Included
+
+FACT — The comparison universe is not yet complete.
+
+The final universe must also evaluate every project and downstream address found through:
+
+the 23 directly funded B8F wallets
+the complete B8F ERC-20 ledger
+the pending canonical B8F ERC-1155 ledger
+all direct and indirect contract creations
+all pre-launch creator-funding paths
+
+STOP CONDITION — A wallet receiving a token after launch must not be classified as that token’s creator, funder, or authorized participant without separate evidence.
+
+STOP CONDITION — A shared intermediary does not prove common human control.
+
+STOP CONDITION — Similar market behavior does not prove shared authorship.
+
+24. The Provisional Comparison
+
+The current evidence supports five separate leaders:
+
+DIRECT PROVENANCE
+SHIB
+
+PRE-LAUNCH B8F-BRANCH PROVENANCE
+CAW
+
+EXECUTABLE SIMILARITY TO SHIB
+OSAK
+
+ESTABLISHED SHIB-ECOSYSTEM RELATIONSHIP
+LEASH
+
+COMBINED PROVENANCE AND TOKEN-AUTHORITY MINIMIZATION
+CAW
+
+The comparison wallets add a sixth lesson:
+
+PAIRED DOWNSTREAM B8F-FUNDED MARKET BEHAVIOR
+DFEA Comparison wallet
++
+DrinkingBuddy.eth-associated wallet
+
+FACT — SHIB remains first for direct provenance.
+
+FACT — OSAK currently presents the strongest executable similarity to SHIB.
+
+FACT — LEASH presents an established ecosystem relationship but a more complex architecture.
+
+FACT — The DFEA Comparison wallet and DrinkingBuddy.eth-associated wallet demonstrate a separate paired B8F-funded branch with later active CAW participation.
+
+INFERENCE — CAW remains the strongest current candidate for the combined test of pre-launch SHIB-origin provenance and minimized token authority.
+
+UNKNOWN — None of these rankings identifies Ryoshi or establishes common human control.
+
+The comparison does not end the mystery.
+
+It narrows it.
+
+CAW is not the closest contract copy.
+
+It is not the directly deployed SHIB sibling.
+
+It is the project whose creator funding trail returns to the SHIB origin address before deployment — and whose contract independently arrives at a similarly limited authority result.
+
+PART VIII — THE PUBLIC LAUNCH AND THE LIQUIDITY RECORD
+
+25. CAW Did Not Begin With a Private Presale
+
+The funding branch ended with the creation of the CAW Token contract:
+
+CAW Token contract
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+What followed was not a conventional private presale with a published whitelist, an announced venture allocation, or a privileged retail round.
+
+The earlier riddle reconstruction documented a public CopperLaunch and Balancer V2 Liquidity Bootstrapping Pool operating from approximately April 14 through April 17, 2022. That earlier work recorded an initial pool allocation of approximately 466.67 trillion CAW and 1.8 ETH.
+
+FACT — The launch used publicly accessible on-chain market infrastructure.
+
+FACT — Early price discovery occurred through a Liquidity Bootstrapping Pool rather than through a fixed-price private sale documented in the current evidence.
+
+FACT — Participation still depended on access to Ethereum, capital, transaction fees, and knowledge of the launch.
+
+STOP CONDITION — A public smart-contract launch must not automatically be described as equal distribution.
+
+Public access and equal access are not the same thing.
+
+The launch was visible.
+
+That does not mean every participant saw it at the same time.
+
+26. The CAW Creator Wallet and the CAW Riddle and Liquidity Wallet
+
+The CAW Creator wallet is:
+
+CAW Creator wallet
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+The CAW Riddle and Liquidity wallet BA is:
+
+CAW Riddle and Liquidity wallet BA
+0xbaeedcccbfb112d4a921daa635ac2276307a1705
+
+These addresses performed different observable roles.
+
+The CAW Creator wallet created the CAW Token contract.
+
+The CAW Riddle and Liquidity wallet BA later became associated with liquidity operations, the two primary on-chain riddle markers, and additional CAW-related transactions.
+
+FACT — The CAW Creator wallet and the CAW Riddle and Liquidity wallet BA are different Ethereum addresses.
+
+FACT — The CAW Creator wallet deployed the CAW Token contract.
+
+FACT — The CAW Riddle and Liquidity wallet BA later submitted the transactions carrying the 58bZfQ1 and zrUfKaKV riddle markers.
+
+FACT — Different wallet roles are visible in the transaction record.
+
+UNKNOWN — The record does not prove whether the two wallets shared one controller, several controllers, or a custody arrangement.
+
+Using more than one wallet can create operational separation.
+
+It can also create interpretive confusion.
+
+That is why each address must be described by what it did rather than by who the community believes controlled it.
+
+27. The CAW/WETH Uniswap V2 Pair
+
+The later primary liquidity record centers on the:
+
+CAW/WETH Uniswap V2 Pair contract
+0x48d20b3e529fb3dd7d91293f80638df582ab2daa
+
+The pair contains:
+
+CAW Token contract
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+Wrapped Ether contract
+0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+
+The commonly used router involved in Uniswap V2 liquidity operations is:
+
+Uniswap V2 Router02 contract
+0x7a250d5630b4cf539739df2c5dacb4c659f2488d
+
+A Uniswap V2 pair issues LP tokens representing proportional claims on the assets held by the pair.
+
+Holding the LP tokens is not the same as holding CAW directly.
+
+It represents the ability to redeem a share of both sides of the pool through the protocol’s liquidity-removal process.
+
+FACT — Control of LP tokens is a liquidity-custody question.
+
+FACT — It is separate from control of the CAW Token contract.
+
+FACT — A token can be immutable while its liquidity remains removable by an LP-token holder.
+
+This is the point where many CAW accounts collapsed two different claims:
+
+The CAW token cannot be administratively changed.
+
+The CAW liquidity can never be removed.
+
+The first may be supported by the token-authority audit.
+
+The second requires an independent LP custody and supply audit.
+
+28. What Was Actually Burned at Pair Creation
+
+A Uniswap V2 pair permanently mints a minimum amount of liquidity to the zero address when the pool is first initialized.
+
+That minimum is commonly represented as:
+
+1,000 raw LP units
+
+The relevant destination is:
+
+Ethereum Zero address
+0x0000000000000000000000000000000000000000
+
+FACT — The first CAW/WETH pair mint included the mandatory 1,000 raw LP units sent to the Ethereum Zero address.
+
+FACT — Those 1,000 raw units were not the substantive initial LP position.
+
+FACT — The remaining substantive LP supply was issued to a provider address rather than destroyed at pair creation.
+
+Therefore, the statement:
+
+All CAW liquidity was burned at launch.
+
+is not supported by the LP mint record.
+
+The precise statement is:
+
+The mandatory minimum 1,000 raw LP units were minted to the Ethereum Zero address during pair initialization, while the substantive LP position remained outside the zero address.
+
+This does not establish wrongdoing.
+
+It establishes custody.
+
+29. The Move to the Vanity Address
+
+The later LP record leads to:
+
+CAW LP Vanity Custody address
+0xdead000000000000000042069420694206942069
+
+The address was visibly designed to resemble a burn destination.
+
+It begins with 0xdead and contains repeated symbolic digits.
+
+That appearance helped produce the common description that CAW’s liquidity had been burned.
+
+The transaction mechanics support a narrower conclusion.
+
+FACT — CAW/WETH LP tokens were transferred to the CAW LP Vanity Custody address.
+
+FACT — The transfer did not reduce the CAW/WETH LP token’s total supply.
+
+FACT — The CAW LP Vanity Custody address is not the Ethereum Zero address.
+
+FACT — It is not the conventional dead address:
+
+Conventional Dead address
+0x000000000000000000000000000000000000dead
+
+UNKNOWN — No public proof currently establishes that the private key corresponding to the CAW LP Vanity Custody address is mathematically unavailable.
+
+UNKNOWN — No public proof currently establishes that no one could ever sign from it.
+
+The correct description is:
+
+burn-style vanity custody
+
+That language preserves both sides of the evidence.
+
+The address appears intentionally burn-like.
+
+The LP supply still exists.
+
+30. Custody Is Not the Same as Accessibility
+
+An Ethereum address can be practically inaccessible for several reasons:
+
+no private key was ever known;
+
+the address was generated as a vanity destination without retaining the key;
+
+the key was destroyed;
+
+the key was lost;
+
+the key remains secretly controlled;
+
+the address corresponds to an unusual construction not yet identified.
+
+The blockchain does not expose which explanation is true.
+
+FACT — The absence of outgoing transactions from an address does not prove that the address is unspendable.
+
+FACT — A long period of inactivity does not prove key destruction.
+
+FACT — A burn-like name or hexadecimal pattern does not prove cryptographic inaccessibility.
+
+INFERENCE — Transferring nearly all LP to a highly recognizable vanity address is consistent with an attempt to communicate permanent withdrawal from liquidity control.
+
+UNKNOWN — The intention and actual key status remain unproven.
+
+This is a recurring feature of the CAW story.
+
+The gesture is visible.
+
+The guarantee is not.
+
+31. Why the Distinction Matters
+
+Calling the LP “burned” communicates a technical guarantee:
+
+that no private key can recover it and no holder can remove the represented liquidity.
+
+Calling it “burn-style vanity custody” communicates what can actually be seen:
+
+that the LP was sent to an address designed to resemble a burn destination, while the token supply remained in existence.
+
+The difference matters even when no movement has occurred.
+
+A verified timelock enforces time.
+
+A provably unspendable address enforces inaccessibility.
+
+An externally owned address depends on key status.
+
+STOP CONDITION — Do not use the word burned as a synonym for unlikely to move.
+
+STOP CONDITION — Do not claim the CAW LP Vanity Custody address is controlled merely because inaccessibility has not been proven.
+
+The record supports neither extreme.
+
+The LP is not proven destroyed.
+
+It is also not proven recoverable by any known person.
+
+32. The Current LP Snapshot Is Not Yet Final
+
+The accepted earlier LP reconstruction ended at Ethereum block:
+
+25,549,826
+
+The article publication block is:
+
+25,564,382
+
+The gap is:
+
+14,556 blocks
+
+FACT — The earlier LP custody snapshot does not reach the final publication block.
+
+PENDING — The complete LP transfer and balance record must be extended through block 25,564,382.
+
+The final package must freeze:
+
+CAW/WETH Pair contract
+0x48d20b3e529fb3dd7d91293f80638df582ab2daa
+
+LP total supply at publication block
+
+CAW LP Vanity Custody address balance
+0xdead000000000000000042069420694206942069
+
+Ethereum Zero address balance
+0x0000000000000000000000000000000000000000
+
+Conventional Dead address balance
+0x000000000000000000000000000000000000dead
+
+all other LP holder balances
+
+all Mint events
+
+all Burn events
+
+all Transfer events
+
+publication block
+25564382
+
+publication block hash
+0x940b0abe73cc528acb2e80a24f15d47161419e00498931325a00801f0f313dfd
+
+STOP CONDITION — The final article must not present an earlier LP percentage as the publication-block state without completing this extension.
+
+The structural finding remains valid:
+
+the substantive LP was not destroyed at pair initialization.
+
+The exact current distribution still requires the final cutoff.
+
+PART IX — WHEN THE EXPLORER TELLS THE WRONG STORY
+
+33. Six Transactions That Looked Like Wallet Activity
+
+Blockchain explorers often organize token history around event fields.
+
+That is useful.
+
+It can also create false impressions about who acted.
+
+The CAW audit identified six zero-value transferFrom calls involving:
+
+CAW Riddle and Liquidity wallet BA
+0xbaeedcccbfb112d4a921daa635ac2276307a1705
+
+CAW Temporary Operations wallet BBD
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+The transactions were not submitted by either CAW wallet.
+
+The external transaction sender was:
+
+CAW Zero-Value Poisoning sender
+0x62815f4d509353f2acf6721cbddae080fbe75673
+
+The calls were routed through:
+
+CAW Zero-Value Poisoning batch contract
+0x4c792cd7282e6e07b71210fbc70ecf9283715c67
+
+Representative transaction:
+
+0x922f940f780f093f9170f9286236f8cccd7f9dea74c31ab14bf98b587d0c8053
+
+FACT — The representative transaction was initiated by the CAW Zero-Value Poisoning sender.
+
+FACT — The transaction called the CAW Zero-Value Poisoning batch contract.
+
+FACT — The batch contract caused zero-value CAW transferFrom events to be emitted.
+
+FACT — The CAW Riddle and Liquidity wallet BA and CAW Temporary Operations wallet BBD appeared inside the emitted event fields.
+
+FACT — Neither CAW wallet submitted the transaction.
+
+34. Event Participation Is Not Transaction Initiation
+
+An ERC-20 Transfer event contains:
+
+from
+to
+value
+
+It does not contain the outer transaction signer.
+
+A contract can call transferFrom using another address as the indexed from field—even when the transfer amount is zero and the indexed address never signed the transaction.
+
+This can make explorer histories appear to show activity by an address that performed no action.
+
+FACT — Indexed event participation and transaction initiation are separate facts.
+
+FACT — The outer transaction sender must be retrieved from the transaction envelope.
+
+FACT — The call path must be reconstructed from calldata, receipts, traces, or execution context.
+
+FACT — A zero-value event does not prove custody transfer.
+
+STOP CONDITION — Do not attribute wallet intent from an explorer token-transfer row without checking the transaction sender and execution path.
+
+35. Why Someone Would Create Zero-Value Events
+
+The chain does not record motive.
+
+Several practical effects are possible:
+
+contaminating an address’s visible token history;
+
+creating misleading apparent interaction;
+
+placing another address beside a known wallet in explorer results;
+
+testing allowances or contract behavior;
+
+producing spam or automated batch activity.
+
+INFERENCE — The six CAW events are consistent with address-history poisoning or unsolicited indexing contamination.
+
+UNKNOWN — The sender’s motive is not proven.
+
+The proper forensic treatment is not to invent motive.
+
+It is to exclude the events from claims about actions taken by the CAW Riddle and Liquidity wallet BA or the CAW Temporary Operations wallet BBD.
+
+36. The Corrected Wallet Record
+
+The six events must not be used to claim that the CAW Riddle and Liquidity wallet BA or the CAW Temporary Operations wallet BBD:
+
+initiated the transactions;
+
+deliberately transferred CAW;
+
+approved the batch contract;
+
+coordinated with the external sender;
+
+controlled the batch contract;
+
+participated voluntarily.
+
+FACT — The calls were externally initiated.
+
+FACT — The transferred CAW value was zero.
+
+FACT — The events can be separated deterministically from genuine wallet-signed activity.
+
+This correction matters beyond six transactions.
+
+It demonstrates why a forensic wallet history cannot be copied directly from an explorer page.
+
+The interface shows events.
+
+The chain shows causation.
+
+The Launch and Liquidity Conclusion
+
+The launch record is more precise than the popular versions on either side.
+
+CAW did not begin through a documented private retail presale.
+
+Its early market used publicly accessible on-chain infrastructure.
+
+The token contract itself presents little identified administrative authority.
+
+But the substantive Uniswap LP was not destroyed at pair creation.
+
+It later moved to the CAW LP Vanity Custody address:
+
+0xdead000000000000000042069420694206942069
+
+That address communicates a burn-like intention.
+
+It does not, by itself, prove inaccessible custody.
+
+The responsible conclusion is:
+
+combined a public on-chain launch and a highly minimized token contract with a later burn-style LP custody arrangement whose permanent inaccessibility remains unproven.
+
+That is less dramatic than saying the liquidity was burned.
+
+It is more accurate.
+
+And accuracy is the point.
+
+PART X — THE WALLETS THAT CARRIED CAW FORWARD
+
+37. The CAW Riddle and Liquidity Wallet
+
+The CAW Creator wallet:
+
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+created the token.
+
+But another wallet became the address through which CAW’s later story was told:
+
+CAW Riddle and Liquidity wallet BA
+0xbaeedcccbfb112d4a921daa635ac2276307a1705
+
+The distinction is important.
+
+The CAW Creator wallet performed the deployment.
+
+The CAW Riddle and Liquidity wallet BA later handled assets, liquidity, and both primary riddle transactions.
+
+The Creator Transfers Assets to BA
+
+On April 17, 2022, the CAW Creator wallet sent the CAW Riddle and Liquidity wallet BA:
+
+828.05993074 ETH
+
+Transaction:
+
+0xfd4819de8ad9e68e6a240fddb281db78dc0a46c04b5463e0014d3f880474dd54
+
+UTC:
+
+2022-04-17 05:47:17
+
+FACT — The CAW Creator wallet directly funded the CAW Riddle and Liquidity wallet BA with 828.05993074 ETH.
+
+The Creator wallet also transferred CAW to BA.
+
+Transaction:
+
+0xb875a9cd6b74facc3d6da59fd350ce69ea07c79b07b598e41bd1cebfdcf4be27
+
+UTC:
+
+2022-04-17 04:55:41
+
+Raw amount:
+
+200000000000000000000000000000000
+
+With 18 decimals:
+
+200,000,000,000,000 CAW
+
+FACT — The CAW Creator wallet transferred 200 trillion CAW to the CAW Riddle and Liquidity wallet BA before sending the later ETH balance.
+
+The visible relationship is therefore direct:
+
+CAW Creator wallet
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+        ↓ CAW and ETH
+
+CAW Riddle and Liquidity wallet BA
+0xbaeedcccbfb112d4a921daa635ac2276307a1705
+
+FACT — BA was not an unrelated wallet that discovered CAW later.
+
+FACT — It received substantial assets directly from the wallet that created the CAW Token contract.
+
+INFERENCE — BA functioned as a post-deployment operational wallet.
+
+UNKNOWN — The transfers do not prove that the CAW Creator wallet and BA shared one human controller.
+
+The Wallet That Published the Riddles
+
+On May 9, 2022, the CAW Riddle and Liquidity wallet BA submitted a self-transfer carrying:
+
+0.666 ETH
+
+Transaction:
+
+0xfbbcf5338b4a9c35073ac7253afc1a8ee81770d8d3285b80497bbd9c2186ed5b
+
+Decoded input:
+
+58bZfQ1
+
+On July 17, 2022, the same wallet submitted another self-transfer carrying:
+
+0.999 ETH
+
+Transaction:
+
+0xcae4b15350b3ccc2b37fec5caa718560241ec181bc49741d5d1199d1d32412d4
+
+Decoded input:
+
+zrUfKaKV
+
+FACT — Both primary riddle markers were placed on-chain by the CAW Riddle and Liquidity wallet BA.
+
+FACT — The riddle trail was therefore connected to a wallet directly funded by the CAW Creator wallet.
+
+UNKNOWN — A wallet transaction cannot identify the human author of the riddle.
+
+The chain proves where the messages came from.
+
+It does not prove who composed them.
+
+BA Adds the Later Uniswap Liquidity
+
+The later audited CAW/WETH liquidity position began with a transaction submitted by the CAW Riddle and Liquidity wallet BA.
+
+Transaction:
+
+0x4f25b231fdefa63d4b23a886caaa9d1caf8181be6c13ffcaec0a26bb75671453
+
+Function:
+
+addLiquidityETH
+
+Router:
+
+Uniswap V2 Router02 contract
+0x7a250d5630b4cf539739df2c5dacb4c659f2488d
+
+Pair:
+
+CAW/WETH Uniswap V2 Pair contract
+0x48d20b3e529fb3dd7d91293f80638df582ab2daa
+
+The transaction supplied:
+
+CAW:
+64,743,290,570,958.729074314698627757
+
+ETH:
+3,200 ETH
+
+The pair minted to BA:
+
+7,828,282,117,471,017 raw LP units
+
+FACT — BA was the recipient of the substantive LP position created by this later liquidity addition.
+
+FACT — BA therefore held the ability represented by those LP tokens until they were transferred or consumed through liquidity-removal operations.
+
+The LP record closes exactly:
+
+LP minted to BA:
+7,828,282,117,471,017
+
+Confirmed destroyed through liquidity removals:
+6,028,282,117,471,017
+
+Transferred to CAW LP Vanity Custody address:
+1,800,000,000,000,000
+
+Final BA LP balance:
+0
+
+The percentages of that specific BA position were:
+
+Confirmed destroyed through removals:
+77.0064495251%
+
+Transferred to vanity custody:
+22.9935504749%
+
+STOP CONDITION — These percentages describe BA’s later LP mint only. They do not describe every LP token ever created by the CAW/WETH Pair contract.
+
+38. The CAW Temporary Operations Wallet
+
+A second wallet appears later in the liquidity chronology:
+
+CAW Temporary Operations wallet BBD
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+It did not create CAW.
+
+It did not publish the two original riddle transactions.
+
+Its proven role was narrower and operational.
+
+The CAW Riddle and Liquidity wallet BA transferred LP tokens directly to the CAW Temporary Operations wallet BBD in two transactions.
+
+First LP staging transfer
+
+Transaction:
+
+0xd5896bb2efd9092042e6206507e363645b0060f2a265978151d8c420ecb9fb9a
+
+Amount:
+
+1,344,848,153,894,506 raw LP
+0.001344848153894506 LP
+
+Second LP staging transfer
+
+Transaction:
+
+0x30a01d1e248ed4b53df31a253f9f95e6b34ba9a3324ba6ff87a6c709d2b3d68d
+
+Amount:
+
+500,000,000,000,000 raw LP
+0.000500000000000000 LP
+
+Total transferred from BA to BBD:
+
+1,844,848,153,894,506 raw LP
+0.001844848153894506 LP
+
+FACT — BA transferred both LP amounts directly to BBD.
+
+BBD Did Not Merely Hold the LP
+
+The CAW Temporary Operations wallet BBD subsequently submitted the liquidity-removal transactions itself.
+
+First BBD removal
+
+Transaction:
+
+0x072ad893a27671dad474917e569df51a157421f59c21ed8d1c9cb2f3b5c7277d
+
+LP consumed:
+
+1,344,848,153,894,506 raw LP
+
+The receipt showed:
+
+BBD → CAW/WETH Pair LP transfer
+CAW/WETH Pair → Ethereum Zero address LP burn
+CAW/WETH Pair → BBD WETH transfer
+CAW/WETH Pair → BBD CAW transfer
+
+BBD received:
+
+WETH:
+291.065582866325360073
+
+CAW:
+24,670,968,598,312.807392014825081478
+
+Second BBD removal
+
+Transaction:
+
+0xa35c4aae235490f06d3308522384ff78e85a73d6cf6d08d41ad7e0314ea4bb65
+
+LP consumed:
+
+500,000,000,000,000 raw LP
+
+BBD received:
+
+WETH:
+141.192253836621600547
+
+CAW:
+7,043,572,781,000.986620830853718062
+
+FACT — The CAW Temporary Operations wallet BBD submitted both successful removeLiquidity calls.
+
+FACT — In each transaction, LP moved from BBD into the CAW/WETH Pair contract and was burned to the Ethereum Zero address:
+
+0x0000000000000000000000000000000000000000
+
+FACT — The underlying WETH and CAW were returned to BBD.
+
+INFERENCE — BBD functioned as short-lived operational custody for two liquidity removals.
+
+UNKNOWN — Transaction adjacency and coordinated asset flow do not prove that BA and BBD had the same human controller.
+
+The September 2025 CAW Transfers
+
+The later record also shows substantial CAW moving from both BA and BBD to:
+
+CAW Community Vanity Custody address
+0xdead000000000000000042069420694206942069
+
+Among the recorded transfers were:
+
+2025-09-22
+BBD → CAW Community Vanity Custody address
+
+tx:
+0x831c96df1beb7a3e56d8c65acbd44ff093f37716ba2b43aa664b7ac36b24acd3
+
+amount:
+16,935,831,472,696.559845103650575575 CAW
+
+and:
+
+BBD → CAW Community Vanity Custody address
+
+tx:
+0xa4aa23e0ab56c8e8e6c097b2ca008680ea850e05ee2fca6f28c0937744bfe414
+
+amount:
+41,541,539,309,666.406621517131625237 CAW
+
+BA also sent CAW to the same vanity address in separate transactions.
+
+FACT — Both BA and BBD participated in the later movement of CAW to the same burn-style vanity destination.
+
+FACT — The transfers prove coordinated asset routes between the wallets and the destination.
+
+UNKNOWN — They do not reveal the private-key ownership structure behind either source wallet.
+
+39. Creator, Operator, Custodian, and Author Are Different Claims
+
+The wallet chronology supports several roles.
+
+It does not support merging those roles into one identity.
+
+CAW Creator
+
+CAW Creator wallet
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+FACT — Created the CAW Token contract.
+
+FACT — Transferred substantial CAW and ETH to BA.
+
+CAW Riddle and Liquidity Operator
+
+CAW Riddle and Liquidity wallet BA
+0xbaeedcccbfb112d4a921daa635ac2276307a1705
+
+FACT — Received assets from the CAW Creator wallet.
+
+FACT — Submitted both primary riddle transactions.
+
+FACT — Added the later audited CAW/WETH liquidity position.
+
+FACT — Directly removed portions of liquidity.
+
+FACT — Transferred other LP portions to BBD.
+
+FACT — Transferred LP and CAW to the CAW Community Vanity Custody address.
+
+CAW Temporary Operations Custodian
+
+CAW Temporary Operations wallet BBD
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+FACT — Received LP directly from BA.
+
+FACT — Submitted two liquidity-removal transactions.
+
+FACT — Received the underlying CAW and WETH.
+
+FACT — Later transferred CAW to the CAW Community Vanity Custody address.
+
+Riddle Author
+
+UNKNOWN — The human author of either riddle has not been proven.
+
+Human Controller
+
+UNKNOWN — The human controller or controllers of the Creator wallet, BA, and BBD have not been proven.
+
+The correct language is therefore:
+
+BA published the riddles on-chain.
+
+It is not automatically:
+
+The person who created CAW personally authored every riddle layer.
+
+Likewise:
+
+BBD executed liquidity removals.
+
+It is not automatically:
+
+BBD independently controlled the liquidity strategy.
+
+The chain establishes actions.
+
+The relationships between the humans behind those actions remain unresolved.
+
+40. What the Wallet Chronology Supports
+
+The wallet record shows staged functional separation:
+
+CAW Creator wallet
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+        ↓ funds and tokens
+
+CAW Riddle and Liquidity wallet BA
+0xbaeedcccbfb112d4a921daa635ac2276307a1705
+
+        ↓ riddle messages
+        ↓ liquidity creation
+        ↓ direct removals
+        ↓ LP staging transfers
+
+CAW Temporary Operations wallet BBD
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+        ↓ routed liquidity removals
+        ↓ later CAW transfers
+
+CAW Community Vanity Custody address
+0xdead000000000000000042069420694206942069
+
+FACT — The wallets were operationally connected through direct asset transfers.
+
+FACT — BA and BBD did more than appear near one another in explorer histories.
+
+FACT — BA transferred LP to BBD, and BBD consumed those exact LP amounts through successful liquidity-removal transactions.
+
+FACT — Both later sent CAW to the same vanity destination.
+
+INFERENCE — The chronology is consistent with deliberate division of functions across several wallets.
+
+UNKNOWN — The purpose of that division is not recorded.
+
+Possible explanations include operational compartmentalization, security separation, staged custody, or multiple participants.
+
+The evidence does not select among them.
+
+STOP CONDITION — Do not convert operational linkage into a claim of shared human control without a signature, verified custody proof, key disclosure, or another independently reproducible identity bridge.
+
+The wallet structure tells a coherent story:
+
+one address created,
+
+another carried the riddles and liquidity,
+
+a third briefly handled routed liquidity operations.
+
+But coherence is not identity.
+
+The chain shows the hands moving.
+
+It does not show the faces.
+
+PART XI — THE RIDDLES AS AUTHENTIC ORIGIN ARTIFACTS
+
+41. Why the Riddles Belong in the Origin Story
+
+FACT — The CAW riddles were not introduced later by an unrelated community account.
+
+They were anchored to Ethereum by the:
+
+CAW Riddle and Liquidity wallet BA
+0xbaeedcccbfb112d4a921daa635ac2276307a1705
+
+FACT — The CAW Riddle and Liquidity wallet BA had already received substantial CAW and ETH directly from the:
+
+CAW Creator wallet
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+FACT — The same CAW Riddle and Liquidity wallet BA later performed observable liquidity operations.
+
+FACT — That operational relationship places its riddle transactions inside CAW’s origin and post-launch wallet structure.
+
+The two primary markers were:
+
+Riddle One
+58bZfQ1
+
+Riddle Two
+zrUfKaKV
+
+FACT — Both markers were submitted through self-directed Ethereum transactions.
+
+FACT — Their transaction hashes, values, senders, recipients, timestamps, and input data can be independently retrieved.
+
+INFERENCE — The use of an operational CAW wallet to publish both markers is consistent with the riddles being intentional parts of the launch design rather than later fan-created lore.
+
+UNKNOWN — The transactions do not identify the human author.
+
+UNKNOWN — They do not establish that every later interpretation or alleged solution was authorized by the original author.
+
+The chain authenticates the trailheads.
+
+It does not authenticate every person who later claimed to understand them.
+
+42. Riddle One: What Is Proven
+
+On May 9, 2022, the CAW Riddle and Liquidity wallet BA submitted:
+
+transaction:
+0xfbbcf5338b4a9c35073ac7253afc1a8ee81770d8d3285b80497bbd9c2186ed5b
+
+value:
+0.666 ETH
+
+decoded input:
+58bZfQ1
+
+FACT — The sender and recipient were both the CAW Riddle and Liquidity wallet BA.
+
+FACT — The transaction input decoded to the seven-character marker 58bZfQ1.
+
+FACT — The marker resolved as an ImgBB identifier:
+
+https://ibb.co/58bZfQ1
+
+FACT — The linked image was presented under the title:
+
+Proposalforadecentralizedcoupfortehpplbytehppl
+
+FACT — The earlier forensic reconstruction documented that this image led hunters into the Epic of Gilgamesh source material, image metadata, embedded payloads, poems, coordinates, ciphers, and the document later treated as the CAW manifesto.
+
+That much belongs in the proven chronology:
+
+CAW Riddle and Liquidity wallet BA
+        ↓
+0.666 ETH self-transaction
+        ↓
+58bZfQ1
+        ↓
+ImgBB image
+        ↓
+multi-layer forensic trail
+
+What the Image Established
+
+FACT — The riddle image was a PNG associated with a photographed Gilgamesh tablet.
+
+FACT — Earlier inspection identified embedded metadata and data beyond the ordinary visible image surface.
+
+FACT — Prior tool output reported trailer data after the PNG IEND boundary and additional compressed-data candidates.
+
+FACT — Those findings justify treating the file as a forensic container rather than only as a picture.
+
+STOP CONDITION — Visual meaning alone cannot establish a hidden payload.
+
+A valid extraction must preserve:
+
+exact source file
+source SHA256
+byte offsets
+extraction transform
+output SHA256
+output size
+decoder behavior
+container or format invariants
+
+FACT — Several short outputs historically associated with the image — including strings reported through zsteg or Friderici-style analysis — must be re-extracted as raw bytes rather than copied from terminal appearance.
+
+Examples preserved in the research notes include:
+
+UTUTUUAE
+WTUTUUAE
+}qqul3M6\
+
+STOP CONDITION — A short printable string is not a proven message merely because it appears meaningful.
+
+What Remains Open in Riddle One
+
+FACT — Riddle One produced meaningful and reproducible layers.
+
+FACT — Riddle One has not yet been proven complete.
+
+The remaining high-signal questions include:
+
+the exact canonical Gilgamesh corpus;
+the correct corpus trimming or line offset;
+the treatment of empty lines;
+WORD indexing versus LETTER fallback;
+the correct order of the coordinates;
+the exact interpretation of the 46-word output;
+the raw-byte identity of short steganographic blobs;
+the framing of the approximately 54-second audio artifact;
+the role of reverse or mirror transforms;
+the recurring two-thirds motif;
+the warning concerning the original 11 rather than the 12th source.
+
+FACT — recurring two-thirds motif;
+ the warning concerning the original 11 rather than the 12th source.
+
+**FACT — Prior book-cipher work showed that corpus choice and line offset materially alter the result.
+
+**FACT —** Earlier promising ranges clustered around offsets in approximately the `2550–3100` region, depending on empty-line policy and corpus handling.
+
+**UNKNOWN —** No single offset and corpus policy has yet been promoted as canonical through a complete invariant-backed result.
+
+**FACT —** The 46-word book-cipher output appears to be a secondary layer rather than a self-validating final message.
+
+**INFERENCE —** Control words, capitalization, acrostics, or terms such as `RETURN` and `JOURNEY` may govern a further transform.
+
+**STOP CONDITION —** “Readable” is not equivalent to “solved.”
+
+---
+
+## **43. Riddle Two: What Is Still Open**
+
+On July 17, 2022, the **CAW Riddle and Liquidity wallet BA** submitted:
+
+```text
+transaction:
+0xcae4b15350b3ccc2b37fec5caa718560241ec181bc49741d5d1199d1d32412d4
+
+value:
+0.999 ETH
+
+decoded input:
+zrUfKaKV
+
+FACT — The sender and recipient were again the CAW Riddle and Liquidity wallet BA.
+
+FACT — The transaction input decoded to zrUfKaKV.
+
+FACT — That marker led to the second external riddle artifact, historically associated with a Pastebin hex payload.
+
+The Canonical Hex Artifact
+
+FACT — The cleaned Riddle Two hex decodes to:
+
+size:
+1,442 bytes
+
+SHA256:
+a7f4839ffa14040e5a68d05ba668826ddcbda9bcdf28f5f8e5a59390a898d92c
+
+FACT — Its expected initial bytes are:
+
+00000000000015964e0f5d75
+
+FACT — A deterministic Gronsfeld-style hexadecimal transform has been reproduced using the repeating key:
+
+607320206860
+
+FACT — The transform advances the key only over hexadecimal characters.
+
+FACT — Intermediate transforms have produced readable plaintext material.
+
+STOP CONDITION — Readable intermediate plaintext does not prove that the entire payload has been correctly decoded.
+
+The Compression Problem
+
+FACT — Zlib-header sweeps have identified multiple RFC 1950-compatible candidate positions.
+
+FACT — Direct inflation has not produced a fully validated final payload using the tested default and candidate dictionaries.
+
+FACT — Some candidates indicate the possibility of a preset dictionary through the zlib FDICT mechanism.
+
+For an FDICT stream, the next four bytes represent:
+
+DICTID
+
+which is the big-endian Adler-32 value of the required preset dictionary.
+
+FACT — Prior dictionary probes did not recover a tested manifesto variant matching the collected candidate dictionary identifiers.
+
+INFERENCE — A missing preset dictionary, incorrect stream boundary, or earlier mode-switch remains a credible explanation.
+
+UNKNOWN — The required dictionary, if one is required, has not been recovered.
+
+STOP CONDITION — No decompressed output should be treated as authentic unless it satisfies format invariants such as:
+
+valid stream completion
+expected checksum
+consistent length
+recognized magic bytes
+valid container structure
+successful re-inflation or round-trip validation
+
+Why Riddle Two Is More Dangerous
+
+INFERENCE — Riddle Two behaves like a mode-switch puzzle:
+
+bytes
+→ meaning
+→ bytes
+→ container or compressed stream
+
+That structure produces convincing false completions.
+
+A phrase may be readable.
+
+A quotation may be recognizable.
+
+A Japanese sentence may decode correctly.
+
+A cipher key may work for one layer.
+
+None of those necessarily closes the puzzle.
+
+FACT — Previous work recovered meaningful intermediate text using repeating-key XOR stages, including keys associated with:
+
+cryptoisfun!!
+plague
+
+FACT — Those intermediate results remain evidence of successful transforms.
+
+UNKNOWN — They have not established the final destination of Riddle Two.
+
+The correct publication status is therefore:
+
+Riddle Two is authentic, materially progressed, and unresolved.
+
+Not:
+
+Riddle Two has no solution.
+
+And not:
+
+The first readable message was the final answer.
+
+44. The Manifesto Is a Layer, Not the Entire System
+
+The document commonly called the CAW manifesto emerged through the Riddle One trail.
+
+It did not deploy the token.
+
+It did not create the funding branch.
+
+It did not mint the liquidity tokens.
+
+It did not write the runtime bytecode.
+
+It is a text artifact inside a larger system.
+
+FACT — The manifesto contains philosophical and technical claims concerning leaderlessness, contract verification, renunciation, multisignatures, proxies, official accounts, and community authority.
+
+FACT — Those claims can be compared against deployed code and current state.
+
+FACT — Where the manifesto and the blockchain disagree, the blockchain controls the technical conclusion.
+
+FACT — Where the manifesto describes intent, it may provide historical context.
+
+STOP CONDITION — A manifesto statement is not proof that its promised condition was achieved.
+
+For example:
+
+Manifesto claim:
+no upgradeable proxy
+
+Required verification:
+runtime inspection
+proxy-slot checks
+delegatecall analysis
+
+Manifesto claim:
+no leader
+
+Required verification:
+cannot be resolved from token bytecode alone
+
+Manifesto claim:
+no ultimate control
+
+Required verification:
+token authority
+liquidity custody
+treasury custody
+frontend control
+deployment control
+social authority
+
+The text and the system must therefore be read together.
+
+Neither should replace the other.
+
+The Source-Selection Warning
+
+FACT — Riddle One contains evidence that source selection matters.
+
+The preserved warning is associated with:
+
+the original 11
+not the 12th
+
+INFERENCE — The warning suggests that a clean, later, corrected, or more convenient source may be a red herring.
+
+STOP CONDITION — Misspellings, formatting anomalies, and editorial differences should not be interpreted until the canonical source has been proven.
+
+This matters because later copies may:
+
+correct meaningful errors;
+change line numbering;
+remove blank lines;
+alter punctuation;
+modify word positions;
+replace the intended source with a cleaner edition.
+
+A book cipher is only as reproducible as its source.
+
+A one-line difference can change every result below it.
+
+The Manifesto Cannot Close the Riddles
+
+FACT — The manifesto is a meaningful Riddle One output.
+
+UNKNOWN — It has not been proven to be the final output of Riddle One.
+
+FACT — It does not solve Riddle Two.
+
+FACT — It cannot be used to dismiss unresolved binary, audio, steganographic, coordinate, or compression layers.
+
+INFERENCE — The manifesto may function as a declaration, instruction set, intermediate key source, or control document.
+
+UNKNOWN — Its complete cryptographic function remains unresolved.
+
+The responsible conclusion is:
+
+The manifesto belongs to the CAW riddle system, but it is not proven to be the entire system.
+
+The Riddle-Level Conclusion
+
+The two riddles are not community mythology detached from CAW’s origin.
+
+They were published by the CAW Riddle and Liquidity wallet BA:
+
+0xbaeedcccbfb112d4a921daa635ac2276307a1705
+
+a wallet directly funded by the:
+
+CAW Creator wallet
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+FACT — That makes both riddle trailheads authentic CAW-origin artifacts.
+
+FACT — Riddle One produced the manifesto and several additional reproducible layers.
+
+FACT — Riddle Two produced deterministic intermediate transforms and remains unresolved.
+
+FACT — Neither riddle proves the human identity of its author.
+
+STOP CONDITION — No community interpretation becomes canonical merely through repetition.
+
+The contract told holders what could execute.
+
+The riddles asked whether they would look further.
+
+The first trail produced a philosophy.
+
+The second still refuses to open completely.
+
+And somewhere between those two facts sits the part of CAW’s origin that has not yet been recovered.
+
+PART XII — WHAT THE COMPLETE ORIGIN RECORD PROVES
+
+45. The Strongest Supported CAW Origin Thesis
+
+The evidence does not produce a name.
+
+It produces a sequence.
+
+Receipt One — SHIB’s Direct Origin
+
+The Shiba Inu Deployer wallet B8F:
+
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+directly created the:
+
+SHIB Token contract
+0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce
+
+FACT — This is the strongest provenance category in the investigation: direct deployment.
+
+UNKNOWN — The human or pseudonymous controller of the Shiba Inu Deployer wallet B8F has not been proven.
+
+Receipt Two — The First Funding Edge
+
+On June 15, 2021, the Shiba Inu Deployer wallet B8F sent 2.78 ETH to the:
+
+81A0 Funding Intermediary wallet
+0x81a0daaab45dbbce68b11e7aeddd6a0d1970bdea
+
+Transaction:
+
+0xb5b81a63c957fcc33469d59f9c969e860d24574bb72d8b2fc482c7232cb13062
+
+FACT — The funding edge is independently reproducible.
+
+UNKNOWN — The transaction does not establish common human control.
+
+Receipt Three — The 303-Day Interval
+
+The next transaction in the relevant branch occurred:
+
+303 days
+1 hour
+41 minutes
+41 seconds
+
+later.
+
+FACT — The interval is a reproducible comparison of Ethereum block timestamps.
+
+UNKNOWN — It does not prove that CAW was being developed during the entire interval.
+
+The chain records the silence.
+
+It does not explain it.
+
+Receipt Four — The CAW Creator Is Funded
+
+On April 14, 2022, the 81A0 Funding Intermediary wallet sent 2.22 ETH to the:
+
+CAW Creator wallet
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+Transaction:
+
+0xbfed9c9fe98cf7705b6668afbe9f01c81310f062ae5853b2ac31efd2847f44f0
+
+FACT — This was a predeployment funding transaction.
+
+UNKNOWN — The reason for routing the funds through the 81A0 Funding Intermediary wallet is not recorded.
+
+Receipt Five — CAW Appears 140 Seconds Later
+
+Two minutes and twenty seconds after receiving the 2.22 ETH, the CAW Creator wallet submitted:
+
+CAW creation transaction
+0x4d160f76cdacbffc4f7302d4fb180317e15d19080cbbaded4ef0197e71ba515c
+
+That transaction created the:
+
+CAW Token contract
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+FACT — The CAW Token contract was created 140 seconds after its creator wallet received funding through the branch originating at the Shiba Inu Deployer wallet B8F.
+
+INFERENCE — The timing is consistent with intentional predeployment funding.
+
+FACT — The timing does not prove that the same person controlled every wallet in the branch.
+
+Receipt Six — The Contract Does Not Copy SHIB
+
+FACT — The CAW Token contract is not copied SHIB bytecode.
+
+FACT — CAW and SHIB use different implementations and compiler lineages.
+
+FACT — Their strongest technical similarity is not executable identity. It is the resulting minimization of visible token-level authority.
+
+Existing CAW evidence has not identified a conventional:
+
+owner
+privileged public mint
+pause controller
+blacklist controller
+tax controller
+proxy administrator
+upgrade controller
+
+PENDING — The final fixed-block CAW source, compiler, ABI, runtime, selector, storage-slot, and supply package must still be frozen together.
+
+Receipt Seven — The Origin Wallet Structure Continues
+
+The CAW Creator wallet later transferred substantial CAW and ETH to the:
+
+CAW Riddle and Liquidity wallet BA
+0xbaeedcccbfb112d4a921daa635ac2276307a1705
+
+The CAW Riddle and Liquidity wallet BA then:
+
+published both primary riddle markers;
+added later CAW/WETH liquidity;
+performed liquidity operations;
+transferred LP to the CAW Temporary Operations wallet BBD.
+
+The:
+
+CAW Temporary Operations wallet BBD
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+received LP from the CAW Riddle and Liquidity wallet BA and submitted two confirmed liquidity-removal transactions.
+
+FACT — These wallets were operationally connected through direct asset transfers and subsequent use of the transferred assets.
+
+UNKNOWN — Their common human control remains unproven.
+
+The Strongest Supported Thesis
+
+The full sequence is:
+
+Shiba Inu Deployer wallet B8F
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+        ↓ 2.78 ETH
+
+81A0 Funding Intermediary wallet
+0x81a0daaab45dbbce68b11e7aeddd6a0d1970bdea
+
+        ↓ 303 days later
+        ↓ 2.22 ETH
+
+CAW Creator wallet
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+        ↓ 140 seconds later
+
+CAW Token contract
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+        ↓ assets transferred after launch
+
+CAW Riddle and Liquidity wallet BA
+0xbaeedcccbfb112d4a921daa635ac2276307a1705
+
+        ↓ LP staging and operations
+
+CAW Temporary Operations wallet BBD
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+FACT — This branch existed before the CAW Token contract existed.
+
+FACT — It is not based on a later token receipt, unsolicited transfer, marketing claim, or community interpretation.
+
+FACT — CAW independently presents a highly minimized token-authority result in the evidence currently assembled.
+
+INFERENCE — Among the audited candidates, CAW most closely combines SHIB-like pre-launch provenance with SHIB-like token-authority minimization.
+
+INFERENCE — This makes CAW the strongest current candidate for an intentional connection to the SHIB-deployer lineage.
+
+UNKNOWN — The evidence remains insufficient to prove that Ryoshi personally created, authored, controlled, or authorized CAW.
+
+That is the strongest conclusion the current evidence supports.
+
+No weaker.
+
+No stronger.
+
+The Comparison Branch That Must Remain Separate
+
+The Shiba Inu Deployer wallet B8F also funded another branch through the:
+
+59D Intermediary wallet
+0x59d29d50dec0322c16e08f633e19a1d450ad8e7d
+
+That wallet later funded the:
+
+DFEA Comparison wallet
+0x2a925dfec510c1f916099483a21fd23bfc8cdfea
+
+and the:
+
+DrinkingBuddy.eth-associated wallet
+0x3815f89682c7f42fa8a5b1bc5ec8d1c953300c96
+
+Both later performed active CAW market transactions.
+
+FACT — The DFEA Comparison wallet and DrinkingBuddy.eth-associated wallet were funded by the same 59D Intermediary wallet in the same block, at the same timestamp, with consecutive sender nonces.
+
+FACT — Their later CAW activity was active market participation, not creator funding.
+
+INFERENCE — Their activation pattern supports an operational relationship between the two comparison wallets.
+
+UNKNOWN — It does not prove common human control.
+
+Most importantly:
+
+B8F → 59D → DFEA / DrinkingBuddy → later CAW trading
+
+is not equivalent to:
+
+B8F → 81A0 → CAW Creator → CAW deployment
+
+One is a downstream market-participation branch.
+
+The other is the predeployment origin branch.
+
+Both matter.
+
+They do not prove the same thing.
+
+46. What the Evidence Does Not Prove
+
+A complete forensic record must preserve its negative space.
+
+The following conclusions are not established.
+
+The Evidence Does Not Identify Ryoshi
+
+UNKNOWN — The legal identity of Ryoshi remains unproven.
+
+UNKNOWN — The human controller of the Shiba Inu Deployer wallet B8F remains unproven.
+
+STOP CONDITION — Do not convert an explorer label into a human identity.
+
+The Evidence Does Not Prove One Controller
+
+UNKNOWN — The current record does not prove that one person controlled:
+
+Shiba Inu Deployer wallet B8F
+81A0 Funding Intermediary wallet
+CAW Creator wallet
+CAW Riddle and Liquidity wallet BA
+CAW Temporary Operations wallet BBD
+
+FACT — Direct funding and coordinated asset use establish operational relationships.
+
+FACT — They do not establish private-key ownership by one human.
+
+The 303 Days Do Not Prove 303 Days of Development
+
+FACT — The interval exists.
+
+UNKNOWN — The activity occurring during that interval is not visible from these two transactions.
+
+STOP CONDITION — Do not turn an elapsed-time calculation into an undocumented development history.
+
+The CAW Contract Does Not Prove the Entire Ecosystem Is Decentralized
+
+FACT — Existing evidence supports a highly minimized CAW token contract.
+
+UNKNOWN — Complete decentralization remains unresolved across:
+
+liquidity custody
+treasury custody
+frontends
+domains
+hosting
+deployment systems
+APIs
+indexers
+databases
+repositories
+social authority
+governance
+
+The Vanity Address Is Not Proven Unspendable
+
+The:
+
+CAW Community and LP Vanity Custody address
+0xdead000000000000000042069420694206942069
+
+resembles a burn address.
+
+FACT — Transfers to it did not destroy the relevant token supplies.
+
+UNKNOWN — Permanent private-key inaccessibility has not been proven.
+
+STOP CONDITION — Describe this arrangement as burn-style vanity custody, not proven destruction.
+
+The Riddles Are Not Proven Complete
+
+FACT — Both riddle trailheads are authenticated through transactions from the CAW Riddle and Liquidity wallet BA.
+
+FACT — Riddle One produced meaningful layers, including the document treated as the CAW manifesto.
+
+FACT — Riddle Two produced deterministic intermediate transforms.
+
+UNKNOWN — Neither riddle has been proven complete through final invariant-backed closure.
+
+Every B8F-Funded Wallet Is Not Automatically a Descendant Project
+
+FACT — The Shiba Inu Deployer wallet B8F directly funded multiple wallets.
+
+FACT — Wallets may later receive tokens, trade, create contracts, or fund other addresses.
+
+STOP CONDITION — A directly funded wallet is not automatically an authorized project, creator, or member of one common lineage.
+
+No Origin Finding Guarantees Future Safety
+
+FACT — Provenance does not guarantee price performance.
+
+FACT — An immutable token does not prevent liquidity loss, whale sales, exchange failures, compromised interfaces, or social manipulation.
+
+FACT — Historical inactivity does not guarantee that an address will never move.
+
+The investigation establishes history and technical state.
+
+It does not predict the future.
+
+47. The Remaining Open Investigations
+
+The central origin branch is reproducible.
+
+The broader universe is not yet fully closed.
+
+A. Canonical ERC-1155 Reconstruction
+
+The complete secondary account baseline for the Shiba Inu Deployer wallet B8F contains:
+
+10,774 ERC-1155 account rows
+
+Its authority remains:
+
+SECONDARY_ENRICHMENT_NO_LOGINDEX
+
+PENDING — The six-family raw-log scanner must complete:
+
+TransferSingle operator
+TransferSingle from
+TransferSingle to
+TransferBatch operator
+TransferBatch from
+TransferBatch to
+
+PENDING — The 10,774 account rows must reconcile against occurrence-aware raw movements.
+
+Until that closes, the complete B8F universe remains unfinished.
+
+B. Final SHIB and CAW Contract Packages
+
+PENDING — Both contracts require one fixed-block publication package containing:
+
+verified source
+compiler version and settings
+ABI
+selector table
+creation transaction
+runtime bytecode
+runtime SHA256
+metadata-stripped executable SHA256
+EIP-1967 implementation slot
+EIP-1967 administrator slot
+EIP-1967 beacon slot
+owner and role results
+mint results
+pause and blacklist results
+tax and fee results
+total supply
+publication block and block hash
+
+C. Final CAW/WETH LP Snapshot
+
+The earlier accepted LP snapshot ended at block:
+
+25,549,826
+
+The publication block is:
+
+25,564,382
+
+PENDING — The remaining 14,556 blocks must be scanned.
+
+The final state must freeze:
+
+LP total supply
+CAW Community and LP Vanity Custody address balance
+Ethereum Zero address balance
+Conventional Dead address balance
+all other LP holders
+all Mint events
+all Burn events
+all Transfer events
+
+D. Complete Downstream Classification
+
+The audited normal-transaction lane identified:
+
+23 directly funded wallets
+
+PENDING — Each wallet must be classified separately as:
+
+direct deployer
+pre-launch creator funder
+intermediary funder
+contract creator
+market participant
+liquidity participant
+passive recipient
+unsolicited-token recipient
+unrelated activity
+
+This includes continued comparison of:
+
+59D Intermediary wallet
+0x59d29d50dec0322c16e08f633e19a1d450ad8e7d
+
+DFEA Comparison wallet
+0x2a925dfec510c1f916099483a21fd23bfc8cdfea
+
+DrinkingBuddy.eth-associated wallet
+0x3815f89682c7f42fa8a5b1bc5ec8d1c953300c96
+
+STOP CONDITION — Market participation after launch must not be reclassified as creator provenance.
+
+E. Complete BBD Wallet History
+
+The:
+
+CAW Temporary Operations wallet BBD
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+still has an incomplete broader account-history scan.
+
+FACT — The prior scan completed 273 of 428 chunks.
+
+PENDING — 155 chunks remain after the provider returned HTTP 408 responses.
+
+The accepted liquidity-operation findings remain usable.
+
+The exhaustive BBD wallet history is not yet complete.
+
+F. Ecosystem Decentralization
+
+PENDING — A complete CAW decentralization conclusion requires current evidence for:
+
+treasury custody
+holder concentration
+liquidity custody
+frontends and domains
+hosting
+APIs and indexers
+off-chain databases
+repository authority
+deployment reproducibility
+social-account control
+governance
+oracle dependencies
+
+STOP CONDITION — No final “completely decentralized” conclusion should appear before these layers are tested.
+
+G. Riddle Closure
+
+PENDING — Riddle One still requires:
+
+canonical source confirmation
+book-cipher offset closure
+empty-line policy
+coordinate-order tests
+raw steganographic byte extraction
+audio framing
+46-word secondary-layer validation
+reverse and two-thirds motif tests
+
+PENDING — Riddle Two still requires:
+
+candidate stream-boundary validation
+FDICT and DICTID analysis
+preset-dictionary recovery
+container invariants
+checksum validation
+round-trip confirmation
+
+The correct status remains:
+
+Riddle One:
+materially progressed, not proven complete
+
+Riddle Two:
+materially progressed, unresolved
+
+48. Reproducible Verification Appendix
+
+Publication Snapshot
+
+Ethereum block:
+25564382
+
+Ethereum block in hexadecimal:
+0x18614de
+
+Block hash:
+0x940b0abe73cc528acb2e80a24f15d47161419e00498931325a00801f0f313dfd
+
+UTC:
+2026-07-19T04:31:35+00:00
+
+Snapshot SHA256:
+68825fce0d60aa6b259d2e939f5ebba029ef309cef611abe7eb1eb73ec6ef696
+
+Core Address Directory
+
+Shiba Inu Deployer wallet B8F
+0xb8f226ddb7bc672e27dffb67e4adabfa8c0dfa08
+
+SHIB Token contract
+0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce
+
+81A0 Funding Intermediary wallet
+0x81a0daaab45dbbce68b11e7aeddd6a0d1970bdea
+
+CAW Creator wallet
+0x36b59455afeedf0866fe6e775fe7651bbbe3e005
+
+CAW Token contract
+0xf3b9569f82b18aef890de263b84189bd33ebe452
+
+CAW Riddle and Liquidity wallet BA
+0xbaeedcccbfb112d4a921daa635ac2276307a1705
+
+CAW Temporary Operations wallet BBD
+0xbbd07cf60cf08ce38a80abf30e8ba7b2bdb7568f
+
+CAW/WETH Uniswap V2 Pair contract
+0x48d20b3e529fb3dd7d91293f80638df582ab2daa
+
+Wrapped Ether contract
+0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+
+Uniswap V2 Router02 contract
+0x7a250d5630b4cf539739df2c5dacb4c659f2488d
+
+CAW Community and LP Vanity Custody address
+0xdead000000000000000042069420694206942069
+
+59D Intermediary wallet
+0x59d29d50dec0322c16e08f633e19a1d450ad8e7d
+
+DFEA Comparison wallet
+0x2a925dfec510c1f916099483a21fd23bfc8cdfea
+
+DrinkingBuddy.eth-associated wallet
+0x3815f89682c7f42fa8a5b1bc5ec8d1c953300c96
+
+Core Transaction Directory
+
+Shiba Inu Deployer wallet B8F
+→ 81A0 Funding Intermediary wallet
+2.78 ETH
+
+0xb5b81a63c957fcc33469d59f9c969e860d24574bb72d8b2fc482c7232cb13062
+
+81A0 Funding Intermediary wallet
+→ CAW Creator wallet
+2.22 ETH
+
+0xbfed9c9fe98cf7705b6668afbe9f01c81310f062ae5853b2ac31efd2847f44f0
+
+CAW Creator wallet
+→ CAW Token contract creation
+
+0x4d160f76cdacbffc4f7302d4fb180317e15d19080cbbaded4ef0197e71ba515c
+
+CAW Riddle and Liquidity wallet BA
+→ Riddle One marker 58bZfQ1
+0.666 ETH
+
+0xfbbcf5338b4a9c35073ac7253afc1a8ee81770d8d3285b80497bbd9c2186ed5b
+
+CAW Riddle and Liquidity wallet BA
+→ Riddle Two marker zrUfKaKV
+0.999 ETH
+
+0xcae4b15350b3ccc2b37fec5caa718560241ec181bc49741d5d1199d1d32412d4
+
+Minimal Ubuntu Transaction Verification
+
+The following queries use a public Ethereum JSON-RPC endpoint. They do not require an explorer API key.
+
+cd "[RESEARCH_PATH_REDACTED]" || exit 1
+
+set +e
+set +o pipefail
+LC_ALL=C
+
+RPC="https://ethereum.publicnode.com"
+
+TX="0xb5b81a63c957fcc33469d59f9c969e860d24574bb72d8b2fc482c7232cb13062"
+
+curl -sS \
+  --max-time 30 \
+  -H 'content-type: application/json' \
+  --data "{\"jsonrpc\":\"2.0\",\"id\":1,\"method\":\"eth_getTransactionByHash\",\"params\":[\"$TX\"]}" \
+  "$RPC" \
+  | python3 -m json.tool
+
+Retrieve its receipt separately:
+
+curl -sS \
+  --max-time 30 \
+  -H 'content-type: application/json' \
+  --data "{\"jsonrpc\":\"2.0\",\"id\":1,\"method\":\"eth_getTransactionReceipt\",\"params\":[\"$TX\"]}" \
+  "$RPC" \
+  | python3 -m json.tool
+
+Retrieve the CAW runtime at the fixed publication block:
+
+RPC="https://ethereum.publicnode.com"
+
+CAW="0xf3b9569f82b18aef890de263b84189bd33ebe452"
+
+BLOCK="0x18614de"
+
+curl -sS \
+  --max-time 30 \
+  -H 'content-type: application/json' \
+  --data "{\"jsonrpc\":\"2.0\",\"id\":1,\"method\":\"eth_getCode\",\"params\":[\"$CAW\",\"$BLOCK\"]}" \
+  "$RPC" \
+  | python3 -m json.tool
+
+Retrieve the publication block and confirm its hash:
+
+curl -sS \
+  --max-time 30 \
+  -H 'content-type: application/json' \
+  --data '{"jsonrpc":"2.0","id":1,"method":"eth_getBlockByNumber","params":["0x18614de",false]}' \
+  "$RPC" \
+  | python3 -m json.tool
+
+Accepted B8F ERC-20 Canonical Artifacts
+
+Canonical raw ledger:
+
+raw_transfer_logs.jsonl
+
+SHA256:
+01612567b15d38c6a33ea5798df9437fa61fcd5a0cea4b7ddaf78f366a388a38
+
+Reconciliation summary:
+
+full_reconciliation_summary.tsv
+
+SHA256:
+c7d0d006a49e3b7a6967852ad081e5f4c29a9ff6ee645591174d7c184166bcc4
+
+Final acceptance:
+
+final_acceptance.txt
+
+SHA256:
+e8fb669d8466490688b58965217cda5fdcdb6c1bd1f4f03ae24972148809b5b6
+
+Accepted scanner:
+
+reconcile_all_raw_transfer_logs_v6.py
+
+SHA256:
+5f60330971831ca11bb6b8f3bf1ffb0752814bc1bb4be45a374b497d30a0ba01
+
+Accepted B8F ERC-1155 Secondary Baseline
+
+account_rows.jsonl
+
+SHA256:
+e982e7429ff49a7b626cc3312890553e848d3ea5ead5f6c3c332c5e329bcc1e7
+
+SIZE:
+7,716,330 bytes
+
+summary.tsv
+
+SHA256:
+2af9ba1dbe23b22c3037625bbf560e4d88c6c68fd926c6a6a55ed3f9a1f19eb0
+
+Authority:
+
+SECONDARY_ENRICHMENT_NO_LOGINDEX
+
+The Origin Record in One Sentence
+
+INFERENCE — CAW is presently the strongest audited candidate for an intentional connection to the SHIB-deployer lineage because its creator was funded through a reproducible pre-launch branch originating at the Shiba Inu Deployer wallet B8F, immediately before deployment, while its independently implemented token contract reaches a similarly minimized authority result.
+
+UNKNOWN — The record does not prove that Ryoshi personally created or controlled CAW.
+
+The blockchain gives us the origin path.
+
+It does not give us the name.
+
+Perhaps that was always the point.
+
+[Image: 1*C6G6Occ_ufIcSzRh0Xy3Tg.png]
+
+this is just part 1
+
+By RΛZ13L on July 19, 2026.
+
+Canonical link
+
+Exported from Medium on September 5, 2026.

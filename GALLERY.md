@@ -1,8 +1,14 @@
 # XUBU / collected writing
 
-Thirteen articles. Preserved words and images. Research-folder paths in article bodies are masked in these public copies.
+Fourteen articles. Preserved words and images. Research-folder paths in article bodies are masked in these public copies.
 
 These are historical authored sources; their claims are not automatically riddle canon. [Archive details and limits](README.md).
+
+## For Those Who Stayed Long Enough to Hear It
+
+<a href="articles/a8d8da797a43/article.txt"><img src="assets/f989a719dc0beccd006280c06938fccc752de05e305d97bbb842c9aefa20f8eb.webp" width="360" alt="Preserved lead image for For Those Who Stayed Long Enough to Hear It" /></a>
+
+[Read](articles/a8d8da797a43/article.txt) · [Screened HTML](articles/a8d8da797a43/original.html) · [Offline edition](articles/a8d8da797a43/offline.html) · [Verification and proof files](articles/a8d8da797a43/VERIFICATION.md)
 
 ## Pandora’s Jar
 

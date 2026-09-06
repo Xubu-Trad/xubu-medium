@@ -838,5 +838,27 @@
     "path": "assets/f1a960917e3be17066d1ada7fe359340f1cdf56111152706281ad0f947282820.webp",
     "content_type": "image/webp",
     "variant_note": "Browser-served WebP variant. Export PNG URL returned HTTP 429; exact original PNG bytes were not obtained."
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*sWQe_dJFGBWkz31H8qQKng.jpeg",
+    "status": "BROWSER_SERVED_WEBP",
+    "bytes": 36684,
+    "sha256": "f989a719dc0beccd006280c06938fccc752de05e305d97bbb842c9aefa20f8eb",
+    "path": "assets/f989a719dc0beccd006280c06938fccc752de05e305d97bbb842c9aefa20f8eb.webp",
+    "content_type": "image/webp",
+    "article_id": "a8d8da797a43",
+    "retrieved_date": "2026-09-06",
+    "note": "Exact retrieved rendition; not a claim of original upload resolution."
+  },
+  {
+    "url": "https://miro.medium.com/v2/resize:fit:840/1*khfffe8pNxGgos4gdMXRPA.jpeg",
+    "status": "PRESERVED",
+    "bytes": 22941,
+    "sha256": "58147449183a6eb2efff5b9c49fc9e742a23f06e30af0a8d596841f8ff482086",
+    "path": "assets/58147449183a6eb2efff5b9c49fc9e742a23f06e30af0a8d596841f8ff482086.jpg",
+    "content_type": "image/jpeg",
+    "article_id": "a8d8da797a43",
+    "retrieved_date": "2026-09-06",
+    "note": "Exact retrieved rendition; not a claim of original upload resolution."
   }
 ]

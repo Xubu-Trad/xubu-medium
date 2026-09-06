@@ -63,5 +63,23 @@
     "path": "articles/bbf12ce928fe/original.html",
     "path_redactions": 23,
     "published_sha256": "af37b54eb87779e353beaeef8f0f5c383c2b3a37ddc613922b98f2d48c783a88"
+  },
+  {
+    "path": "articles/a8d8da797a43/article.txt",
+    "path_redactions": 0,
+    "published_sha256": "a92f64d8d4b426226ab1c749062ae822ec2162fe2135e6ef8519b54aeecd33de",
+    "note": "Article-body-only capture; site account controls and tracking markup excluded. No research paths found."
+  },
+  {
+    "path": "articles/a8d8da797a43/original.html",
+    "path_redactions": 0,
+    "published_sha256": "c3a48d3b877eedd5d1c9fe567cba854b0f2d4a319e474dd5bccce56e94d62763",
+    "note": "Article-body-only capture; site account controls and tracking markup excluded. No research paths found."
+  },
+  {
+    "path": "articles/a8d8da797a43/offline.html",
+    "path_redactions": 0,
+    "published_sha256": "8ac4d78adcf494906195fdcb3375fd272559881dc38801d40ed373d35ee5f065",
+    "note": "Article-body-only capture; site account controls and tracking markup excluded. No research paths found."
   }
 ]

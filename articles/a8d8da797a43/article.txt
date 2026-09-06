@@ -1,0 +1,1087 @@
+For Those Who Stayed Long Enough to Hear It
+
+For teh Ones Who Never Stopped Looking
+
+love xubu trad
+
+[Image 1: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*sWQe_dJFGBWkz31H8qQKng.jpeg]
+
+zrUfKaKV is solved!!
+
+For those who stayed long enough to hear it
+
+Today is a better day.
+
+The zrUfKaKV riddle is solved.
+
+I have thought about how to write that sentence for a while, 
+because after everything CAW has put this cawmmunity through, 
+simply saying we solved it does not feel like enough.
+
+Some things are found quickly.
+
+Some things make you come back.
+
+Again and again.
+
+They let you walk past them. They let you convince yourself that you understood them. They let other people tell you what they mean.
+
+And then, years later, you return with different eyes and realize the answer was still sitting there.
+
+Waiting to be read properly.
+
+That is what zrUfKaKV feels like to me.
+
+I have been around CAW since 2022. 
+I watched the riddles appear. 
+I watched people hunt them. 
+I watched the cawmmunity split between those who wanted to keep searching and those who wanted to start building.
+
+I watched names become important.
+
+I watched people become authorities because enough of us treated them that way.
+
+I did it too.
+
+There were times I trusted the people explaining CAW more than I trusted my own ability to go back and check the source.
+
+That part is on me.
+
+Eventually I came back to the riddles.
+
+Not because I wanted another theory.
+
+Because after years of stories, I wanted to know what was actually there.
+
+And somewhere along the way, the hunt became very simple for me..
+
+if I cannot reproduce it, I do not call it fact.
+
+Hashes.
+
+Transactions.
+
+Files.
+
+CIDs.
+
+Code.
+
+Raw inputs.
+
+Exact outputs.
+
+Something another person can take from me, rerun without me, and arrive at the same place.
+
+Everything else can wait.
+
+Today, that standard finally gives us something I think the entire cawmmunity deserves to see.
+
+zrUfKaKV contains a complete message.
+
+And this time, we can show every step.
+
+The argument over the manifesto has changed
+
+This is the part I think many people are going to need time to sit with.
+
+For years we have argued over the manifesto.
+
+Was it really meant to be built?
+
+Was it canon?
+
+Was it a distraction?
+
+Did the deployer actually support it?
+
+Did the riddle warn us away from it?
+
+Were the builders right?
+
+Were the hunters right?
+
+I was one of the people who kept returning to that contradiction.
+
+The original riddle warned us about the red herring.
+
+That warning mattered.
+
+I still think it matters.
+
+It is one of the reasons I refused to simply accept that the manifesto was the end of the hunt.
+
+But zrUfKaKV gives us information we did not have before.
+
+The decoded message says:
+
+“The manifesto is very simple. It requires the following”
+
+Then it tells us what to do.
+
+Someone puts up a GitHub.
+
+That person and others contribute according to the manifesto, unless clear changes are agreed.
+
+The work becomes solid.
+
+It is peer reviewed.
+
+It is contributed to by many.
+
+And when there is agreement, it is released.
+
+That is not somebody in Telegram interpreting the manifesto.
+
+It is not a builder saying the deployer told him what to do.
+
+It is not me trying to make one riddle fit another.
+
+It is sitting inside zrUfKaKV.
+
+And when I put that beside the already documented on-chain trail from the CAW deployer to the manifesto and cawdevelopment, I think we can finally say something I was not willing to say before..
+
+the CAW deployer endorsed the manifesto.
+
+Not necessarily every sentence the way every person has interpreted it.
+
+Not every implementation built in its name.
+
+Not every builder who claimed authority from it.
+
+But the manifesto itself?
+
+Yes.
+
+It was part of the intended path.
+
+zrUfKaKV tells the cawmmunity to build according to it.
+
+That matters.
+
+A lot.
+
+And strangely, I do not think it makes the old warning meaningless.
+
+Maybe we were asking the wrong question.
+
+Maybe “beware” was never the same thing as “throw it away.”
+
+Maybe the mistake was treating the manifesto as either everything or nothing.
+
+Maybe it was never supposed to become another object of worship.
+
+It was a specification.
+
+A direction.
+
+Something handed to the cawmmunity to work from.
+
+Not a throne.
+
+And certainly not a crown for whoever decided to build it first.
+
+We spent years looking for the dev
+
+Then zrUfKaKV says something that almost feels like it was written for the last four years of CAW history:
+
+“decentralization is a deeper dive then most realize.”
+
+And then:
+
+“it actually means ‘no devs’”
+
+No hidden hand.
+
+Nobody to wait on.
+
+And if you are sitting around waiting for the devs to do something?
+
+“guess what, you are the dev now.”
+
+There it is.
+
+After all these years of asking..
+
+Who is the dev?
+
+Who is the maker?
+
+Who is authorized?
+
+Who knows the deployer?
+
+Who should we follow?
+
+Who is going to finish this?
+
+zrUfKaKV answers us in the most CAW way possible.
+
+Stop waiting.
+
+There is no chosen developer position waiting to be filled.
+
+“No devs” obviously does not mean nobody writes code. The message immediately tells somebody to create a GitHub and tells others to contribute.
+
+It means the person writing the code does not become the dev in the old centralized sense.
+
+They do not become the person CAW belongs to.
+
+They do not become the final authority.
+
+They do not become the person everyone else has to wait for.
+
+They are a contributor.
+
+Maybe an important one.
+
+Maybe an extraordinary one.
+
+But still a contributor.
+
+Just like the hunter who finds a clue.
+
+Just like the person who reviews the contract.
+
+Just like the person who catches a backdoor.
+
+Just like the person who finds a better way.
+
+The work can matter without the person becoming the center of it.
+
+I wish we had understood that sooner.
+
+The blueprint was simpler than the politics around it
+
+zrUfKaKV gives three steps.
+
+That is basically it.
+
+Put the work on GitHub.
+
+Let others contribute according to the manifesto.
+
+Keep going until there is something solid, peer reviewed, contributed to by many, and agreed on for release.
+
+Think about how different that is from what CAW has often become in practice.
+
+We built circles around personalities.
+
+We waited for announcements.
+
+We argued over who had access to whom.
+
+We treated private conversations like credentials.
+
+We tried to figure out which person was closest to the source.
+
+Meanwhile the message was describing something much less glamorous.
+
+Public work.
+
+Many hands.
+
+Review.
+
+Agreement.
+
+No hero required.
+
+There is something almost beautiful about how ordinary that answer is after everything we put around it.
+
+The authority was never supposed to come from the builder.
+
+It was supposed to come from the work surviving everyone else looking at it.
+
+And then zrUfKaKV removes any room for misunderstanding
+
+The message becomes almost aggressive here.
+
+No dev backdoors.
+
+No proxy.
+
+No multisigs.
+
+And after deployment, the developers who deployed it should not matter more than any other individual member of the cawmmunity.
+
+That sentence may be the most important technical sentence in the entire message.
+
+Because it tells us what the end state is supposed to feel like.
+
+The builder’s honesty should not be the security model.
+
+Their promises should not be the security model.
+
+Their reputation should not be the security model.
+
+Their continued presence should not be the security model.
+
+Build it so that after deployment, it does not matter who they are.
+
+That is different from finding someone we trust.
+
+It is building something that eventually does not need our trust.
+
+I think CAW has been trying to tell us that from the beginning.
+
+And I think we kept trying to put a face where there was supposed to be an empty space.
+
+There was never supposed to be a throne
+
+This is where zrUfKaKV becomes uncomfortable for almost everybody.
+
+It does not only reject developer control.
+
+It rejects the structures that can quietly replace it.
+
+A growth fund.
+
+A DAO.
+
+A support token.
+
+The original message has very little patience for any of them.
+
+And I think the reason is simple.
+
+Humans are very good at rebuilding the thing they just tore down.
+
+Remove the official team and eventually an unofficial team appears.
+
+Remove the leader and eventually somebody becomes the spokesman.
+
+Remove the company and eventually a small circle becomes the group everyone waits on.
+
+Remove the throne and somebody drags in a chair.
+
+Then, a few years later, nobody remembers that the room was supposed to stay empty.
+
+zrUfKaKV does.
+
+It says what we are trying to build has to be bigger than any single human or group.
+
+It has to be truly censorship resistant.
+
+Not because the people in charge are good people.
+
+Because eventually there should be no “people in charge” to appeal to.
+
+That is a much harder thing to build.
+
+It is also a much rarer thing to find.
+
+The opening of the message hits differently now
+
+Before zrUfKaKV talks about developers, GitHub, contracts, backdoors or multisigs, it says something else:
+
+“the lp was relocked.”
+
+And that they would keep doing it until it was clear that it could find its:
+
+“forever home.”
+
+Then:
+
+“we have no financial incentive here.”
+
+And finally:
+
+“the purpose is success of the experiment.”
+
+There is something about those sentences that feels different after four years.
+
+Maybe because so many of us have spent so much time asking what the deployer wanted from us.
+
+Money?
+
+Attention?
+
+A product?
+
+A protocol?
+
+A puzzle?
+
+A social network?
+
+Some grand reveal?
+
+And the answer written here is almost quiet.
+
+The success of the experiment.
+
+That is all.
+
+Give it somewhere it can survive.
+
+Leave enough behind for people to find their way.
+
+Then see what they do when nobody is standing over them.
+
+Maybe that is why CAW has always felt unfinished.
+
+Maybe unfinished was part of the gift.
+
+We kept chasing the king and forgetting the song
+
+The first riddle was full of strange language.
+
+The old King.
+
+The dream.
+
+The tablets.
+
+The forest.
+
+The red herring.
+
+The archivist.
+
+The broken hall of mirrors.
+
+A song.
+
+Something hidden between the melody.
+
+And the idea that only the person meant to hear it would really hear it.
+
+For years we treated those things like puzzle pieces.
+
+They are puzzle pieces.
+
+But after zrUfKaKV, I wonder if there was also something being said about how we were supposed to approach CAW.
+
+Not by standing closest to the loudest person.
+
+Not by inheriting somebody else’s answer.
+
+Not by choosing a hero.
+
+By paying attention.
+
+By going back.
+
+By noticing what other people walked past.
+
+By caring enough about the answer to risk discovering that your own old answer was wrong.
+
+That last part has probably been the hardest one for me.
+
+I spent a long time believing the manifesto might be the red herring itself.
+
+I argued it.
+
+I published it.
+
+I followed the evidence I had.
+
+And now I have better evidence.
+
+So I change with it.
+
+That is what truth is supposed to demand from us.
+
+If tomorrow somebody breaks this zrUfKaKV decode with better evidence, I will change again.
+
+I am not here to protect my old conclusion.
+
+I am here to find the right one.
+
+That has always mattered more.
+
+The builders were not necessarily wrong. The hunters were not wasting their time.
+
+Maybe this discovery lets us put down an argument we never needed to keep having.
+
+The builders who believed the manifesto mattered were right about something important.
+
+It did matter.
+
+zrUfKaKV now tells us that plainly.
+
+But the hunters were right about something too.
+
+We were not finished.
+
+The riddles mattered.
+
+The provenance mattered.
+
+The red herring mattered.
+
+Going back to the source mattered.
+
+If we had simply stopped hunting because somebody told us the manifesto was all we needed, we would not be reading zrUfKaKV today.
+
+The answer was not builders or hunters.
+
+It was always both.
+
+Someone has to find the trail.
+
+Someone has to preserve it.
+
+Someone has to reproduce it.
+
+Someone has to write the code.
+
+Someone has to attack the code.
+
+Someone has to improve it.
+
+Someone has to say no when it is not ready.
+
+And nobody gets to own the process because they performed one of those jobs well.
+
+That may be the most important reconciliation zrUfKaKV gives us.
+
+This does not crown today’s builder either
+
+I want to make this especially clear.
+
+Finding that the manifesto was endorsed does not mean that a current implementation claiming to follow the manifesto becomes official.
+
+Those are two completely different things.
+
+zrUfKaKV does not say:
+
+find one developer and let him build CAW for everybody.
+
+It says almost exactly the opposite.
+
+Public GitHub.
+
+Many contributors.
+
+Peer review.
+
+Agreement before release.
+
+No backdoors.
+
+No proxy.
+
+No multisigs.
+
+And after deployment, the people who deployed it do not matter more than anybody else.
+
+So if anything, zrUfKaKV raises the bar.
+
+Anyone building in the manifesto’s name should welcome that.
+
+Their code should be easier to question now, not harder.
+
+Their claims should be easier to test.
+
+Their authority should matter less.
+
+The closer a build gets to what R2 describes, the less the identity of the builder should matter at all.
+
+That is the test.
+
+Not whether we like them.
+
+Not whether they have been here a long time.
+
+Not whether they have a following.
+
+Not whether somebody says they spoke to “the maker.”
+
+Not whether their frontend looks good.
+
+Not whether they call themselves decentralized.
+
+Can the work stand there after we remove their name from it?
+
+Can strangers review it?
+
+Can strangers reproduce it?
+
+Can the cawmmunity reject it?
+
+Can another person continue it?
+
+Can the system survive if the builder walks away?
+
+If the answer eventually becomes yes, then we may be getting somewhere.
+
+CAW is exactly what it says it is
+
+Near the end, zrUfKaKV gives us this line:
+
+“CAW is exactly what it says it is.”
+
+I have read that sentence more times than I probably should admit.
+
+Because it sounds simple.
+
+But CAW has never felt simple.
+
+Four years of riddles, silence, wallets, hashes, old chats, half-finished builds, arguments, disappearances, theories, personalities, and people trying to decide what the silence meant.
+
+And after all of that:
+
+CAW is exactly what it says it is.
+
+A Hunter’s Dream.
+
+Maybe we made the mistake of assuming the dream was something waiting at the end.
+
+Maybe the hunt itself was part of it.
+
+The learning.
+
+The doubt.
+
+The wrong turns.
+
+The people who left receipts for people they would never meet.
+
+The people who kept old files when everybody else moved on.
+
+The hunters in 2022 who got farther than most people ever realized.
+
+The builders who kept trying.
+
+The people who challenged them.
+
+The people who refused to accept “trust me” as an answer.
+
+The people who disappeared.
+
+The people who came back.
+
+The people who stayed.
+
+All of it.
+
+And now, after all that noise, zrUfKaKV gives us something surprisingly gentle underneath the rough language..
+
+Do not wait for me.
+
+Do not wait for him.
+
+Do not wait for them.
+
+Here is enough.
+
+Build it together.
+
+Make sure nobody owns it.
+
+And when you are finished, make sure the people who built it can walk away without taking it with them.
+
+There are worse things to leave behind.
+
+What we can actually prove
+
+I do not want the meaning of this discovery to outrun the evidence.
+
+We have done enough of that in CAW.
+
+So here is the boundary.
+
+The zrUfKaKV source contains 2,884 hexadecimal characters.
+
+The disclosed permutation rearranges those characters into the complete reordered hex shown below.
+
+Reading that reordered hex as ASCII produces the complete 1,442-byte message.
+
+The inverse transformation returns every original source digit exactly.
+
+The fingerprints match.
+
+The result can be reproduced.
+
+That is what the decode proves.
+
+The decode itself does not identify a real-world human being.
+
+It also does not independently prove every historical statement made inside the decoded message.
+
+Those claims still have to stand on their own evidence.
+
+The reason we can connect this discovery to CAW is the provenance around the riddle and the on-chain trail.
+
+Keep those things separate.
+
+That is how we protect a real finding from becoming another story.
+
+Today I am changing one of my own conclusions
+
+This part is personal.
+
+I spent a lot of time telling the cawmmunity that we needed to go back.
+
+Finish the riddles.
+
+Stop letting other people decide which pieces were relevant.
+
+Stop waiting for heroes.
+
+I believed the unresolved red-herring warning meant we could not honestly call the manifesto canon yet.
+
+I think that was the correct position with the evidence available to me then.
+
+It is not my position today.
+
+Today we have zrUfKaKV solved.
+
+Today the message itself tells us to contribute according to the manifesto.
+
+So today I change my conclusion.
+
+That is not something I am embarrassed about.
+
+It is the whole reason I went back.
+
+If you spend years searching for an answer and finally find one, it would be ridiculous to reject it because it disturbed the theory you formed along the way.
+
+The point was never to be right first.
+
+The point was to get there.
+
+Together, if possible.
+
+To the original hunters
+
+There are people who touched pieces of this trail years before I did.
+
+Some stayed.
+
+Some left.
+
+Some may never read this.
+
+Some probably forgot details that the rest of us only discovered later.
+
+But the work mattered.
+
+The archived conversations mattered.
+
+The old files mattered.
+
+The strange observations that seemed useless mattered.
+
+The questions mattered.
+
+You do not always know which small thing you preserve will become the thing somebody else needs four years later.
+
+That is why the CAW Lab exists the way it does.
+
+Receipts.
+
+Hashes.
+
+Reproduction.
+
+Not because those things are prettier than stories.
+
+Because they survive us.
+
+A good receipt does not care whether the person who made it is still around.
+
+A reproducible result does not need its discoverer standing beside it.
+
+It waits for the next person.
+
+That feels appropriate now.
+
+To the cawmmunity
+
+Maybe we can stop asking somebody else to tell us what CAW is.
+
+Maybe that was always the point.
+
+The manifesto has a place.
+
+The riddles have a place.
+
+The builders have a place.
+
+The hunters have a place.
+
+But nobody gets the whole throne because there was never supposed to be one.
+
+We have another piece now.
+
+A big one.
+
+Do with it what CAW has been asking us to do from the beginning.
+
+Check it.
+
+Challenge it.
+
+Reproduce it.
+
+Break it if you can.
+
+And if it survives, carry it forward.
+
+Not because I told you to.
+
+Because you looked for yourself.
+
+zrUfKaKV COMPLETE PROOF
+
+I could end this here with words.
+
+But CAW has taught me better than that.
+
+So here are the receipts.
+
+The fields below contain the complete original source, the complete reordered hex, and the entire decoded message.
+
+The hex is wrapped at 96 characters only so it can be displayed cleanly. The underlying .hex files contain no added line breaks.
+
+The decoded output preserves the original spelling, capitalization, punctuation, spacing, and line breaks.
+
+1. Original source
+
+2,884 hexadecimal characters:
+
+60732020686075696e2f7d716e6e68257073207e647f25256365252e666924606f2464652c6e60666560776720746465
+656571756e2d70707a6464247f622465296365642e656424746563652d6925606a716e2524696567256920686a227566
+626f6f657527656f622d702424276e68606f6524646f702e296f6d7a757072217575602065626273706e246e227e2c27
+70607f6271696060697864436023636f7c7c67656029232466607820266065647323687d056460696d79636524206164
+247f242970246e67202469637f652e2960202274670364707e24207f60736f2962626025366061687c706c7579746722
+6565246f6f74296472617e60657f70297550207070706064207f77416575702025602078697065786e6079606f61206f
+6070756e6060747978642e256e797562242f20256474676524646e207c647001257260702e6e63687e6772677f616960
+20657062757a60602e7120607f7e60227160652620696f79687f742560646f61797924732c6d667565386e6074216061
+78656577207c2560232575696061706f71097160206d6d2e607d606f6f60627563296e6364206e737e60732020707521
+667478702c2474602071696253277270666421707c6f616562297061606460677564637f23747e647f722d712370692c
+6473646c6f7060602369666060636e2565606f606a6c69657862797c6760656e702420606270616920606d6724752020
+6f7060626f6a64646420206262746e206f232e706361712e63607524742929706c66206f65236c6f2268626c71032670
+29646062636528626c792479696424607075606365646d726e6465220576707e296362717e6e60242365602025796461
+602020706225636420666f606871236a6e276b276069792164247225662163752069637564626e6560246e616323646c
+646e686e206577776f66236c7871657863726e252067252077626568626064786366687279647028706c766f64616465
+227a6267707f6e606f642d6675717572756e746e75607966626f656e6c636260717469667060647d70666d7524606769
+73656074636d7f65657074486f6f7764646f6f7260622321672320795077617e2e602f2565647c6c7069766f28696970
+28757565656e6974766f6a747165286e697060656f60797470747f6e7025206066267c4568693f6f2160706f7e742f60
+66206067652567706129627074602072756420796d706822207f6e64646a6066702163636e2270246f20206363756079
+74622c7421752e62617473606a202464606e22626968272070697120702929692f6222207e60686f2e68656949697029
+6e2065606b6774707120236025606c66707f73247903612174702c216d202f682f692465206164256e75706823697877
+6e737d20606f002070622174636563646e7f216362057960646f226462226e2160636f69236425616f71206167266429
+727c2364746f757f2b7f7e69262e226e69746525246f6f2464696c646e63686564656f646165627e2c63732f6d716222
+276e71757b25602069602065276469740078206e2c79652964616465606e69646e6223762564796362657564796e706e
+6f276f7e6975636224646425657c206e5d606369756c616520280461737560777d606c67616d6c6677706567626f6063
+642500676e666f60607979752c620f65667078616160647061607c692e746f7467612064697060612569656e65006021
+776560652e277070626f7360736c606f6076222264216e6120246f6d737124707760616579642364627060256e256e25
+62707360686a6170206460606c606724606f7065607122706162236f607162662564297079767a7075292d7625692969
+65647071256a7528696960292e707e6064656975706460777472606f6f206c6029726025242420742063286c60606069
+2124687c286479206f61692d7d286f652968242768692125607e627e656464707078626274606f706e6570736e256879
+2a63
+
+2. Rearrangement
+
+Using zero-based indices:
+
+R[j] = C[(320 + 641*j) mod 2884]
+
+The complete reordered hex is:
+
+746865206c70207761732072656c6f636b65642e202077652077696c6c206b65657020646f696e67207468697320756e
+74696c20697420697320636c65617220746861742069742063616e2066696e64206974277320666f726576657220686f
+6d652e202077652068617665206e6f2066696e616e6369616c20696e63656e7469766520686572652e20207468652070
+7572706f73652069732073756363657373206f6620746865206578706572696d656e740a0a646563656e7472616c697a
+6174696f6e2069732061206465657065722064697665207468656e206d6f7374207265616c697a652e20697420616374
+75616c6c79206d65616e7320276e6f20646576732720206e6f2068696464656e2068616e642c206e6f626f647920746f
+2077616974206f6e20746f20646f20746865206e65656465642e2020696620796f7520617265206120706c6562207369
+7474696e672061726f756e642077616974696e6720666f7220746865206465767320746f20646f20736f6d657468696e
+672c20677565737320776861742c20796f75206172652074686520646576206e6f772e20546865206d616e6966657374
+6f20697320766572792073696d706c652e202049742072657175697265732074686520666f6c6c6f77696e670a0a312d
+20736f6d652064657620746f207075742075702061206769746875622e200a322d20746861742064657620616e64206f
+746865727320636f6e7472696275746520746f206974206163636f7264696e6720746f20746865206d616e6966657374
+6f20286f7220696620636c656172206368616e676573207765726520616772656564290a332d206576656e7475616c6c
+7920776520686176652061207468696e67207468617420697320736f6c69642c20706565722072657669657765642c20
+636f6e747269627574656420746f206279206d616e7920616e642069742069732061677265656420746f206265207265
+6c65617365640a0a696620796f75206172652077616974696e67206f6e20736f6d652064657620746f20646f20736f6d
+657468696e672c206d6179626520646f206e6f7420776f7272792061626f75742068696d20616e796d6f726520616e64
+20666f6c6c6f77207468652061626f76650a0a616c736f20746f20626520766572792076657279207665727920766572
+7920636c6561722e205468697320636f646520616e6420636f6e7472616374206e6565647320746f2062652070757420
+75702077697468206e6f20646576206261636b646f6f72732c206e6f2070726f78792c206e6f206d756c746973696773
+202e20496e20666163742c206974206e6565647320746f206265207772697474656e20696e2061207761792074686174
+20616674657220746865206465706c6f792c20746865206465762873292074686174206465706c6f7965642069742064
+6f206e6f74206d6174746572206d6f7265207468616e20616e7920696e646976696475616c20636f6d6d756e69747920
+6d656d6265722e200a0a5468652073636f7065206f6620776861742077652061726520747279696e6720746f20616368
+69657665206e6565647320746f2062652067726561746572207468616e20616e792073696e676c652068756d616e206f
+722067726f757020616e64206265207472756c792063656e736f727368697020726573697374616e742e2020204f6e20
+7468652073616d65206e6f74652c20616e79626f647920747279696e6720746f206275696c642061202767726f777468
+2066756e6422206f72202264616f22206f722022737570706f727420746f6b656e22202062617365642061726f756e64
+20746869732063616e20676f20616e64206469652e20776520646f207468697320666f722074656820636f6d6d756e69
+74792e204341572069732065786163746c79207768617420697420736179732069742069732e0a0a676c20616e6f6e73
+2e20
+
+3. Complete decoded output
+
+Each pair of reordered hex digits is read as one ASCII byte.
+
+This is the complete 1,442-byte result, preserved exactly:
+
+the lp was relocked.  we will keep doing this until it is clear that it can find it's forever home.  we have no financial incentive here.  the purpose is success of the experiment
+decentralization is a deeper dive then most realize. it actually means 'no devs'  no hidden hand, nobody to wait on to do the needed.  if you are a pleb sitting around waiting for the devs to do something, guess what, you are the dev now. The manifesto is very simple.  It requires the following
+1- some dev to put up a github. 
+2- that dev and others contribute to it according to the manifesto (or if clear changes were agreed)
+3- eventually we have a thing that is solid, peer reviewed, contributed to by many and it is agreed to be released
+if you are waiting on some dev to do something, maybe do not worry about him anymore and follow the above
+also to be very very very very clear. This code and contract needs to be put up with no dev backdoors, no proxy, no multisigs . In fact, it needs to be written in a way that after the deploy, the dev(s) that deployed it do not matter more than any individual community member.
+The scope of what we are trying to achieve needs to be greater than any single human or group and be truly censorship resistant.   On the same note, anybody trying to build a 'growth fund" or "dao" or "support token"  based around this can go and die. we do this for teh community. CAW is exactly what it says it is.
+gl anons.
+
+4. Why the transformation holds
+
+Without the rotation, the permutation is:
+
+P[j] = C[(641*j) mod 2884]
+
+That output begins with:
+
+e lp was relocked.
+
+and ends with:
+
+gl anons. th
+
+The final two bytes, th, belong at the beginning.
+
+The direct formula:
+
+R[j] = C[(320 + 641*j) mod 2884]
+
+includes that rotation.
+
+Nothing is inserted.
+
+Nothing is replaced.
+
+Nothing is corrected to make the message readable.
+
+The inverse is:
+
+C[j] = R[(4 + 9*j) mod 2884]
+
+and it returns every source digit exactly.
+
+Because:
+
+9 × 641 = 2 × 2884 + 1
+
+we have:
+
+9 × 641 ≡ 1 (mod 2884)
+
+which is why the permutation can be reversed exactly.
+
+Reversibility by itself would not be enough.
+
+The important part is everything together:
+
+a complete coherent message,
+
+an exact source,
+
+an exact transformation,
+
+an exact inverse,
+
+matching fingerprints,
+
+and a result another person can reproduce without asking me how I “interpreted” it.
+
+5. Fingerprints
+
+Source SHA-256:
+
+18f043170bc47a7d3aa9ee6989fe964803d240c90d62717b7fb7ad16539acd76
+
+Decoded message SHA-256:
+
+2a77d034354b3ee698dd0266f93dfd5627e033cb8f79ec891498b80b7eab0e52
+
+Run decode_r2.py beside 01-source.hex.
+
+It verifies the fingerprints and inverse and produces:
+
+02-reordered.hex
+03-message.txt
+
+Do not take my word for it.
+
+Please don’t.
+
+Run it.
+
+One last thing
+
+There is something fitting about spending years trying to understand something that kept refusing to belong to any one person.
+
+We wanted answers from the deployer.
+
+We wanted answers from admins.
+
+We wanted answers from builders.
+
+We wanted someone to tell us where this was going.
+
+And after all that waiting, the message we finally pull from the noise tells us..
+
+stop waiting for someone.
+
+There is something fitting about that too.
+
+The LP was looking for its forever home.
+
+The protocol was supposed to belong to everyone and no one.
+
+The developer was supposed to become just another member of the cawmmunity.
+
+The work was supposed to survive the person who made it.
+
+The hunters were supposed to leave enough behind for the next hunter to continue.
+
+And the whole thing was called a dream.
+
+Maybe some things are not meant to be possessed.
+
+Maybe they are meant to be carried for a while, protected as best we can, and then handed forward without asking that our name stay attached.
+
+Maybe that is why so many of us are still here.
+
+Not because every year was good.
+
+Not because every story was true.
+
+Not because the chart rewarded us.
+
+Not because the people we trusted always deserved it.
+
+Some of us stayed because underneath all of that noise was still the feeling that there was something here worth understanding properly.
+
+I cannot prove a feeling.
+
+So I won’t try.
+
+I can prove zrUfKaKV.
+
+That is enough for today.
+
+Today is a better day for those in pursuit of truth.
+
+The ZRU riddle is closed.
+
+The manifesto has its answer.
+
+The hunt gave something back.
+
+And after all these years, CAW is still exactly what it says it is.
+
+A Hunter’s Dream.
+
+gl anons.
+
+#CAW
+
+[Image 2: https://miro.medium.com/v2/resize:fit:840/1*khfffe8pNxGgos4gdMXRPA.jpeg]

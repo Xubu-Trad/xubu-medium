@@ -2,7 +2,7 @@
 
 Preserved words. Receipts beside them.
 
-Thirteen Medium articles by XUBU / RΛZ13L, preserved from the author-approved export dated 2026-09-05. Readable text, privacy-screened HTML, offline HTML and 95 image files.
+Fourteen Medium articles by XUBU / RΛZ13L. The first thirteen come from the author-approved September 5 export; the newest comes from its published September 6 page. Readable text, privacy-screened HTML, offline HTML and 97 image files.
 
 **These are historical publications, not a certification of every claim.** For reproducible riddle steps, use [caw-lab](https://github.com/Xubu-Trad/caw-lab). See [verification notes](VERIFICATION.md) before treating a historical conclusion as solved.
 
@@ -12,6 +12,7 @@ Thirteen Medium articles by XUBU / RΛZ13L, preserved from the author-approved e
 
 | Article | Read | Source |
 | --- | --- | --- |
+| For Those Who Stayed Long Enough to Hear It | [Text](articles/a8d8da797a43/article.txt) · [HTML](articles/a8d8da797a43/offline.html) · [Proof files](articles/a8d8da797a43/reproduction/) | [Medium](https://medium.com/@xubutrad/for-those-who-stayed-long-enough-to-hear-it-a8d8da797a43) |
 | Pandora’s Jar | [Text](articles/47677e4ed7cb/article.txt) · [HTML](articles/47677e4ed7cb/offline.html) | [Medium](https://medium.com/@xubutrad/pandoras-jar-47677e4ed7cb) |
 | Pandora’s Urn | [Text](articles/004c932ccd93/article.txt) · [HTML](articles/004c932ccd93/offline.html) | [Medium](https://medium.com/@xubutrad/pandoras-urn-004c932ccd93) |
 | CAW PUBLIC PEER REVIEW | [Text](articles/d783b6da1021/article.txt) · [HTML](articles/d783b6da1021/offline.html) | [Medium](https://medium.com/@xubutrad/caw-public-peer-review-d783b6da1021) |

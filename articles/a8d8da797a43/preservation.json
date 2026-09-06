@@ -1,0 +1,30 @@
+{
+  "id": "a8d8da797a43",
+  "source_url": "https://medium.com/@xubutrad/for-those-who-stayed-long-enough-to-hear-it-a8d8da797a43",
+  "published_time_utc": "2026-09-06T05:57:47.829Z",
+  "captured_date": "2026-09-06",
+  "source_kind": "Published article rendered in browser; not an account export",
+  "article_blocks": 507,
+  "figures": 2,
+  "code_blocks": 14,
+  "author_body_html_sha256": "66b10cfe903ec483ddf579b25e90bb506967c833f39a02e446861f8494fbc7a5",
+  "publication_transformations": [
+    "Only article title through final illustration retained; site navigation, account UI and engagement controls excluded.",
+    "HTML classes, tracking attributes and source/sharedUserId link parameters removed.",
+    "Formatting tags, authored words, code whitespace and line breaks retained; figures preserve the retrieved rendition.",
+    "Offline HTML uses local images. Supplementary reproduction files are separately labelled."
+  ],
+  "source_hex_characters": 2884,
+  "source_hex_sha256": "18f043170bc47a7d3aa9ee6989fe964803d240c90d62717b7fb7ad16539acd76",
+  "reordered_hex_sha256": "72512685cbb52a75a239c64f23dcb0cf9f2c622120a0bb7d8929ac5c459a812d",
+  "decoded_message_bytes": 1442,
+  "decoded_message_sha256": "2a77d034354b3ee698dd0266f93dfd5627e033cb8f79ec891498b80b7eab0e52",
+  "article_displayed_message_bytes": 1434,
+  "article_displayed_message_sha256": "f65cdf78105f7679681a8c95aa07d407e915a3e47786e9b7d128c42628a679f5",
+  "article_displayed_message_byte_exact": false,
+  "article_displayed_message_whitespace_normalized_equal": true,
+  "links": [
+    "https://pastebin.com/raw/zrUfKaKV",
+    "https://github.com/Xubu-Trad/caw-lab"
+  ]
+}
